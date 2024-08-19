@@ -1,0 +1,494 @@
+Food web,CommonName,PATrophicLevel
+Serengeti,Decaying material,1
+Serengeti,Plant juices,1
+Serengeti,Fruits and nectar,1
+Serengeti,Grains and seeds,1
+Serengeti,Grass and herbs,1
+Serengeti,Trees and shrubs,1
+Serengeti,Thripidae,2
+Serengeti,Coleoptera,2.857143
+Serengeti,Hodotermes sp.,2
+Serengeti,Diptera,2
+Serengeti,Gryllidae,2
+Serengeti,Heteroptera,2
+Serengeti,Blattodea,2
+Serengeti,Araneidae,3.513784
+Serengeti,Formicidae,2.333333
+Serengeti,Mantidae,3.378446
+Serengeti,Tettigoniidae,2.571429
+Serengeti,Diplopoda,2
+Serengeti,Chilopoda,3.29568
+Serengeti,Crocidura sp.,3.45071
+Serengeti,Rhabdomys pumilio,2
+Serengeti,Steatomys pratensis,2.619048
+Serengeti,Phrynobatrachus mababiensis,3.45071
+Serengeti,Pipistrellus nanus,3
+Serengeti,Scorpiones,3.504595
+Serengeti,Empidonax wrightii,3.198413
+Serengeti,Apalis flavida,3.240465
+Serengeti,Lygodactylus capensis,3.369424
+Serengeti,Eremomela icteropygialis,3.479624
+Serengeti,Sylvietta whytii,2
+Serengeti,Charadrius tricollaris,3.410132
+Serengeti,Decapoda,2.5
+Serengeti,Micropteropus pusillus,2
+Serengeti,Xenopus muelleri,3.484724
+Serengeti,Perciformes,2
+Serengeti,Anas capensis,2.555556
+Serengeti,Pelomys fallax,3.333327
+Serengeti,Psammophis angolensis,3.882264
+Serengeti,Rhamphiophis oxyrhynchus,3.744202
+Serengeti,Glaucidium perlatum,3.920415
+Serengeti,Pterocles gutturalis,2
+Serengeti,Poecilogale albinucha,3.778938
+Serengeti,Pedetes capensis,2.333333
+Serengeti,Tockus nasutus epirhinus,3.188356
+Serengeti,Francolinus coqui,2.5
+Serengeti,Atelerix albiventris,3.491526
+Serengeti,Tachybaptus ruficollis,3.801168
+Serengeti,Eupodottis senegalensis,3.616
+Serengeti,Heterohyrax brucei,2
+Serengeti,Procavia johnstoni,2
+Serengeti,Asio capensis,4.119842
+Serengeti,Helogale parvula,3.654684
+Serengeti,Pronolagus rupestris,2
+Serengeti,Otolemur crassicaudatus,3.170981
+Serengeti,Otocyon megalotis,3.846012
+Serengeti,Lutra maculicollis,3.25
+Serengeti,Varanus niloticus,3.720079
+Serengeti,Ardeotis kori,3.184712
+Serengeti,Colobus guereza,2.25
+Serengeti,Dendroaspis polylepis,3.788745
+Serengeti,Necrosyrtes monachus,3.773635
+Serengeti,Haliaeetus vocifer,4.163814
+Serengeti,Psammobates pardalis,3.3662
+Serengeti,Leptoptilos crumeniferus,3.81322
+Serengeti,Bucorvus leadbeateri,3.890851
+Serengeti,Gyps africanus,2
+Serengeti,Gyps rueppellii,3.679223
+Serengeti,Canis mesomelas,3.784057
+Serengeti,Madoqua kirkii,2
+Serengeti,Canis aureus,3.682888
+Serengeti,Gazella thomsoni,2
+Serengeti,Gazella granti,2
+Serengeti,Connochaetes taurinus,2
+Serengeti,Equus burchelli,2
+Serengeti,Manis temminckii,3.238095
+Serengeti,Leptailurus serval,3.461858
+Serengeti,Aonyx capensis,3.560904
+Serengeti,Caracal caracal,2.994048
+Serengeti,Papio anubis,2.25
+Serengeti,Hystrix cristata,2
+Serengeti,Ourebia ourebi,2
+Serengeti,Lycaon pictus,3.272475
+Serengeti,Orycteropus afer,3.166667
+Serengeti,Tragelaphus scriptus,2
+Serengeti,Redunca redunca,2
+Serengeti,Aepyceros melampus,2
+Serengeti,Phacochoerus aethiopicus,2.521825
+Serengeti,Potamochoerus porcus,2.695767
+Serengeti,Struthio camelus,2.2
+Serengeti,Damaliscus lunatus,2
+Serengeti,Alcelaphus buselaphus,2
+Serengeti,Kobus ellipsiprymnus,2
+Serengeti,Hyaena hyaena,3.361449
+Serengeti,Crocuta crocuta,3.015542
+Serengeti,Acinonyx jubatus,3.037963
+Serengeti,Panthera pardus,3.528292
+Serengeti,Taurotragus oryx,2
+Serengeti,Panthera leo,3.246238
+Serengeti,Panthera leo J,3.216623
+Serengeti,Panthera leo Y,3.083574
+Serengeti,Syncerus caffer,2
+Serengeti,Giraffa camelopardalis,2
+Serengeti,Crocodylus niloticus,3.42386
+Serengeti,Diceros bicornis,2
+Serengeti,Hippopotamus amphibius,2
+Serengeti,Loxodonta africana,2
+MAZ1a,Champsosaurus natator,4.55157
+MAZ1a,Champsosaurus lindoei,4.512187
+MAZ1a,Fluvionectes sloanae,4.481898
+MAZ1a,Belonostomus longirostris,4.405865
+MAZ1a,Orectolobidae,4.404047
+MAZ1a,Y G. libratus,4.392564
+MAZ1a,Y Daspletosaurus sp.,4.392564
+MAZ1a,Albertochampsa langstoni,4.38682
+MAZ1a,cf Richardoestesia isosceles,4.364468
+MAZ1a,Leidyosuchus canadensis,4.363539
+MAZ1a,cf Stangerochampsa,4.360901
+MAZ1a,cf Cteniogenys sp.,4.335976
+MAZ1a,Lepisosteidae,4.328745
+MAZ1a,Hesperonychus elizabethae,4.299788
+MAZ1a,J Daspletosaurus sp.,4.295815
+MAZ1a,J G. libratus,4.295815
+MAZ1a,cf Richardoestesia gilmorei,4.27277
+MAZ1a,Cryodrakon boreas,4.22638
+MAZ1a,cf Paronychodon,4.222937
+MAZ1a,Amiidae,4.221085
+MAZ1a,Paratarpon apogerontus,4.211373
+MAZ1a,Palaeosaniwa canadensis,4.203851
+MAZ1a,Estesesox foxi,4.159816
+MAZ1a,Oldmanesox canadensis,4.159816
+MAZ1a,Dromaeosaurus albertensis,4.158571
+MAZ1a,Saurornitholestes langstoni,4.158571
+MAZ1a,Diplomystus sp.,4.145437
+MAZ1a,Horseshoeichthys sp.,4.145437
+MAZ1a,cf Pectinodon,4.14504
+MAZ1a,Stenonychosaurus inequalis,4.14504
+MAZ1a,Labrodioctes cf montanensis,4.142036
+MAZ1a,Holostei (other),4.135659
+MAZ1a,Gorgosaurus libratus,4.029256
+MAZ1a,Daspletosaurus sp.,4.029256
+MAZ1a,Opisthotriton kayi,4.027074
+MAZ1a,Axestemys splendida,3.995511
+MAZ1a,Trionychidae gen. sp. Indet,3.995511
+MAZ1a,Didelphodon sp.,3.991634
+MAZ1a,Cretophareodus alberticus,3.975209
+MAZ1a,Parasaniwa n. sp.,3.94731
+MAZ1a,Chelydridae,3.943599
+MAZ1a,Coriops amnicolus,3.943115
+MAZ1a,Neurankylus eximius,3.925313
+MAZ1a,Socognathus unicuspis,3.922477
+MAZ1a,Caenagnathus collinsi,3.909669
+MAZ1a,Chirostenotes pergracilis,3.901371
+MAZ1a,Scapherpeton tectum,3.864576
+MAZ1a,Lisserpeton bairdi,3.864576
+MAZ1a,Citipes elegans,3.849182
+MAZ1a,Leptochamops thrinax,3.835256
+MAZ1a,?Exostinus sp.,3.80221
+MAZ1a,Turgidodon praesagus,3.79827
+MAZ1a,Eodelphis browni,3.773857
+MAZ1a,Eodelphis cutleri,3.759569
+MAZ1a,Judithemys sukhanovi,3.746024
+MAZ1a,Axestemys foveatus,3.720035
+MAZ1a,Axestemys allani,3.720035
+MAZ1a,Apalone latus,3.720035
+MAZ1a,Ornithurine A,3.715875
+MAZ1a,Habrosaurus prodilatus,3.702184
+MAZ1a,Acanthomorpha #1,3.68609
+MAZ1a,Acanthomorpha #2,3.68609
+MAZ1a,Acanthomorpha #3,3.68609
+MAZ1a,Acanthomorpha #4,3.68609
+MAZ1a,Gerontoseps irvinensis,3.662312
+MAZ1a,Myledaphus bipartitus,3.661746
+MAZ1a,Anisoptera,3.629632
+MAZ1a,Odaxosaurus priscus,3.61655
+MAZ1a,Sphenosiagon simplex,3.613109
+MAZ1a,Albanerpeton spp.,3.61309
+MAZ1a,Anchiacipenser acanthaspis,3.556435
+MAZ1a,Hensonbatrachus kermiti,3.552968
+MAZ1a,Anura indet 1,3.552968
+MAZ1a,Hiodontidae,3.540527
+MAZ1a,Characiformes,3.540527
+MAZ1a,Orthrioscincus mixtus,3.511307
+MAZ1a,Pseudoscorpionida,3.489089
+MAZ1a,Tyrrellbatrachus brinkmani,3.461305
+MAZ1a,Araneidae,3.457845
+MAZ1a,Glyptogenys ornata,3.454523
+MAZ1a,Neuroptera,3.23518
+MAZ1a,Paranyctoides sternbergi,3.232344
+MAZ1a,Cimolestidae,3.232344
+MAZ1a,Gypsonictops lewisi,3.157006
+MAZ1a,Alphadon halleyi,3.154088
+MAZ1a,Pediomys spp.,3.154088
+MAZ1a,Paralbula casei,3.096181
+MAZ1a,Notogoneus sp.,3.088889
+MAZ1a,Plesiobaena antiqua,3.019515
+MAZ1a,Boremys pulchra,3.019515
+MAZ1a,Mesodma primaeva,2.92102
+MAZ1a,Palintropus sp. A,2.849512
+MAZ1a,Palintropus sp. B,2.849512
+MAZ1a,Ornithurine G,2.849512
+MAZ1a,Ornithurine B,2.849512
+MAZ1a,Ornithurine C,2.849512
+MAZ1a,Ornithurine E,2.849512
+MAZ1a,Ornithurine F,2.849512
+MAZ1a,Ornithurine D,2.849512
+MAZ1a,Polyodontidae,2.75
+MAZ1a,Formicidae,2.713287
+MAZ1a,Meniscoessus major,2.708477
+MAZ1a,Cimolomys clarki,2.708477
+MAZ1a,Cimolodon sp.,2.708477
+MAZ1a,Cimexomys spp.,2.708477
+MAZ1a,Orthoptera,2.64595
+MAZ1a,Hemiptera (other),2.637613
+MAZ1a,Trichoptera,2.624083
+MAZ1a,Hymenoptera (other),2.610783
+MAZ1a,Stegoceras validum,2.60085
+MAZ1a,Foraminacephale brevis,2.60085
+MAZ1a,Sphaerotholus lyonsi,2.60085
+MAZ1a,Pulmonate snails,2.571429
+MAZ1a,Coleoptera,2.569668
+MAZ1a,Diptera,2.529884
+MAZ1a,Psocodea,2.5
+MAZ1a,Collembola,2.5
+MAZ1a,Blattodea,2.356967
+MAZ1a,Decapoda,2.333333
+MAZ1a,Demospongiae,2.2
+MAZ1a,Viviparidae,2.2
+MAZ1a,J C. apertus,2.2
+MAZ1a,J M. gemini,2.2
+MAZ1a,J C. russelli,2.2
+MAZ1a,Corythosaurus casuarius,2.194444
+MAZ1a,Parasaurolophus walkeri,2.194444
+MAZ1a,Gryposaurus notabilis,2.194444
+MAZ1a,Unionidae,2.125
+MAZ1a,Isoptera,2.125
+MAZ1a,Unescoceratops koppelhusae,2.125
+MAZ1a,Sphaeriidae,2.111111
+MAZ1a,Centrosaurus apertus,2.111111
+MAZ1a,Mercuriceratops gemini,2.111111
+MAZ1a,Chasmosaurus russelli,2.111111
+MAZ1a,Methanogens,2
+MAZ1a,Bacillariophyta,2
+MAZ1a,Lichen,2
+MAZ1a,Fungi,2
+MAZ1a,Branchiopoda,2
+MAZ1a,Hydrobiidae,2
+MAZ1a,Pleuroceridae,2
+MAZ1a,Ostracoda,2
+MAZ1a,Acari,2
+MAZ1a,Lepidoptera,2
+MAZ1a,Diplopoda,2
+MAZ1a,Aphidoidea,2
+MAZ1a,Phasmatodea,2
+MAZ1a,Thysanoptera,2
+MAZ1a,Adocus sp.,2
+MAZ1a,Orodrominae,2
+MAZ1a,J C. casuarius,2
+MAZ1a,J P. walkeri,2
+MAZ1a,J G. notabilis,2
+MAZ1a,Basilemys variolosa,2
+MAZ1a,Ornithomimus edmontonicus,2
+MAZ1a,Struthiomimus altus,2
+MAZ1a,Rativates evadens,2
+MAZ1a,cf Qiupalong,2
+MAZ1a,Large unnamed ornithomimid,2
+MAZ1a,Euoplocephalus tutus,2
+MAZ1a,Dyoplosaurus acutosquameus,2
+MAZ1a,Edmontonia rugosidens,2
+MAZ1a,Detritus,1
+MAZ1a,Decayed wood,1
+MAZ1a,Carrion,1
+MAZ1a,Sulphate-red bacteria,1
+MAZ1a,Enterobacteriaceae,1
+MAZ1a,Iron-oxi bacteria,1
+MAZ1a,Iron-red bacteria,1
+MAZ1a,Vibroid bacteria,1
+MAZ1a,Manganese-red bacteria,1
+MAZ1a,Rods,1
+MAZ1a,Coccibacilli,1
+MAZ1a,Coccoid bacteria,1
+MAZ1a,Curved rod bacteria,1
+MAZ1a,Hydrogen bacteria,1
+MAZ1a,Ammonia-oxi bacteria,1
+MAZ1a,Phosphate-red bacteria,1
+MAZ1a,Sulfur-oxi bacteria,1
+MAZ1a,Gram-positive anaerobes,1
+MAZ1a,Dinoflagellata,1
+MAZ1a,Chlorophyta,1
+MAZ1a,Bryophyta,1
+MAZ1a,Lycopodiopsida,1
+MAZ1a,Equisetum sp.,1
+MAZ1a,Fern leaves,1
+MAZ1a,Cycad leaves,1
+MAZ1a,Conifer leaves,1
+MAZ1a,Ginkgo leaves,1
+MAZ1a,Angiosperm leaves,1
+MAZ1a,Angiosperm shoots & stems,1
+MAZ1a,Angiosperm seeds & fruits,1
+MAZ1a,Aquatic angiosperms,1
+MAZ1a,Rhizomes,1
+MAZ1apack,Detritus,1
+MAZ1apack,Decayed wood,1
+MAZ1apack,Carrion,1
+MAZ1apack,Enterobacteriaceae,1
+MAZ1apack,Iron-oxi bacteria,1
+MAZ1apack,Iron-red bacteria,1
+MAZ1apack,Rods,1
+MAZ1apack,Coccibacilli,1
+MAZ1apack,Coccoid bacteria,1
+MAZ1apack,Curved rod bacteria,1
+MAZ1apack,Phosphate-red bacteria,1
+MAZ1apack,Methanogens,2
+MAZ1apack,Gram-positive anaerobes,1
+MAZ1apack,Bryophyta,1
+MAZ1apack,Lycopodiopsida,1
+MAZ1apack,Equisetum sp.,1
+MAZ1apack,Fern leaves,1
+MAZ1apack,Cycad leaves,1
+MAZ1apack,Conifer leaves,1
+MAZ1apack,Ginkgo leaves,1
+MAZ1apack,Angiosperm leaves,1
+MAZ1apack,Angiosperm shoots & stems,1
+MAZ1apack,Angiosperm seeds & fruits,1
+MAZ1apack,Rhizomes,1
+MAZ1apack,Lichen,2
+MAZ1apack,Fungi,2
+MAZ1apack,Pulmonate snails,2.5
+MAZ1apack,Acari,2
+MAZ1apack,Araneidae,3.474932
+MAZ1apack,Blattodea,2.353169
+MAZ1apack,Psocodea,2.666667
+MAZ1apack,Hemiptera (other),2.668588
+MAZ1apack,Coleoptera,2.53169
+MAZ1apack,Diptera,2.522772
+MAZ1apack,Hymenoptera (other),2.581638
+MAZ1apack,Lepidoptera,2
+MAZ1apack,Pseudoscorpionida,3.503298
+MAZ1apack,Collembola,2.5
+MAZ1apack,Formicidae,2.72032
+MAZ1apack,Diplopoda,2
+MAZ1apack,Anisoptera,3.428001
+MAZ1apack,Orthoptera,2.691318
+MAZ1apack,Aphidoidea,2
+MAZ1apack,Isoptera,2.125
+MAZ1apack,Phasmatodea,2
+MAZ1apack,Thysanoptera,2
+MAZ1apack,Neuroptera,3.214857
+MAZ1apack,Basilemys variolosa,2
+MAZ1apack,Odaxosaurus priscus,3.600908
+MAZ1apack,Orthrioscincus mixtus,3.525853
+MAZ1apack,Leptochamops thrinax,3.708995
+MAZ1apack,Sphenosiagon simplex,3.545871
+MAZ1apack,Gerontoseps irvinensis,3.66524
+MAZ1apack,Socognathus unicuspis,3.875279
+MAZ1apack,Glyptogenys ornata,3.457085
+MAZ1apack,?Exostinus sp.,3.785573
+MAZ1apack,Ornithurine B,2.888446
+MAZ1apack,Ornithurine C,2.888446
+MAZ1apack,Ornithurine E,2.888446
+MAZ1apack,Ornithurine F,2.888446
+MAZ1apack,Mesodma primaeva,2.924476
+MAZ1apack,Cimolodon sp.,2.711136
+MAZ1apack,Cimexomys spp.,2.711136
+MAZ1apack,Alphadon halleyi,3.12927
+MAZ1apack,Turgidodon praesagus,3.691149
+MAZ1apack,Pediomys spp.,3.12927
+MAZ1apack,Gypsonictops lewisi,3.105711
+MAZ1apack,Paranyctoides sternbergi,3.202962
+MAZ1apack,Cimolestidae,3.202962
+MAZ1apack,Labrodioctes cf montanensis,4.069302
+MAZ1apack,Parasaniwa n. sp.,3.886303
+MAZ1apack,Palintropus sp. B,2.888446
+MAZ1apack,Ornithurine D,2.888446
+MAZ1apack,Cimolomys clarki,2.711136
+MAZ1apack,Eodelphis browni,3.687798
+MAZ1apack,Eodelphis cutleri,3.683103
+MAZ1apack,Palaeosaniwa canadensis,3.998804
+MAZ1apack,Hesperonychus elizabethae,4.177328
+MAZ1apack,Palintropus sp. A,2.888446
+MAZ1apack,Ornithurine G,2.888446
+MAZ1apack,Meniscoessus major,2.711136
+MAZ1apack,Didelphodon sp.,3.914577
+MAZ1apack,Cryodrakon boreas,4.071786
+MAZ1apack,Orodrominae,2
+MAZ1apack,Stegoceras validum,2.658615
+MAZ1apack,Foraminacephale brevis,2.658615
+MAZ1apack,Sphaerotholus lyonsi,2.658615
+MAZ1apack,Citipes elegans,3.816406
+MAZ1apack,cf Richardoestesia gilmorei,4.207631
+MAZ1apack,cf Richardoestesia isosceles,4.207631
+MAZ1apack,J C. casuarius,2
+MAZ1apack,J P. walkeri,2
+MAZ1apack,J G. notabilis,2
+MAZ1apack,J C. apertus,2.2
+MAZ1apack,J M. gemini,2.2
+MAZ1apack,J C. russelli,2.2
+MAZ1apack,Y G. libratus,3.94709
+MAZ1apack,Y Daspletosaurus sp.,3.94709
+MAZ1apack,Unescoceratops koppelhusae,2.142857
+MAZ1apack,Ornithomimus edmontonicus,2
+MAZ1apack,Struthiomimus altus,2
+MAZ1apack,Rativates evadens,2
+MAZ1apack,cf Qiupalong,2
+MAZ1apack,Large unnamed ornithomimid,2
+MAZ1apack,Caenagnathus collinsi,3.85488
+MAZ1apack,Chirostenotes pergracilis,3.860474
+MAZ1apack,cf Paronychodon,4.039397
+MAZ1apack,cf Pectinodon,4.0593
+MAZ1apack,Stenonychosaurus inequalis,4.0593
+MAZ1apack,Dromaeosaurus albertensis,4.092424
+MAZ1apack,Saurornitholestes langstoni,4.092424
+MAZ1apack,Euoplocephalus tutus,2
+MAZ1apack,Dyoplosaurus acutosquameus,2
+MAZ1apack,Edmontonia rugosidens,2
+MAZ1apack,Corythosaurus casuarius,2.1
+MAZ1apack,Parasaurolophus walkeri,2.1
+MAZ1apack,Gryposaurus notabilis,2.1
+MAZ1apack,Centrosaurus apertus,2.125
+MAZ1apack,Mercuriceratops gemini,2.125
+MAZ1apack,Chasmosaurus russelli,2.125
+MAZ1apack,Gorgosaurus libratus,3.016176
+MAZ1apack,J G. libratus,3.777729
+MAZ1apack,Daspletosaurus sp.,3.016176
+MAZ1apack,J Daspletosaurus sp.,3.777729
+Komodo,Detritus,1
+Komodo,Carrion,1
+Komodo,Algae,1
+Komodo,Plant juices,1
+Komodo,Grains and seeds,1
+Komodo,Fruits and nectar,1
+Komodo,Grass and herbs,1
+Komodo,Trees and shrubs,1
+Komodo,Roots and tubers,1
+Komodo,Fungi,2
+Komodo,Demospongiae,2.333333
+Komodo,Branchiopoda,2
+Komodo,Medusozoa,3
+Komodo,Asperitas trochus,2.5
+Komodo,Bivalvia,2.333333
+Komodo,Diplopoda,2
+Komodo,Odonata,3.367645
+Komodo,Heteroptera,2
+Komodo,Coleoptera (other),2.631221
+Komodo,Diptera,2.790827
+Komodo,Hymenoptera,2.583823
+Komodo,Lepidoptera,2
+Komodo,Isopoda,2.2
+Komodo,Gastrimargus lumbokensis,2
+Komodo,Stenocatanops exinsula,2
+Komodo,Valanga nigricornis,2
+Komodo,Austracris guttulosa,2
+Komodo,Blattodea,2.2
+Komodo,Isoptera,2
+Komodo,Trox sp.,2
+Komodo,Scarabidae indet,2
+Komodo,Araneidae,3.274886
+Komodo,Brachyura,2.5
+Komodo,Teleostei,2.994936
+Komodo,Anura,3.189893
+Komodo,Gekko gekko,3.214053
+Komodo,Hemidactylus frenatus,3.203838
+Komodo,Hemidactylus platyurus,3.289827
+Komodo,Lepidodactylus intermedius,3.214053
+Komodo,Sphenomorphus florensis,3.245384
+Komodo,Trimeresurus insularis,4.131989
+Komodo,Mus musculus,2.761003
+Komodo,Rattus sp.,2.761003
+Komodo,Komodomys rintjanus,2.761003
+Komodo,Varanus komodoensis Y,3.679838
+Komodo,Coelognathus subradiatus,4.071117
+Komodo,Dendrelaphis pictus,4.226175
+Komodo,Naja naja,4.131989
+Komodo,Daboia siamensis,4.131989
+Komodo,Eretmochelys imbricata,3.332321
+Komodo,Megapodius reinwardt,3.091707
+Komodo,Gallus varius,3.210229
+Komodo,Geopelia maugeus,2
+Komodo,Ducula aenea,2
+Komodo,Corvus macrorhynchos,2.930249
+Komodo,Haliaster indus,3.790714
+Komodo,Hipposideros diadema,3.224161
+Komodo,Pteropus vampyrus,2
+Komodo,Haliaeetus leucogaster,3.782285
+Komodo,Crocidura sp.,3.222302
+Komodo,Macaca fascicularis,2.953423
+Komodo,Paradoxurus musangus,3.429718
+Komodo,?Arctogalidia sp.,3.569176
+Komodo,Sus scrofa,3.194272
+Komodo,Cervus timorensis,2
+Komodo,Bubalis bubalis,2
+Komodo,Varanus komodoensis J,3.940762
+Komodo,Varanus komodoensis S,4.015671
+Komodo,Varanus komodoensis A,3.546933

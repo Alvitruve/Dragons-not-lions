@@ -1,0 +1,748 @@
+resource,consumer
+Detritus,Methanogens
+Phosphate-red bacteria,Lichen
+Detritus,Fungi
+Decayed wood,Fungi
+Detritus,Pulmonate snails
+Bryophyta,Pulmonate snails
+Lichen,Pulmonate snails
+Fungi,Pulmonate snails
+Conifer leaves,Acari
+Angiosperm leaves,Acari
+Angiosperm shoots & stems,Acari
+Rhizomes,Acari
+Blattodea,Araneidae
+Psocodea,Araneidae
+Hemiptera (other),Araneidae
+Coleoptera,Araneidae
+Diptera,Araneidae
+Hymenoptera (other),Araneidae
+Lepidoptera,Araneidae
+Acari,Pseudoscorpionida
+Collembola,Pseudoscorpionida
+Psocodea,Pseudoscorpionida
+Coleoptera,Pseudoscorpionida
+Diptera,Pseudoscorpionida
+Formicidae,Pseudoscorpionida
+Hymenoptera (other),Pseudoscorpionida
+Detritus,Diplopoda
+Decayed wood,Diplopoda
+Detritus,Collembola
+Fungi,Collembola
+Orthoptera,Anisoptera
+Aphidoidea,Anisoptera
+Hemiptera (other),Anisoptera
+Coleoptera,Anisoptera
+Diptera,Anisoptera
+Hymenoptera (other),Anisoptera
+Lepidoptera,Anisoptera
+Detritus,Blattodea
+Decayed wood,Blattodea
+Carrion,Blattodea
+Rods,Blattodea
+Bryophyta,Blattodea
+Angiosperm seeds & fruits,Blattodea
+Rhizomes,Blattodea
+Lichen,Blattodea
+Fungi,Blattodea
+Detritus,Isoptera
+Decayed wood,Isoptera
+Enterobacteriaceae,Isoptera
+Methanogens,Isoptera
+Fern leaves,Isoptera
+Conifer leaves,Isoptera
+Angiosperm leaves,Isoptera
+Angiosperm shoots & stems,Isoptera
+Fern leaves,Phasmatodea
+Conifer leaves,Phasmatodea
+Angiosperm leaves,Phasmatodea
+Angiosperm shoots & stems,Phasmatodea
+Detritus,Orthoptera
+Bryophyta,Orthoptera
+Fern leaves,Orthoptera
+Angiosperm leaves,Orthoptera
+Angiosperm shoots & stems,Orthoptera
+Angiosperm seeds & fruits,Orthoptera
+Lichen,Orthoptera
+Diplopoda,Orthoptera
+Blattodea,Orthoptera
+Isoptera,Orthoptera
+Aphidoidea,Orthoptera
+Hemiptera (other),Orthoptera
+Lepidoptera,Orthoptera
+Decayed wood,Psocodea
+Lichen,Psocodea
+Fungi,Psocodea
+Detritus,Thysanoptera
+Lycopodiopsida,Thysanoptera
+Fern leaves,Thysanoptera
+Cycad leaves,Thysanoptera
+Conifer leaves,Thysanoptera
+Angiosperm leaves,Thysanoptera
+Angiosperm shoots & stems,Thysanoptera
+Rhizomes,Thysanoptera
+Fern leaves,Aphidoidea
+Conifer leaves,Aphidoidea
+Angiosperm leaves,Aphidoidea
+Angiosperm shoots & stems,Aphidoidea
+Carrion,Hemiptera (other)
+Rods,Hemiptera (other)
+Coccibacilli,Hemiptera (other)
+Curved rod bacteria,Hemiptera (other)
+Bryophyta,Hemiptera (other)
+Equisetum sp.,Hemiptera (other)
+Fern leaves,Hemiptera (other)
+Conifer leaves,Hemiptera (other)
+Ginkgo leaves,Hemiptera (other)
+Angiosperm leaves,Hemiptera (other)
+Angiosperm shoots & stems,Hemiptera (other)
+Rhizomes,Hemiptera (other)
+Detritus,Coleoptera
+Decayed wood,Coleoptera
+Carrion,Coleoptera
+Enterobacteriaceae,Coleoptera
+Iron-oxi bacteria,Coleoptera
+Iron-red bacteria,Coleoptera
+Rods,Coleoptera
+Coccibacilli,Coleoptera
+Phosphate-red bacteria,Coleoptera
+Methanogens,Coleoptera
+Gram-positive anaerobes,Coleoptera
+Bryophyta,Coleoptera
+Lycopodiopsida,Coleoptera
+Equisetum sp.,Coleoptera
+Fern leaves,Coleoptera
+Cycad leaves,Coleoptera
+Conifer leaves,Coleoptera
+Ginkgo leaves,Coleoptera
+Angiosperm leaves,Coleoptera
+Angiosperm shoots & stems,Coleoptera
+Angiosperm seeds & fruits,Coleoptera
+Rhizomes,Coleoptera
+Lichen,Coleoptera
+Fungi,Coleoptera
+Pulmonate snails,Coleoptera
+Collembola,Coleoptera
+Blattodea,Coleoptera
+Isoptera,Coleoptera
+Orthoptera,Coleoptera
+Psocodea,Coleoptera
+Thysanoptera,Coleoptera
+Hemiptera (other),Coleoptera
+Diptera,Coleoptera
+Lepidoptera,Coleoptera
+Detritus,Diptera
+Decayed wood,Diptera
+Carrion,Diptera
+Enterobacteriaceae,Diptera
+Rods,Diptera
+Coccibacilli,Diptera
+Coccoid bacteria,Diptera
+Curved rod bacteria,Diptera
+Phosphate-red bacteria,Diptera
+Bryophyta,Diptera
+Equisetum sp.,Diptera
+Fern leaves,Diptera
+Conifer leaves,Diptera
+Ginkgo leaves,Diptera
+Angiosperm leaves,Diptera
+Angiosperm shoots & stems,Diptera
+Angiosperm seeds & fruits,Diptera
+Rhizomes,Diptera
+Fungi,Diptera
+Detritus,Formicidae
+Decayed wood,Formicidae
+Carrion,Formicidae
+Enterobacteriaceae,Formicidae
+Rods,Formicidae
+Coccibacilli,Formicidae
+Fern leaves,Formicidae
+Angiosperm leaves,Formicidae
+Angiosperm shoots & stems,Formicidae
+Angiosperm seeds & fruits,Formicidae
+Rhizomes,Formicidae
+Fungi,Formicidae
+Isoptera,Formicidae
+Detritus,Hymenoptera (other)
+Decayed wood,Hymenoptera (other)
+Carrion,Hymenoptera (other)
+Enterobacteriaceae,Hymenoptera (other)
+Bryophyta,Hymenoptera (other)
+Equisetum sp.,Hymenoptera (other)
+Fern leaves,Hymenoptera (other)
+Conifer leaves,Hymenoptera (other)
+Ginkgo leaves,Hymenoptera (other)
+Angiosperm leaves,Hymenoptera (other)
+Angiosperm shoots & stems,Hymenoptera (other)
+Angiosperm seeds & fruits,Hymenoptera (other)
+Fungi,Hymenoptera (other)
+Collembola,Hymenoptera (other)
+Orthoptera,Hymenoptera (other)
+Psocodea,Hymenoptera (other)
+Coleoptera,Hymenoptera (other)
+Diptera,Hymenoptera (other)
+Formicidae,Hymenoptera (other)
+Lepidoptera,Hymenoptera (other)
+Detritus,Lepidoptera
+Bryophyta,Lepidoptera
+Lycopodiopsida,Lepidoptera
+Equisetum sp.,Lepidoptera
+Fern leaves,Lepidoptera
+Cycad leaves,Lepidoptera
+Conifer leaves,Lepidoptera
+Angiosperm leaves,Lepidoptera
+Angiosperm shoots & stems,Lepidoptera
+Fern leaves,Basilemys variolosa
+Angiosperm leaves,Basilemys variolosa
+Angiosperm shoots & stems,Basilemys variolosa
+Angiosperm seeds & fruits,Basilemys variolosa
+Rhizomes,Basilemys variolosa
+Pulmonate snails,Odaxosaurus priscus
+Acari,Odaxosaurus priscus
+Araneidae,Odaxosaurus priscus
+Pseudoscorpionida,Odaxosaurus priscus
+Diplopoda,Odaxosaurus priscus
+Anisoptera,Odaxosaurus priscus
+Blattodea,Odaxosaurus priscus
+Isoptera,Odaxosaurus priscus
+Phasmatodea,Odaxosaurus priscus
+Orthoptera,Odaxosaurus priscus
+Hemiptera (other),Odaxosaurus priscus
+Coleoptera,Odaxosaurus priscus
+Diptera,Odaxosaurus priscus
+Lepidoptera,Odaxosaurus priscus
+Araneidae,Orthrioscincus mixtus
+Diplopoda,Orthrioscincus mixtus
+Collembola,Orthrioscincus mixtus
+Blattodea,Orthrioscincus mixtus
+Isoptera,Orthrioscincus mixtus
+Orthoptera,Orthrioscincus mixtus
+Psocodea,Orthrioscincus mixtus
+Hemiptera (other),Orthrioscincus mixtus
+Coleoptera,Orthrioscincus mixtus
+Diptera,Orthrioscincus mixtus
+Formicidae,Orthrioscincus mixtus
+Hymenoptera (other),Orthrioscincus mixtus
+Lepidoptera,Orthrioscincus mixtus
+Carrion,Teiidae
+Angiosperm seeds & fruits,Teiidae
+Pulmonate snails,Teiidae
+Araneidae,Teiidae
+Pseudoscorpionida,Teiidae
+Diplopoda,Teiidae
+Anisoptera,Teiidae
+Blattodea,Teiidae
+Isoptera,Teiidae
+Phasmatodea,Teiidae
+Orthoptera,Teiidae
+Hemiptera (other),Teiidae
+Coleoptera,Teiidae
+Diptera,Teiidae
+Formicidae,Teiidae
+Lepidoptera,Teiidae
+Odaxosaurus priscus,Teiidae
+Orthrioscincus mixtus,Teiidae
+?Exostinus sp.,Teiidae
+Araneidae,?Exostinus sp.
+Pseudoscorpionida,?Exostinus sp.
+Diplopoda,?Exostinus sp.
+Anisoptera,?Exostinus sp.
+Blattodea,?Exostinus sp.
+Isoptera,?Exostinus sp.
+Phasmatodea,?Exostinus sp.
+Orthoptera,?Exostinus sp.
+Hemiptera (other),?Exostinus sp.
+Coleoptera,?Exostinus sp.
+Hymenoptera (other),?Exostinus sp.
+Lepidoptera,?Exostinus sp.
+Detritus,Varanoidea
+Carrion,Varanoidea
+Pulmonate snails,Varanoidea
+Araneidae,Varanoidea
+Pseudoscorpionida,Varanoidea
+Diplopoda,Varanoidea
+Collembola,Varanoidea
+Anisoptera,Varanoidea
+Blattodea,Varanoidea
+Isoptera,Varanoidea
+Phasmatodea,Varanoidea
+Orthoptera,Varanoidea
+Hemiptera (other),Varanoidea
+Coleoptera,Varanoidea
+Diptera,Varanoidea
+Formicidae,Varanoidea
+Lepidoptera,Varanoidea
+Odaxosaurus priscus,Varanoidea
+Orthrioscincus mixtus,Varanoidea
+Teiidae,Varanoidea
+?Exostinus sp.,Varanoidea
+Hesperonychus elizabethae,Varanoidea
+Ornithurae (large),Varanoidea
+Ornithurae (small),Varanoidea
+Mesodma primaeva,Varanoidea
+Multituberculata (other),Varanoidea
+Alphadontidae,Varanoidea
+Pediomys spp.,Varanoidea
+Stagodontidae,Varanoidea
+Gypsonictops lewisi,Varanoidea
+Eutheria (other),Varanoidea
+Carrion,Cryodrakon boreas
+Varanoidea,Cryodrakon boreas
+Orodrominae,Cryodrakon boreas
+Pachycephalosauridae,Cryodrakon boreas
+Citipes elegans,Cryodrakon boreas
+cf Richardoestesia spp.,Cryodrakon boreas
+Hesperonychus elizabethae,Cryodrakon boreas
+Ornithurae (large),Cryodrakon boreas
+Stagodontidae,Cryodrakon boreas
+J Lambeosaurinae,Cryodrakon boreas
+J Saurolophinae,Cryodrakon boreas
+J Centrosaurinae,Cryodrakon boreas
+J Chasmosaurinae,Cryodrakon boreas
+Y Tyrannosauridae,Cryodrakon boreas
+Angiosperm shoots & stems,Orodrominae
+Angiosperm seeds & fruits,Orodrominae
+Rhizomes,Orodrominae
+Fern leaves,Pachycephalosauridae
+Ginkgo leaves,Pachycephalosauridae
+Angiosperm leaves,Pachycephalosauridae
+Angiosperm shoots & stems,Pachycephalosauridae
+Angiosperm seeds & fruits,Pachycephalosauridae
+Rhizomes,Pachycephalosauridae
+Diplopoda,Pachycephalosauridae
+Blattodea,Pachycephalosauridae
+Orthoptera,Pachycephalosauridae
+Hemiptera (other),Pachycephalosauridae
+Coleoptera,Pachycephalosauridae
+Decayed wood,Unescoceratops koppelhusae
+Fern leaves,Unescoceratops koppelhusae
+Ginkgo leaves,Unescoceratops koppelhusae
+Angiosperm leaves,Unescoceratops koppelhusae
+Angiosperm shoots & stems,Unescoceratops koppelhusae
+Rhizomes,Unescoceratops koppelhusae
+Fungi,Unescoceratops koppelhusae
+Ginkgo leaves,Ornithomimidae
+Angiosperm leaves,Ornithomimidae
+Angiosperm shoots & stems,Ornithomimidae
+Angiosperm seeds & fruits,Ornithomimidae
+Carrion,Caenagnathus collinsi
+Angiosperm shoots & stems,Caenagnathus collinsi
+Angiosperm seeds & fruits,Caenagnathus collinsi
+Rhizomes,Caenagnathus collinsi
+Odaxosaurus priscus,Caenagnathus collinsi
+Orthrioscincus mixtus,Caenagnathus collinsi
+Teiidae,Caenagnathus collinsi
+?Exostinus sp.,Caenagnathus collinsi
+Mesodma primaeva,Caenagnathus collinsi
+Multituberculata (other),Caenagnathus collinsi
+Alphadontidae,Caenagnathus collinsi
+Pediomys spp.,Caenagnathus collinsi
+Gypsonictops lewisi,Caenagnathus collinsi
+Eutheria (other),Caenagnathus collinsi
+Carrion,Chirostenotes pergracilis
+Angiosperm shoots & stems,Chirostenotes pergracilis
+Angiosperm seeds & fruits,Chirostenotes pergracilis
+Rhizomes,Chirostenotes pergracilis
+Odaxosaurus priscus,Chirostenotes pergracilis
+Orthrioscincus mixtus,Chirostenotes pergracilis
+Teiidae,Chirostenotes pergracilis
+?Exostinus sp.,Chirostenotes pergracilis
+Ornithurae (small),Chirostenotes pergracilis
+Mesodma primaeva,Chirostenotes pergracilis
+Multituberculata (other),Chirostenotes pergracilis
+Alphadontidae,Chirostenotes pergracilis
+Pediomys spp.,Chirostenotes pergracilis
+Gypsonictops lewisi,Chirostenotes pergracilis
+Eutheria (other),Chirostenotes pergracilis
+Carrion,Citipes elegans
+Angiosperm shoots & stems,Citipes elegans
+Angiosperm seeds & fruits,Citipes elegans
+Rhizomes,Citipes elegans
+Odaxosaurus priscus,Citipes elegans
+Orthrioscincus mixtus,Citipes elegans
+Teiidae,Citipes elegans
+?Exostinus sp.,Citipes elegans
+Mesodma primaeva,Citipes elegans
+Multituberculata (other),Citipes elegans
+Alphadontidae,Citipes elegans
+Pediomys spp.,Citipes elegans
+Gypsonictops lewisi,Citipes elegans
+Eutheria (other),Citipes elegans
+Carrion,cf Richardoestesia spp.
+Odaxosaurus priscus,cf Richardoestesia spp.
+Orthrioscincus mixtus,cf Richardoestesia spp.
+Teiidae,cf Richardoestesia spp.
+?Exostinus sp.,cf Richardoestesia spp.
+Hesperonychus elizabethae,cf Richardoestesia spp.
+Ornithurae (large),cf Richardoestesia spp.
+Ornithurae (small),cf Richardoestesia spp.
+Mesodma primaeva,cf Richardoestesia spp.
+Multituberculata (other),cf Richardoestesia spp.
+Alphadontidae,cf Richardoestesia spp.
+Pediomys spp.,cf Richardoestesia spp.
+Stagodontidae,cf Richardoestesia spp.
+Gypsonictops lewisi,cf Richardoestesia spp.
+Eutheria (other),cf Richardoestesia spp.
+Carrion,cf Paronychodon
+Angiosperm seeds & fruits,cf Paronychodon
+Anisoptera,cf Paronychodon
+Orthoptera,cf Paronychodon
+Hemiptera (other),cf Paronychodon
+Coleoptera,cf Paronychodon
+Diptera,cf Paronychodon
+Hymenoptera (other),cf Paronychodon
+Lepidoptera,cf Paronychodon
+Odaxosaurus priscus,cf Paronychodon
+Orthrioscincus mixtus,cf Paronychodon
+Teiidae,cf Paronychodon
+?Exostinus sp.,cf Paronychodon
+Ornithurae (large),cf Paronychodon
+Ornithurae (small),cf Paronychodon
+Mesodma primaeva,cf Paronychodon
+Multituberculata (other),cf Paronychodon
+Alphadontidae,cf Paronychodon
+Pediomys spp.,cf Paronychodon
+Stagodontidae,cf Paronychodon
+Gypsonictops lewisi,cf Paronychodon
+Eutheria (other),cf Paronychodon
+Carrion,Troodontidae
+Angiosperm shoots & stems,Troodontidae
+Angiosperm seeds & fruits,Troodontidae
+Odaxosaurus priscus,Troodontidae
+Orthrioscincus mixtus,Troodontidae
+Teiidae,Troodontidae
+?Exostinus sp.,Troodontidae
+Ornithurae (large),Troodontidae
+Ornithurae (small),Troodontidae
+Mesodma primaeva,Troodontidae
+Multituberculata (other),Troodontidae
+Alphadontidae,Troodontidae
+Pediomys spp.,Troodontidae
+Stagodontidae,Troodontidae
+Gypsonictops lewisi,Troodontidae
+Eutheria (other),Troodontidae
+Carrion,Dromaeosauridae
+Odaxosaurus priscus,Dromaeosauridae
+Orthrioscincus mixtus,Dromaeosauridae
+Teiidae,Dromaeosauridae
+?Exostinus sp.,Dromaeosauridae
+Varanoidea,Dromaeosauridae
+Orodrominae,Dromaeosauridae
+Pachycephalosauridae,Dromaeosauridae
+Unescoceratops koppelhusae,Dromaeosauridae
+Ornithomimidae,Dromaeosauridae
+Caenagnathus collinsi,Dromaeosauridae
+Chirostenotes pergracilis,Dromaeosauridae
+Citipes elegans,Dromaeosauridae
+cf Richardoestesia spp.,Dromaeosauridae
+cf Paronychodon,Dromaeosauridae
+Troodontidae,Dromaeosauridae
+Hesperonychus elizabethae,Dromaeosauridae
+Ornithurae (large),Dromaeosauridae
+Ornithurae (small),Dromaeosauridae
+Mesodma primaeva,Dromaeosauridae
+Multituberculata (other),Dromaeosauridae
+Alphadontidae,Dromaeosauridae
+Pediomys spp.,Dromaeosauridae
+Stagodontidae,Dromaeosauridae
+Gypsonictops lewisi,Dromaeosauridae
+Eutheria (other),Dromaeosauridae
+J Lambeosaurinae,Dromaeosauridae
+J Saurolophinae,Dromaeosauridae
+J Centrosaurinae,Dromaeosauridae
+J Chasmosaurinae,Dromaeosauridae
+Y Tyrannosauridae,Dromaeosauridae
+Carrion,Hesperonychus elizabethae
+Odaxosaurus priscus,Hesperonychus elizabethae
+Orthrioscincus mixtus,Hesperonychus elizabethae
+Teiidae,Hesperonychus elizabethae
+?Exostinus sp.,Hesperonychus elizabethae
+Ornithurae (large),Hesperonychus elizabethae
+Ornithurae (small),Hesperonychus elizabethae
+Mesodma primaeva,Hesperonychus elizabethae
+Multituberculata (other),Hesperonychus elizabethae
+Alphadontidae,Hesperonychus elizabethae
+Pediomys spp.,Hesperonychus elizabethae
+Stagodontidae,Hesperonychus elizabethae
+Gypsonictops lewisi,Hesperonychus elizabethae
+Eutheria (other),Hesperonychus elizabethae
+Detritus,Ornithurae (large)
+Carrion,Ornithurae (large)
+Bryophyta,Ornithurae (large)
+Lycopodiopsida,Ornithurae (large)
+Equisetum sp.,Ornithurae (large)
+Fern leaves,Ornithurae (large)
+Angiosperm shoots & stems,Ornithurae (large)
+Angiosperm seeds & fruits,Ornithurae (large)
+Diplopoda,Ornithurae (large)
+Anisoptera,Ornithurae (large)
+Blattodea,Ornithurae (large)
+Orthoptera,Ornithurae (large)
+Hemiptera (other),Ornithurae (large)
+Coleoptera,Ornithurae (large)
+Diptera,Ornithurae (large)
+Hymenoptera (other),Ornithurae (large)
+Lepidoptera,Ornithurae (large)
+Detritus,Ornithurae (small)
+Carrion,Ornithurae (small)
+Bryophyta,Ornithurae (small)
+Lycopodiopsida,Ornithurae (small)
+Equisetum sp.,Ornithurae (small)
+Fern leaves,Ornithurae (small)
+Angiosperm shoots & stems,Ornithurae (small)
+Angiosperm seeds & fruits,Ornithurae (small)
+Diplopoda,Ornithurae (small)
+Anisoptera,Ornithurae (small)
+Blattodea,Ornithurae (small)
+Orthoptera,Ornithurae (small)
+Hemiptera (other),Ornithurae (small)
+Coleoptera,Ornithurae (small)
+Diptera,Ornithurae (small)
+Hymenoptera (other),Ornithurae (small)
+Lepidoptera,Ornithurae (small)
+Detritus,Mesodma primaeva
+Angiosperm seeds & fruits,Mesodma primaeva
+Rhizomes,Mesodma primaeva
+Diplopoda,Mesodma primaeva
+Blattodea,Mesodma primaeva
+Phasmatodea,Mesodma primaeva
+Orthoptera,Mesodma primaeva
+Hemiptera (other),Mesodma primaeva
+Coleoptera,Mesodma primaeva
+Lepidoptera,Mesodma primaeva
+Detritus,Multituberculata (other)
+Lycopodiopsida,Multituberculata (other)
+Angiosperm leaves,Multituberculata (other)
+Angiosperm shoots & stems,Multituberculata (other)
+Angiosperm seeds & fruits,Multituberculata (other)
+Rhizomes,Multituberculata (other)
+Diplopoda,Multituberculata (other)
+Blattodea,Multituberculata (other)
+Phasmatodea,Multituberculata (other)
+Orthoptera,Multituberculata (other)
+Hemiptera (other),Multituberculata (other)
+Coleoptera,Multituberculata (other)
+Lepidoptera,Multituberculata (other)
+Detritus,Alphadontidae
+Carrion,Alphadontidae
+Angiosperm shoots & stems,Alphadontidae
+Angiosperm seeds & fruits,Alphadontidae
+Araneidae,Alphadontidae
+Pseudoscorpionida,Alphadontidae
+Diplopoda,Alphadontidae
+Blattodea,Alphadontidae
+Isoptera,Alphadontidae
+Phasmatodea,Alphadontidae
+Orthoptera,Alphadontidae
+Aphidoidea,Alphadontidae
+Hemiptera (other),Alphadontidae
+Coleoptera,Alphadontidae
+Formicidae,Alphadontidae
+Lepidoptera,Alphadontidae
+Odaxosaurus priscus,Alphadontidae
+Orthrioscincus mixtus,Alphadontidae
+Teiidae,Alphadontidae
+?Exostinus sp.,Alphadontidae
+Mesodma primaeva,Alphadontidae
+Multituberculata (other),Alphadontidae
+Pediomys spp.,Alphadontidae
+Gypsonictops lewisi,Alphadontidae
+Eutheria (other),Alphadontidae
+Detritus,Pediomys spp.
+Carrion,Pediomys spp.
+Angiosperm shoots & stems,Pediomys spp.
+Angiosperm seeds & fruits,Pediomys spp.
+Araneidae,Pediomys spp.
+Pseudoscorpionida,Pediomys spp.
+Diplopoda,Pediomys spp.
+Blattodea,Pediomys spp.
+Isoptera,Pediomys spp.
+Phasmatodea,Pediomys spp.
+Orthoptera,Pediomys spp.
+Aphidoidea,Pediomys spp.
+Hemiptera (other),Pediomys spp.
+Coleoptera,Pediomys spp.
+Formicidae,Pediomys spp.
+Lepidoptera,Pediomys spp.
+Detritus,Stagodontidae
+Carrion,Stagodontidae
+Angiosperm shoots & stems,Stagodontidae
+Angiosperm seeds & fruits,Stagodontidae
+Rhizomes,Stagodontidae
+Pulmonate snails,Stagodontidae
+Araneidae,Stagodontidae
+Pseudoscorpionida,Stagodontidae
+Diplopoda,Stagodontidae
+Blattodea,Stagodontidae
+Isoptera,Stagodontidae
+Phasmatodea,Stagodontidae
+Orthoptera,Stagodontidae
+Aphidoidea,Stagodontidae
+Hemiptera (other),Stagodontidae
+Coleoptera,Stagodontidae
+Diptera,Stagodontidae
+Formicidae,Stagodontidae
+Hymenoptera (other),Stagodontidae
+Lepidoptera,Stagodontidae
+Odaxosaurus priscus,Stagodontidae
+Orthrioscincus mixtus,Stagodontidae
+Teiidae,Stagodontidae
+?Exostinus sp.,Stagodontidae
+Ornithurae (small),Stagodontidae
+Mesodma primaeva,Stagodontidae
+Multituberculata (other),Stagodontidae
+Alphadontidae,Stagodontidae
+Pediomys spp.,Stagodontidae
+Gypsonictops lewisi,Stagodontidae
+Eutheria (other),Stagodontidae
+Detritus,Gypsonictops lewisi
+Angiosperm seeds & fruits,Gypsonictops lewisi
+Blattodea,Gypsonictops lewisi
+Isoptera,Gypsonictops lewisi
+Orthoptera,Gypsonictops lewisi
+Hemiptera (other),Gypsonictops lewisi
+Coleoptera,Gypsonictops lewisi
+Hymenoptera (other),Gypsonictops lewisi
+Lepidoptera,Gypsonictops lewisi
+Detritus,Eutheria (other)
+Carrion,Eutheria (other)
+Angiosperm seeds & fruits,Eutheria (other)
+Pulmonate snails,Eutheria (other)
+Araneidae,Eutheria (other)
+Diplopoda,Eutheria (other)
+Blattodea,Eutheria (other)
+Phasmatodea,Eutheria (other)
+Orthoptera,Eutheria (other)
+Hemiptera (other),Eutheria (other)
+Coleoptera,Eutheria (other)
+Diptera,Eutheria (other)
+Formicidae,Eutheria (other)
+Hymenoptera (other),Eutheria (other)
+Lepidoptera,Eutheria (other)
+Lycopodiopsida,Euoplocephalus tutus
+Fern leaves,Euoplocephalus tutus
+Angiosperm leaves,Euoplocephalus tutus
+Angiosperm shoots & stems,Euoplocephalus tutus
+Angiosperm seeds & fruits,Euoplocephalus tutus
+Lycopodiopsida,Nodosauridae
+Fern leaves,Nodosauridae
+Cycad leaves,Nodosauridae
+Ginkgo leaves,Nodosauridae
+Angiosperm leaves,Nodosauridae
+Angiosperm shoots & stems,Nodosauridae
+Angiosperm seeds & fruits,Nodosauridae
+Decayed wood,Lambeosaurinae
+Equisetum sp.,Lambeosaurinae
+Fern leaves,Lambeosaurinae
+Cycad leaves,Lambeosaurinae
+Conifer leaves,Lambeosaurinae
+Ginkgo leaves,Lambeosaurinae
+Angiosperm leaves,Lambeosaurinae
+Angiosperm shoots & stems,Lambeosaurinae
+Angiosperm seeds & fruits,Lambeosaurinae
+Fungi,Lambeosaurinae
+Angiosperm shoots & stems,J Lambeosaurinae
+Angiosperm seeds & fruits,J Lambeosaurinae
+Decayed wood,Saurolophinae
+Equisetum sp.,Saurolophinae
+Fern leaves,Saurolophinae
+Cycad leaves,Saurolophinae
+Conifer leaves,Saurolophinae
+Ginkgo leaves,Saurolophinae
+Angiosperm leaves,Saurolophinae
+Angiosperm shoots & stems,Saurolophinae
+Angiosperm seeds & fruits,Saurolophinae
+Fungi,Saurolophinae
+Angiosperm shoots & stems,J Saurolophinae
+Angiosperm seeds & fruits,J Saurolophinae
+Decayed wood,Centrosaurinae
+Fern leaves,Centrosaurinae
+Ginkgo leaves,Centrosaurinae
+Angiosperm leaves,Centrosaurinae
+Angiosperm shoots & stems,Centrosaurinae
+Angiosperm seeds & fruits,Centrosaurinae
+Rhizomes,Centrosaurinae
+Fungi,Centrosaurinae
+Fern leaves,J Centrosaurinae
+Angiosperm shoots & stems,J Centrosaurinae
+Angiosperm seeds & fruits,J Centrosaurinae
+Rhizomes,J Centrosaurinae
+Fungi,J Centrosaurinae
+Decayed wood,Chasmosaurinae
+Fern leaves,Chasmosaurinae
+Ginkgo leaves,Chasmosaurinae
+Angiosperm leaves,Chasmosaurinae
+Angiosperm shoots & stems,Chasmosaurinae
+Angiosperm seeds & fruits,Chasmosaurinae
+Rhizomes,Chasmosaurinae
+Fungi,Chasmosaurinae
+Fern leaves,J Chasmosaurinae
+Angiosperm shoots & stems,J Chasmosaurinae
+Angiosperm seeds & fruits,J Chasmosaurinae
+Rhizomes,J Chasmosaurinae
+Fungi,J Chasmosaurinae
+Carrion,Tyrannosauridae
+Basilemys variolosa,Tyrannosauridae
+Euoplocephalus tutus,Tyrannosauridae
+Nodosauridae,Tyrannosauridae
+Lambeosaurinae,Tyrannosauridae
+J Lambeosaurinae,Tyrannosauridae
+Saurolophinae,Tyrannosauridae
+J Saurolophinae,Tyrannosauridae
+Centrosaurinae,Tyrannosauridae
+J Centrosaurinae,Tyrannosauridae
+Chasmosaurinae,Tyrannosauridae
+J Chasmosaurinae,Tyrannosauridae
+Carrion,J Tyrannosauridae
+Varanoidea,J Tyrannosauridae
+Orodrominae,J Tyrannosauridae
+Pachycephalosauridae,J Tyrannosauridae
+Unescoceratops koppelhusae,J Tyrannosauridae
+Ornithomimidae,J Tyrannosauridae
+Caenagnathus collinsi,J Tyrannosauridae
+Chirostenotes pergracilis,J Tyrannosauridae
+Citipes elegans,J Tyrannosauridae
+cf Richardoestesia spp.,J Tyrannosauridae
+cf Paronychodon,J Tyrannosauridae
+Troodontidae,J Tyrannosauridae
+Dromaeosauridae,J Tyrannosauridae
+Hesperonychus elizabethae,J Tyrannosauridae
+Ornithurae (large),J Tyrannosauridae
+Euoplocephalus tutus,J Tyrannosauridae
+Nodosauridae,J Tyrannosauridae
+Lambeosaurinae,J Tyrannosauridae
+J Lambeosaurinae,J Tyrannosauridae
+Saurolophinae,J Tyrannosauridae
+J Saurolophinae,J Tyrannosauridae
+Centrosaurinae,J Tyrannosauridae
+J Centrosaurinae,J Tyrannosauridae
+Chasmosaurinae,J Tyrannosauridae
+J Chasmosaurinae,J Tyrannosauridae
+Carrion,Y Tyrannosauridae
+Odaxosaurus priscus,Y Tyrannosauridae
+Orthrioscincus mixtus,Y Tyrannosauridae
+Teiidae,Y Tyrannosauridae
+?Exostinus sp.,Y Tyrannosauridae
+Varanoidea,Y Tyrannosauridae
+Orodrominae,Y Tyrannosauridae
+Citipes elegans,Y Tyrannosauridae
+cf Richardoestesia spp.,Y Tyrannosauridae
+Hesperonychus elizabethae,Y Tyrannosauridae
+Ornithurae (large),Y Tyrannosauridae
+Mesodma primaeva,Y Tyrannosauridae
+Multituberculata (other),Y Tyrannosauridae
+Alphadontidae,Y Tyrannosauridae
+Pediomys spp.,Y Tyrannosauridae
+Stagodontidae,Y Tyrannosauridae
+Gypsonictops lewisi,Y Tyrannosauridae
+Eutheria (other),Y Tyrannosauridae
+Euoplocephalus tutus,Y Tyrannosauridae
+Nodosauridae,Y Tyrannosauridae
+Lambeosaurinae,Y Tyrannosauridae
+J Lambeosaurinae,Y Tyrannosauridae
+Saurolophinae,Y Tyrannosauridae
+J Saurolophinae,Y Tyrannosauridae
+Centrosaurinae,Y Tyrannosauridae
+J Centrosaurinae,Y Tyrannosauridae
+Chasmosaurinae,Y Tyrannosauridae
+J Chasmosaurinae,Y Tyrannosauridae

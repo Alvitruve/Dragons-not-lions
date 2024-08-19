@@ -1,0 +1,59 @@
+node,name,ID,Higher-level.taxon,Resolved.to,Trophic.role,Habitat,M
+Detritus,Detritus,1,NA,NA,organics,NA,NA
+Carrion,Carrion,2,NA,NA,organics,NA,NA
+Algae,Algae,3,Plantae,NA,autotroph,Aquatic,NA
+Plant juices,Plant juices,4,Plantae,NA,organics,Terrestrial,NA
+Grains and seeds,Grains and seeds,5,Plantae,NA,organics,Terrestrial,NA
+Fruits and nectar,Fruits and nectar,6,Plantae,NA,organics,Terrestrial,NA
+Grass and herbs,Grass and herbs,7,Plantae,NA,autotroph,Terrestrial,NA
+Trees and shrubs,Trees and shrubs,8,Plantae,NA,autotroph,Terrestrial,NA
+Roots and tubers,Roots and tubers,9,Plantae,NA,autotroph,Terrestrial,NA
+Fungi,Fungi,10,Myceteae,kingdom,saprobe,Terrestrial,NA
+Demospongiae,Sponges,11,Demospongiae,class,omnivore,Aquatic,NA
+Medusozoa,Jellyfish,12,Medusozoa,subphylum,carnivore,Aquatic,NA
+Asperitas trochus,Land snails,13,Gastropoda,species,omnivore,Terrestrial,NA
+Bivalvia,Marine clam,14,Bivalvia,class,omnivore,Aquatic,NA
+Branchiopoda,Zooplankton,15,Crustacea,class,omnivore,Aquatic,NA
+Diplopoda,Millipedes,16,Myriapoda,class,detritivore,Terrestrial,0.00075
+Odonata,Dragonflies,17,Insecta,order,invertivore,Terrestrial,NA
+Orthoptera,Crickets,18,Insecta,order,herbivore,Terrestrial,NA
+Blattodea,Cockroaches,22,Insecta,order,detritivore,Terrestrial,0.005
+Isoptera,Termites,23,Insecta,infraorder,detritivore,Terrestrial,NA
+Heteroptera,True bugs,24,Insecta,suborder,herbivore,Terrestrial,0.00094
+Coleoptera,Beetles,27,Insecta,order,omnivore,Terrestrial,0.0019
+Diptera,Flies,28,Insecta,order,omnivore,Terrestrial,0.00016517
+Hymenoptera,Hymenopterans,29,Insecta,order,omnivore,Terrestrial,NA
+Lepidoptera,Butterflies,30,Insecta,order,herbivore,Terrestrial,NA
+Araneidae,Spiders,31,Arachnida,family,invertivore,Terrestrial,NA
+Brachyura,Crabs,32,Crustacea,infraorder,invertivore,Both/amphibious,NA
+Isopoda,Woodlice,33,Crustacea,order,omnivore,Both/amphibious,NA
+Teleostei,Fishes,34,Osteichthyes,division,carnivore,Aquatic,NA
+Anura,Frogs,35,Amphibia,order,omnivore,Aquatic,NA
+Gekko gekko,Tokay gecko,36,Lacertilia,species,invertivore,Terrestrial,0.054
+Hemidactylus spp.,House geckos,37,Lacertilia,species,omnivore,Terrestrial,0.0033
+Sphenomorphus melanopogon,Lesser Sunda dark-throated skink,40,Lacertilia,species,invertivore,Terrestrial,NA
+Coelognathus subradiatus,Indonesian ratsnake,42,Ophidia,species,carnivore,Terrestrial,0.015
+Dendrelaphis pictus,Common bronzeback,43,Ophidia,species,carnivore,Terrestrial,1.13
+Daboia siamensis,Siamese Russell’s viper,45,Ophidia,species,carnivore,Terrestrial,1.306
+Eretmochelys imbricata,Hawksbill sea turtle,46,Testudines,species,omnivore,Aquatic,67
+Megapodius reinwardt,Orange-footed scrubfowl,47,Aves,species,omnivore,Terrestrial,0.6964
+Gallus varius,Green junglefowl,48,Aves,species,omnivore,Terrestrial,0.683
+Doves,Doves,49,Aves,species,herbivore,Terrestrial,NA
+Corvus macrorhynchos,Large-billed crow,51,Aves,species,omnivore,Terrestrial,0.545
+Haliastur indus,Brahminy kite,52,Aves,species,carnivore,Terrestrial,NA
+Icthyophaga leucogaster,White-bellied sea eagle,53,Aves,species,carnivore,Terrestrial,2.7515
+Crocidura sp.,Shrew,54,Mammalia,genus,invertivore,Terrestrial,0.01
+Hipposideros diadema,Diadem roundleaf bat,55,Mammalia,species,invertivore,Terrestrial,0.05
+Pteropus vampyrus,Large flying-fox,56,Mammalia,species,herbivore,Terrestrial,1.027
+Mus musculus,House mouse,57,Mammalia,species,omnivore,Terrestrial,0.0215
+Rats,Rats,58,Mammalia,genus,omnivore,Terrestrial,0.2
+Macaca fascicularis,Crab-eating macaque,60,Mammalia,species,omnivore,Terrestrial,4.569
+Paradoxurus musangus,Southeast Asian palm civet,61,Mammalia,species,omnivore,Terrestrial,3.1
+?Arctogalidia sp.,Small-toothed palm civet,62,Mammalia,species,omnivore,Terrestrial,2.5
+Sus scrofa,Wild boar,63,Mammalia,species,omnivore,Terrestrial,50
+Cervus timorensis,Rusa sambar deer,64,Mammalia,species,herbivore,Terrestrial,70
+Bubalis bubalis,Water buffalo,65,Mammalia,species,herbivore,Terrestrial,400
+Varanus komodoensis Y,Komodo dragon (young juvenile),66,Lacertilia,species,carnivore,Terrestrial,1
+Varanus komodoensis J,Komodo dragon (juvenile),67,Lacertilia,species,carnivore,Terrestrial,10
+Varanus komodoensis S,Komodo dragon (subadult),68,Lacertilia,species,carnivore,Terrestrial,25
+Varanus komodoensis A,Komodo dragon (adult),69,Lacertilia,species,carnivore,Terrestrial,80

@@ -1,0 +1,130 @@
+Fauna,Species,Name,Group,Ont.stage,M.kg,Rank M
+Serengeti National Park,Loxodonta africana,African elephant,H mammal,Adult,3940,1
+Serengeti National Park,Hippopotamus amphibius,Hippopotamus,H mammal,Adult,1536.31,2
+Serengeti National Park,Diceros bicornis,Black rhinoceros,H mammal,Adult,1180.51,3
+Serengeti National Park,Giraffa camelopardalis,Maasai giraffe,H mammal,Adult,964.65,4
+Serengeti National Park,Syncerus caffer,Cape buffalo,H mammal,Adult,592.67,5
+Serengeti National Park,Taurotragus oryx,Common eland,H mammal,Adult,570,6
+Serengeti National Park,Equus burchelli,Burchell’s zebra,H mammal,Adult,400,7
+Serengeti National Park,Hippotragus equinus,Roan antelope,H mammal,Adult,264.174,8
+Serengeti National Park,Kobus ellipsiprymnus,Waterbuck,H mammal,Adult,210,9
+Serengeti National Park,Connochaetes taurinus,Brindled gnu (common wildebeest),H mammal,Adult,180,10
+Serengeti National Park,Panthera leo,Lion,C mammal,Adult,161.5,11
+Serengeti National Park,Alcelaphus buselaphus,Kongoni,H mammal,Adult,160.94,12
+Serengeti National Park,Struthio camelus,Ostrich,O plant dinosaur,Adult,145,13
+Serengeti National Park,Damaliscus lunatus,Topi,H mammal,Adult,127.19,14
+Serengeti National Park,Potamochoerus porcus,Bushpig,O mammal,Adult,97.5,15
+Serengeti National Park,Tragelaphus imberbis,Lesser kudu,H mammal,Adult,94.32,16
+Serengeti National Park,Phacochoerus africanus,Common warthog,O mammal,Adult,82.5,17
+Serengeti National Park,Panthera leo J,Lion (juvenile),C mammal,Juvenile,66,18
+Serengeti National Park,Crocuta crocuta,Spotted hyena,C mammal,Adult,63.37,19
+Serengeti National Park,Redunca redunca,Bohor reedbuck,H mammal,Adult,58.06,20
+Serengeti National Park,Orycteropus afer,Aardvark,C inv mammal,Adult,56.175,21
+Serengeti National Park,Panthera pardus,Leopard,C mammal,Adult,55,22
+Serengeti National Park,Gazella granti,Grant’s gazelle,H mammal,Adult,55,23
+Serengeti National Park,Aepyceros melampus,Impala,H mammal,Adult,52.59,24
+Serengeti National Park,Acinonyx jubatus,Cheetah,C mammal,Adult,50.58,25
+Serengeti National Park,Tragelaphus scriptus,Bushbuck,H mammal,Adult,43.25,26
+Serengeti National Park,Hyaena hyaena,Striped hyena,C mammal,Adult,35.07,27
+Serengeti National Park,Panthera leo Y,Lion (young juvenile),C mammal,Juvenile,33,28
+Serengeti National Park,Varanus niloticus,Nile monitor lizard,C lizard,Adult,22.4,29
+Serengeti National Park,Lycaon pictus,African wild dog,C mammal,Adult,22,30
+Serengeti National Park,Gazella thomsoni,Thomson’s gazelle,H mammal,Adult,20.5,31
+Serengeti National Park,Aonyx capensis,African clawless otter,C mammal,Adult,19.322,32
+Serengeti National Park,Psammobates pardalis,Leopard tortoise,H turtle,Adult,18,33
+Serengeti National Park,Papio anubis,Olive baboon,O mammal,Adult,17.73,34
+Serengeti National Park,Ourebia ourebi,Oribi,H mammal,Adult,17.186,35
+Serengeti National Park,Sylvicapra grimmia,Gray duiker,H mammal,Adult,15.639,36
+Serengeti National Park,Hystrix cristata,Crested porcupine,H mammal,Adult,14.9,37
+Serengeti National Park,Oreotragus oreotragus,Klipspringer,H mammal,Adult,13.487,38
+Serengeti National Park,Civettictis civetta,African civet,O mammal,Adult,12.076,39
+Serengeti National Park,Leptailurus serval,Serval cat,C mammal,Adult,12,40
+Serengeti National Park,Caracal caracal,Caracal,C mammal,Adult,11.964,41
+Serengeti National Park,Smutsia temminckii,Ground pangolin,C inv mammal,Adult,11.9,42
+Serengeti National Park,Raphicerus campestris,Steenbok,H mammal,Adult,11.662,43
+Serengeti National Park,Canis adustus,Side-striped jackal,O meat mammal,Adult,10.392,44
+Serengeti National Park,Colobus guereza,Black-and-white colobus,O plant mammal,Adult,9.925,45
+Serengeti National Park,Canis aureus,Golden jackal,O meat mammal,Adult,9.658,46
+Serengeti National Park,Mellivora capensis,Honey badger,C mammal,Adult,9,47
+Serengeti National Park,Canis mesomelas,Black-backed jackal,O meat mammal,Adult,8.427,48
+Serengeti National Park,Proteles cristatus,Aardwolf,C inv mammal,Adult,8.139,49
+Serengeti National Park,Lutra maculicollis,Spot-necked otter,C mammal,Adult,6.5,50
+Serengeti National Park,Madoqua kirkii,Kirk’s dikdik,H mammal,Adult,5.3,51
+Serengeti National Park,Chlorocebus pygerythrus,Vervet monkey,H mammal,Adult,5.3,52
+Serengeti National Park,Cercopithecus mitis albogularis,Sykes’ monkey,O mammal,Adult,5.041,53
+Serengeti National Park,Felis silvestris lybica,East African wild cat,C mammal,Adult,4.573,54
+Serengeti National Park,Otocyon megalotis,Bat-eared fox,C mammal,Adult,4.098,55
+Serengeti National Park,Pedetes capensis,Springhare,O plant mammal,Adult,4,56
+Serengeti National Park,Ichneumia albicauda,White-tailed mongoose,C inv mammal,Adult,3.628,57
+Serengeti National Park,Atilax paludinosus,Marsh mongoose,O meat mammal,Adult,3.6,58
+Serengeti National Park,Herpestes ichneumon,Ichneumon mongoose,C mammal,Adult,2.98,59
+Serengeti National Park,Procavia johnstoni,Rock hyrax,H mammal,Adult,2.95,60
+Serengeti National Park,Heterohyrax brucei,Bush hyrax,H mammal,Adult,2.45,61
+Serengeti National Park,Pronolagus rupestris,Smith’s red rock hare,H mammal,Adult,2.25,62
+Serengeti National Park,Nandinia binotata,Tree civet,O mammal,Adult,2.167,63
+Serengeti National Park,Genetta maculata,Blotched genet,O meat mammal,Adult,1.95,64
+Serengeti National Park,Lepus saxatilis victoriae,Savanna hare,H mammal,Adult,1.764,65
+Serengeti National Park,Genetta genetta,Common genet,O meat mammal,Adult,1.756,66
+Serengeti National Park,Mungos mungo,Banded mongoose,C inv mammal,Adult,1.26,67
+Komodo National Park,Bubalis bubalis,Water buffalo,H mammal,Adult,400,1
+Komodo National Park,Varanus komodoensis A,Komodo dragon (adult),C lizard,Adult,80,2
+Komodo National Park,Cervus timorensis,Rusa sambar deer,H mammal,Adult,70,3
+Komodo National Park,Sus scrofa,Wild boar,O mammal,Adult,50,4
+Komodo National Park,Varanus komodoensis S,Komodo dragon (subadult),C lizard,Juvenile,25,5
+Komodo National Park,Varanus komodoensis J,Komodo dragon (juvenile),C lizard,Juvenile,10,6
+Komodo National Park,Macaca fascicularis,Crab-eating macaque,O mammal,Adult,4.569,7
+Komodo National Park,Paradoxurus musangus,Southeast Asian palm civet,O mammal,Adult,3.1,8
+Komodo National Park,?Arctogalidia sp.,Small-toothed palm civet,O mammal,Adult,2.5,9
+Komodo National Park,Pteropus vampyrus,Large flying-fox,H mammal,Adult,1.027,10
+Komodo National Park,Varanus komodoensis Y,Komodo dragon (young juvenile),C lizard,Juvenile,1,11
+Dinosaur Park Fm MAZ-1b,Gryposaurus notabilis,Gryposaurus notabilis,H dinosaur,Adult,4717.051,1
+Dinosaur Park Fm MAZ-1b,Lambeosaurus clavinitialis,Lambeosaurus clavinitialis,H dinosaur,Adult,4442.3925,2
+Dinosaur Park Fm MAZ-1b,Parasaurolophus walkeri,Parasaurolophus walkeri,H dinosaur,Adult,3785.365,3
+Dinosaur Park Fm MAZ-1b,Corythosaurus intermedius,Corythosaurus intermedius,H dinosaur,Adult,3515.045,4
+Dinosaur Park Fm MAZ-1b,Lambeosaurus lambei,Lambeosaurus lambei,H dinosaur,Adult,3299.6792,5
+Dinosaur Park Fm MAZ-1b,Edmontonia rugosidens,Edmontonia rugosidens,H dinosaur,Adult,3180.67,6
+Dinosaur Park Fm MAZ-1b,Chasmosaurus belli,Chasmosaurus belli,H dinosaur,Adult,2863.418,7
+Dinosaur Park Fm MAZ-1b,Daspletosaurus sp.,Daspletosaurus sp.,C dinosaur,Adult,2744.971,8
+Dinosaur Park Fm MAZ-1b,Gorgosaurus libratus,Gorgosaurus libratus,C dinosaur,Adult,2513.39,9
+Dinosaur Park Fm MAZ-1b,Chasmosaurus russelli,Chasmosaurus russelli,H dinosaur,Adult,2213.03,10
+Dinosaur Park Fm MAZ-1b,Centrosaurus apertus,Centrosaurus apertus,H dinosaur,Adult,2125.548,11
+Dinosaur Park Fm MAZ-1b,Euoplocephalus tutus,Euoplocephalus tutus,H dinosaur,Adult,1617.9,12
+Dinosaur Park Fm MAZ-1b,Panoplosaurus mirus,Panoplosaurus mirus,H dinosaur,Adult,1486.424,13
+Dinosaur Park Fm MAZ-1b,J Daspletosaurus sp.,Daspletosaurus sp. (juvenile),C dinosaur,Juvenile,423.33,14
+Dinosaur Park Fm MAZ-1b,Large unnamed ornithomimid,Large unnamed ornithomimid,H dinosaur,Adult,370,15
+Dinosaur Park Fm MAZ-1b,J G. libratus,G. libratus (juvenile),C dinosaur,Juvenile,335,16
+Dinosaur Park Fm MAZ-1b,Cryodrakon boreas,Cryodrakon boreas,C pterosaur,Adult,250,17
+Dinosaur Park Fm MAZ-1b,Basilemys variolosa,Basilemys variolosa,H turtle,Adult,190,18
+Dinosaur Park Fm MAZ-1b,Ornithomimus edmontonicus,Ornithomimus edmontonicus,H dinosaur,Adult,178.508,19
+Dinosaur Park Fm MAZ-1b,Struthiomimus altus,Struthiomimus altus,H dinosaur,Adult,178.508,19
+Dinosaur Park Fm MAZ-1b,J C. apertus,C. apertus (juvenile),H dinosaur,Juvenile,160,21
+Dinosaur Park Fm MAZ-1b,J C. belli,C. belli (juvenile),H dinosaur,Juvenile,160,21
+Dinosaur Park Fm MAZ-1b,J C. russelli,C. russelli (juvenile),H dinosaur,Juvenile,160,21
+Dinosaur Park Fm MAZ-1b,cf Qiupalong,cf Qiupalong,H dinosaur,Adult,131,24
+Dinosaur Park Fm MAZ-1b,Unescoceratops koppelhusae,Unescoceratops koppelhusae,H dinosaur,Adult,130,25
+Dinosaur Park Fm MAZ-1b,Rativates evadens,Rativates evadens,H dinosaur,Adult,120.26,26
+Dinosaur Park Fm MAZ-1b,J C. intermedius,C. intermedius (juvenile),H dinosaur,Juvenile,120,27
+Dinosaur Park Fm MAZ-1b,J P. walkeri,P. walkeri (juvenile),H dinosaur,Juvenile,120,27
+Dinosaur Park Fm MAZ-1b,J L. clavinitialis,L. clavinitialis (juvenile),H dinosaur,Juvenile,120,27
+Dinosaur Park Fm MAZ-1b,J L. lambei,L. lambei (juvenile),H dinosaur,Juvenile,120,27
+Dinosaur Park Fm MAZ-1b,J G. notabilis,G. notabilis (juvenile),H dinosaur,Juvenile,120,27
+Dinosaur Park Fm MAZ-1b,Caenagnathus collinsi,Caenagnathus collinsi,O plant dinosaur,Adult,96,32
+Dinosaur Park Fm MAZ-1b,Chirostenotes pergracilis,Chirostenotes pergracilis,O plant dinosaur,Adult,63.872,33
+Dinosaur Park Fm MAZ-1b,Stenonychosaurus inequalis,Stenonychosaurus inequalis,O dinosaur,Adult,57.447,34
+Dinosaur Park Fm MAZ-1b,cf Pectinodon,cf Pectinodon,O dinosaur,Adult,47.3759,35
+Dinosaur Park Fm MAZ-1b,cf Paronychodon,cf Paronychodon,O dinosaur,Adult,45,36
+Dinosaur Park Fm MAZ-1b,Y G. libratus,G. libratus (young juvenile),C dinosaur,Juvenile,34.79,37
+Dinosaur Park Fm MAZ-1b,Y Daspletosaurus sp.,Daspletosaurus sp. (young juvenile),C dinosaur,Juvenile,30.13,38
+Dinosaur Park Fm MAZ-1b,Stegoceras validum,Stegoceras validum,O plant dinosaur,Adult,25.13456,39
+Dinosaur Park Fm MAZ-1b,Saurornitholestes langstoni,Saurornitholestes langstoni,C dinosaur,Adult,21.789,40
+Dinosaur Park Fm MAZ-1b,Citipes elegans,Citipes elegans,O plant dinosaur,Adult,19.8,41
+Dinosaur Park Fm MAZ-1b,Dromaeosaurus albertensis,Dromaeosaurus albertensis,C dinosaur,Adult,15.06,42
+Dinosaur Park Fm MAZ-1b,Orodrominae,Orodrominae,H dinosaur,Adult,13,43
+Dinosaur Park Fm MAZ-1b,Foraminacephale brevis,Foraminacephale brevis,O plant dinosaur,Adult,13,43
+Dinosaur Park Fm MAZ-1b,Sphaerotholus lyonsi,Sphaerotholus lyonsi,O plant dinosaur,Adult,13,43
+Dinosaur Park Fm MAZ-1b,cf Richardoestesia gilmorei,cf Richardoestesia gilmorei,C dinosaur,Adult,10.3284,46
+Dinosaur Park Fm MAZ-1b,Richardoestesia isosceles,Richardoestesia isosceles,C dinosaur,Adult,10.1954,47
+Dinosaur Park Fm MAZ-1b,Palaeosaniwa canadensis,Palaeosaniwa canadensis,C lizard,Adult,6,48
+Dinosaur Park Fm MAZ-1b,Hesperonychus elizabethae,Hesperonychus elizabethae,C dinosaur,Adult,2.33,49
+Dinosaur Park Fm MAZ-1b,Didelphodon sp.,Didelphodon sp.,O mammal,Adult,1.636,50
+Dinosaur Park Fm MAZ-1b,Meniscoessus major,Meniscoessus major,O mammal,Adult,1.42,51

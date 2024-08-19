@@ -1,0 +1,107 @@
+node,1,2,3,4,5,6,7,8,9,10,11,12
+Decaying material,0,0,0,0,0,0,0,0,0,0,0,0
+Plant juices,0,0,0,0,0,0,0,0,0,0,0,0
+Fruits and nectar,0,0,0,0,0,0,0,0,0,0,0,0
+Grains and seeds,0,0,0,0,0,0,0,0,0,0,0,0
+Grass and herbs,0,0,0,0,0,0,0,0,0,0,0,0
+Trees and shrubs,0,0,0,0,0,0,0,0,0,0,0,0
+Thripidae,3708,0,0,0,0,0,0,0,0,0,0,0
+Coleoptera,1849,22188,0,0,0,0,0,0,0,0,0,0
+Araneidae,0,6420,21714,0,0,0,0,0,0,0,0,0
+Formicidae,4568,4568,0,0,0,0,0,0,0,0,0,0
+Hodotermes sp.,9772,0,0,0,0,0,0,0,0,0,0,0
+Diptera,10424,0,0,0,0,0,0,0,0,0,0,0
+Gryllidae,17880,0,0,0,0,0,0,0,0,0,0,0
+Heteroptera,4964,0,0,0,0,0,0,0,0,0,0,0
+Tettigoniidae,930,2790,0,0,0,0,0,0,0,0,0,0
+Mantidae,0,7490,648,1512,0,0,0,0,0,0,0,0
+Chilopoda,0,80,100,170,105,0,0,0,0,0,0,0
+Blattodea,2023,0,0,0,0,0,0,0,0,0,0,0
+Phrynobatrachus mababiensis,0,2838,5160,5418,0,0,0,0,0,0,0,0
+Diplopoda,1088,0,0,0,0,0,0,0,0,0,0,0
+Crocidura sp.,0,200,400,420,0,0,0,0,0,0,0,0
+Pipistrellus nanus,0,2,0,0,0,0,0,0,0,0,0,0
+Scorpiones,0,15,30,105,0,0,0,0,0,0,0,0
+Empidonax wrightii,0,26,28,0,0,0,0,0,0,0,0,0
+Apalis flavida,324,2430,6156,4698,3402,0,0,0,0,0,0,0
+Eremomela icteropygialis,216,1836,7668,10044,9180,2268,0,0,0,0,0,0
+Sylvietta whytii,104,0,0,0,0,0,0,0,0,0,0,0
+Charadrius tricollaris,0,77,140,147,0,0,0,0,0,0,0,0
+Micropteropus pusillus,1,0,0,0,0,0,0,0,0,0,0,0
+Rhabdomys pumilio,322,0,0,0,0,0,0,0,0,0,0,0
+Steatomys pratensis,820,1640,2296,0,0,0,0,0,0,0,0,0
+Xenopus muelleri,22,198,836,902,462,0,0,0,0,0,0,0
+Anas capensis,255,680,170,0,0,0,0,0,0,0,0,0
+Lygodactylus capensis,0,3231,2872,7539,0,0,0,0,0,0,0,0
+Decapoda,30,60,0,0,0,0,0,0,0,0,0,0
+Pelomys fallax,2,24,72,82,68,42,0,0,0,0,0,0
+Perciformes,99,0,0,0,0,0,0,0,0,0,0,0
+Psammophis angolensis,0,470,2358,6807,9336,8259,3743,546,0,0,0,0
+Glaucidium perlatum,0,28,160,373,615,663,490,233,42,0,0,0
+Pterocles gutturalis,1,0,0,0,0,0,0,0,0,0,0,0
+Poecilogale albinucha,0,14,50,125,122,106,21,0,0,0,0,0
+Pedetes capensis,4,8,0,0,0,0,0,0,0,0,0,0
+Tockus nasutus epirhinus,6,32,96,86,42,0,0,0,0,0,0,0
+Francolinus coqui,1,2,0,0,0,0,0,0,0,0,0,0
+Rhamphiophis oxyrhynchus,0,1034,3594,7989,9913,7376,2772,441,0,0,0,0
+Atelerix albiventris,3,36,114,165,63,0,0,0,0,0,0,0
+Tachybaptus ruficollis,0,45,219,480,843,864,747,381,63,0,0,0
+Eupodottis senegalensis,20,170,890,2050,4100,5360,4690,2330,420,0,0,0
+Heterohyrax brucei,16,0,0,0,0,0,0,0,0,0,0,0
+Procavia johnstoni,14,0,0,0,0,0,0,0,0,0,0,0
+Asio capensis,0,30,284,968,2080,3402,4061,3551,2124,676,84,0
+Helogale parvula,1,36,157,408,752,1022,1026,702,275,42,0,0
+Necrosyrtes monachus,0,26,107,357,703,1110,1220,959,466,84,0,0
+Pronolagus rupestris,32,0,0,0,0,0,0,0,0,0,0,0
+Haliaeetus vocifer,0,14,118,353,602,661,490,233,42,0,0,0
+Otolemur crassicaudatus,9,57,168,285,342,255,63,0,0,0,0,0
+Leptoptilos crumeniferus,0,21,89,236,451,557,469,233,42,0,0,0
+Bucorvus leadbeateri,0,22,116,294,525,698,684,490,233,42,0,0
+Otocyon megalotis,0,46,212,700,1484,2104,2052,1404,550,84,0,0
+Lutra maculicollis,0,12,12,0,0,0,0,0,0,0,0,0
+Psammobates pardalis,12,60,258,396,498,126,0,0,0,0,0,0
+Gyps africanus,1,0,0,0,0,0,0,0,0,0,0,0
+Gyps rueppellii,0,15,55,115,135,85,21,0,0,0,0,0
+Varanus niloticus,0,21,71,134,239,288,249,127,21,0,0,0
+Ardeotis kori,5,0,45,40,105,0,0,0,0,0,0,0
+Colobus guereza,18,12,0,0,0,0,0,0,0,0,0,0
+Canis mesomelas,1,36,160,521,987,1373,1314,951,402,63,0,0
+Canis aureus,1,45,160,521,987,1373,1314,951,402,63,0,0
+Smutsia temminckii,0,11,12,14,0,0,0,0,0,0,0,0
+Leptailurus serval,1,22,56,173,403,677,785,596,254,42,0,0
+Aonyx capensis,1,17,58,163,171,125,21,0,0,0,0,0
+Caracal caracal,1,19,14,14,0,0,0,0,0,0,0,0
+Papio anubis,12,16,0,0,0,0,0,0,0,0,0,0
+Madoqua kirkii,40,0,0,0,0,0,0,0,0,0,0,0
+Hystrix cristata,10,0,0,0,0,0,0,0,0,0,0,0
+Ourebia ourebi,24,0,0,0,0,0,0,0,0,0,0,0
+Gazella thomsoni,24,0,0,0,0,0,0,0,0,0,0,0
+Lycaon pictus,1,62,87,250,359,516,557,469,233,42,0,0
+Dendroaspis polylepis,0,90,390,1065,1782,1989,1470,699,126,0,0,0
+Hyaena hyaena,1,26,72,156,391,776,1073,1026,702,275,42,0
+Crocuta crocuta,3,116,148,156,168,64,0,0,0,0,0,0
+Orycteropus afer,0,4,2,0,0,0,0,0,0,0,0,0
+Acinonyx jubatus,1,33,24,36,32,0,0,0,0,0,0,0
+Panthera pardus,1,80,280,841,2048,3583,4763,4587,3221,1333,210,0
+Tragelaphus scriptus,24,0,0,0,0,0,0,0,0,0,0,0
+Redunca redunca,36,0,0,0,0,0,0,0,0,0,0,0
+Gazella granti,36,0,0,0,0,0,0,0,0,0,0,0
+Aepyceros melampus,36,0,0,0,0,0,0,0,0,0,0,0
+Phacochoerus africanus,55,110,198,176,0,0,0,0,0,0,0,0
+Potamochoerus larvatus,33,110,198,176,0,0,0,0,0,0,0,0
+Struthio camelus,28,28,0,0,0,0,0,0,0,0,0,0
+Panthera leo,1,46,108,162,148,136,64,0,0,0,0,0
+Panthera leo J,1,45,63,100,92,68,32,0,0,0,0,0
+Panthera leo Y,3,133,110,128,132,32,0,0,0,0,0,0
+Damaliscus lunatus,22,0,0,0,0,0,0,0,0,0,0,0
+Alcelaphus buselaphus,22,0,0,0,0,0,0,0,0,0,0,0
+Connochaetes taurinus,26,0,0,0,0,0,0,0,0,0,0,0
+Kobus ellipsiprymnus,33,0,0,0,0,0,0,0,0,0,0,0
+Equus burchelli,24,0,0,0,0,0,0,0,0,0,0,0
+Syncerus caffer,10,0,0,0,0,0,0,0,0,0,0,0
+Taurotragus oryx,24,0,0,0,0,0,0,0,0,0,0,0
+Crocodylus niloticus,0,26,118,396,1099,2333,3793,4805,4587,3221,1333,210
+Giraffa camelopardalis,5,0,0,0,0,0,0,0,0,0,0,0
+Diceros bicornis,2,0,0,0,0,0,0,0,0,0,0,0
+Hippopotamus amphibius,1,0,0,0,0,0,0,0,0,0,0,0
+Loxodonta africana,2,0,0,0,0,0,0,0,0,0,0,0

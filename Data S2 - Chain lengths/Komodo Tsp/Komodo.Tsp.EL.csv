@@ -1,0 +1,366 @@
+resource,consumer
+Detritus,Fungi
+Detritus,Demospongiae
+Algae,Demospongiae
+Branchiopoda,Demospongiae
+Branchiopoda,Medusozoa
+Detritus,Asperitas trochus
+Fungi,Asperitas trochus
+Detritus,Bivalvia
+Algae,Bivalvia
+Branchiopoda,Bivalvia
+Detritus,Branchiopoda
+Algae,Branchiopoda
+Detritus,Diplopoda
+Orthoptera,Odonata
+Heteroptera,Odonata
+Coleoptera,Odonata
+Diptera,Odonata
+Hymenoptera,Odonata
+Lepidoptera,Odonata
+Isopoda,Odonata
+Detritus,Orthoptera
+Plant juices,Orthoptera
+Grass and herbs,Orthoptera
+Trees and shrubs,Orthoptera
+Detritus,Blattodea
+Carrion,Blattodea
+Trees and shrubs,Blattodea
+Roots and tubers,Blattodea
+Fungi,Blattodea
+Detritus,Isoptera
+Grass and herbs,Isoptera
+Detritus,Heteroptera
+Carrion,Heteroptera
+Plant juices,Heteroptera
+Fruits and nectar,Heteroptera
+Grass and herbs,Heteroptera
+Trees and shrubs,Heteroptera
+Roots and tubers,Heteroptera
+Detritus,Coleoptera
+Carrion,Coleoptera
+Fruits and nectar,Coleoptera
+Grass and herbs,Coleoptera
+Trees and shrubs,Coleoptera
+Roots and tubers,Coleoptera
+Fungi,Coleoptera
+Branchiopoda,Coleoptera
+Blattodea,Coleoptera
+Heteroptera,Coleoptera
+Diptera,Coleoptera
+Detritus,Diptera
+Fruits and nectar,Diptera
+Grass and herbs,Diptera
+Trees and shrubs,Diptera
+Roots and tubers,Diptera
+Fungi,Diptera
+Detritus,Hymenoptera
+Carrion,Hymenoptera
+Fruits and nectar,Hymenoptera
+Grass and herbs,Hymenoptera
+Trees and shrubs,Hymenoptera
+Roots and tubers,Hymenoptera
+Fungi,Hymenoptera
+Coleoptera,Hymenoptera
+Diptera,Hymenoptera
+Lepidoptera,Hymenoptera
+Fruits and nectar,Lepidoptera
+Odonata,Araneidae
+Orthoptera,Araneidae
+Blattodea,Araneidae
+Heteroptera,Araneidae
+Coleoptera,Araneidae
+Diptera,Araneidae
+Hymenoptera,Araneidae
+Lepidoptera,Araneidae
+Detritus,Brachyura
+Diplopoda,Brachyura
+Detritus,Isopoda
+Carrion,Isopoda
+Algae,Isopoda
+Trees and shrubs,Isopoda
+Fungi,Isopoda
+Detritus,Teleostei
+Demospongiae,Teleostei
+Branchiopoda,Teleostei
+Heteroptera,Teleostei
+Coleoptera,Teleostei
+Carrion,Anura
+Algae,Anura
+Odonata,Anura
+Orthoptera,Anura
+Blattodea,Anura
+Coleoptera,Anura
+Diptera,Anura
+Hymenoptera,Anura
+Lepidoptera,Anura
+Araneidae,Anura
+Odonata,Gekko gekko
+Orthoptera,Gekko gekko
+Blattodea,Gekko gekko
+Isoptera,Gekko gekko
+Heteroptera,Gekko gekko
+Coleoptera,Gekko gekko
+Hymenoptera,Gekko gekko
+Lepidoptera,Gekko gekko
+Fruits and nectar,Hemidactylus spp.
+Odonata,Hemidactylus spp.
+Orthoptera,Hemidactylus spp.
+Blattodea,Hemidactylus spp.
+Isoptera,Hemidactylus spp.
+Heteroptera,Hemidactylus spp.
+Coleoptera,Hemidactylus spp.
+Hymenoptera,Hemidactylus spp.
+Lepidoptera,Hemidactylus spp.
+Araneidae,Hemidactylus spp.
+Diplopoda,Sphenomorphus melanopogon
+Orthoptera,Sphenomorphus melanopogon
+Blattodea,Sphenomorphus melanopogon
+Isoptera,Sphenomorphus melanopogon
+Heteroptera,Sphenomorphus melanopogon
+Coleoptera,Sphenomorphus melanopogon
+Diptera,Sphenomorphus melanopogon
+Hymenoptera,Sphenomorphus melanopogon
+Araneidae,Sphenomorphus melanopogon
+Isopoda,Sphenomorphus melanopogon
+Anura,Coelognathus subradiatus
+Gekko gekko,Coelognathus subradiatus
+Hemidactylus spp.,Coelognathus subradiatus
+Sphenomorphus melanopogon,Coelognathus subradiatus
+Mus musculus,Coelognathus subradiatus
+Rats,Coelognathus subradiatus
+Anura,Dendrelaphis pictus
+Gekko gekko,Dendrelaphis pictus
+Hemidactylus spp.,Dendrelaphis pictus
+Sphenomorphus melanopogon,Dendrelaphis pictus
+Anura,Daboia siamensis
+Gekko gekko,Daboia siamensis
+Hemidactylus spp.,Daboia siamensis
+Sphenomorphus melanopogon,Daboia siamensis
+Mus musculus,Daboia siamensis
+Rats,Daboia siamensis
+Varanus komodoensis Y,Daboia siamensis
+Algae,Eretmochelys imbricata
+Demospongiae,Eretmochelys imbricata
+Medusozoa,Eretmochelys imbricata
+Bivalvia,Eretmochelys imbricata
+Teleostei,Eretmochelys imbricata
+Grains and seeds,Megapodius reinwardt
+Fruits and nectar,Megapodius reinwardt
+Trees and shrubs,Megapodius reinwardt
+Roots and tubers,Megapodius reinwardt
+Asperitas trochus,Megapodius reinwardt
+Diplopoda,Megapodius reinwardt
+Odonata,Megapodius reinwardt
+Orthoptera,Megapodius reinwardt
+Blattodea,Megapodius reinwardt
+Heteroptera,Megapodius reinwardt
+Coleoptera,Megapodius reinwardt
+Brachyura,Megapodius reinwardt
+Isopoda,Megapodius reinwardt
+Anura,Megapodius reinwardt
+Sphenomorphus melanopogon,Megapodius reinwardt
+Fruits and nectar,Gallus varius
+Trees and shrubs,Gallus varius
+Roots and tubers,Gallus varius
+Diplopoda,Gallus varius
+Orthoptera,Gallus varius
+Blattodea,Gallus varius
+Heteroptera,Gallus varius
+Coleoptera,Gallus varius
+Isopoda,Gallus varius
+Sphenomorphus melanopogon,Gallus varius
+Coelognathus subradiatus,Gallus varius
+Dendrelaphis pictus,Gallus varius
+Grains and seeds,Doves
+Fruits and nectar,Doves
+Carrion,Corvus macrorhynchos
+Grains and seeds,Corvus macrorhynchos
+Fruits and nectar,Corvus macrorhynchos
+Trees and shrubs,Corvus macrorhynchos
+Roots and tubers,Corvus macrorhynchos
+Asperitas trochus,Corvus macrorhynchos
+Diplopoda,Corvus macrorhynchos
+Blattodea,Corvus macrorhynchos
+Coleoptera,Corvus macrorhynchos
+Isopoda,Corvus macrorhynchos
+Doves,Corvus macrorhynchos
+Mus musculus,Corvus macrorhynchos
+Rats,Corvus macrorhynchos
+Carrion,Haliastur indus
+Orthoptera,Haliastur indus
+Isoptera,Haliastur indus
+Brachyura,Haliastur indus
+Teleostei,Haliastur indus
+Anura,Haliastur indus
+Gekko gekko,Haliastur indus
+Hemidactylus spp.,Haliastur indus
+Sphenomorphus melanopogon,Haliastur indus
+Coelognathus subradiatus,Haliastur indus
+Dendrelaphis pictus,Haliastur indus
+Hipposideros diadema,Haliastur indus
+Pteropus vampyrus,Haliastur indus
+Mus musculus,Haliastur indus
+Varanus komodoensis Y,Haliastur indus
+Carrion,Icthyophaga leucogaster
+Brachyura,Icthyophaga leucogaster
+Teleostei,Icthyophaga leucogaster
+Sphenomorphus melanopogon,Icthyophaga leucogaster
+Coelognathus subradiatus,Icthyophaga leucogaster
+Dendrelaphis pictus,Icthyophaga leucogaster
+Doves,Icthyophaga leucogaster
+Corvus macrorhynchos,Icthyophaga leucogaster
+Pteropus vampyrus,Icthyophaga leucogaster
+Rats,Icthyophaga leucogaster
+Varanus komodoensis Y,Icthyophaga leucogaster
+Diplopoda,Crocidura sp.
+Orthoptera,Crocidura sp.
+Blattodea,Crocidura sp.
+Heteroptera,Crocidura sp.
+Coleoptera,Crocidura sp.
+Hymenoptera,Crocidura sp.
+Araneidae,Crocidura sp.
+Isopoda,Crocidura sp.
+Orthoptera,Hipposideros diadema
+Blattodea,Hipposideros diadema
+Heteroptera,Hipposideros diadema
+Coleoptera,Hipposideros diadema
+Hymenoptera,Hipposideros diadema
+Lepidoptera,Hipposideros diadema
+Araneidae,Hipposideros diadema
+Fruits and nectar,Pteropus vampyrus
+Detritus,Mus musculus
+Grains and seeds,Mus musculus
+Fruits and nectar,Mus musculus
+Grass and herbs,Mus musculus
+Trees and shrubs,Mus musculus
+Orthoptera,Mus musculus
+Blattodea,Mus musculus
+Isoptera,Mus musculus
+Coleoptera,Mus musculus
+Hymenoptera,Mus musculus
+Detritus,Rats
+Grains and seeds,Rats
+Fruits and nectar,Rats
+Grass and herbs,Rats
+Trees and shrubs,Rats
+Orthoptera,Rats
+Blattodea,Rats
+Isoptera,Rats
+Coleoptera,Rats
+Hymenoptera,Rats
+Fruits and nectar,Macaca fascicularis
+Grass and herbs,Macaca fascicularis
+Trees and shrubs,Macaca fascicularis
+Fungi,Macaca fascicularis
+Diplopoda,Macaca fascicularis
+Orthoptera,Macaca fascicularis
+Blattodea,Macaca fascicularis
+Isoptera,Macaca fascicularis
+Heteroptera,Macaca fascicularis
+Coleoptera,Macaca fascicularis
+Hymenoptera,Macaca fascicularis
+Lepidoptera,Macaca fascicularis
+Brachyura,Macaca fascicularis
+Isopoda,Macaca fascicularis
+Plant juices,Paradoxurus musangus
+Grains and seeds,Paradoxurus musangus
+Fruits and nectar,Paradoxurus musangus
+Asperitas trochus,Paradoxurus musangus
+Orthoptera,Paradoxurus musangus
+Blattodea,Paradoxurus musangus
+Coleoptera,Paradoxurus musangus
+Isopoda,Paradoxurus musangus
+Gekko gekko,Paradoxurus musangus
+Hemidactylus spp.,Paradoxurus musangus
+Sphenomorphus melanopogon,Paradoxurus musangus
+Crocidura sp.,Paradoxurus musangus
+Mus musculus,Paradoxurus musangus
+Rats,Paradoxurus musangus
+Varanus komodoensis Y,Paradoxurus musangus
+Fruits and nectar,?Arctogalidia sp.
+Orthoptera,?Arctogalidia sp.
+Blattodea,?Arctogalidia sp.
+Coleoptera,?Arctogalidia sp.
+Isopoda,?Arctogalidia sp.
+Gekko gekko,?Arctogalidia sp.
+Hemidactylus spp.,?Arctogalidia sp.
+Sphenomorphus melanopogon,?Arctogalidia sp.
+Crocidura sp.,?Arctogalidia sp.
+Mus musculus,?Arctogalidia sp.
+Rats,?Arctogalidia sp.
+Varanus komodoensis Y,?Arctogalidia sp.
+Carrion,Sus scrofa
+Fruits and nectar,Sus scrofa
+Grass and herbs,Sus scrofa
+Roots and tubers,Sus scrofa
+Fungi,Sus scrofa
+Orthoptera,Sus scrofa
+Coleoptera,Sus scrofa
+Brachyura,Sus scrofa
+Coelognathus subradiatus,Sus scrofa
+Dendrelaphis pictus,Sus scrofa
+Varanus komodoensis Y,Sus scrofa
+Fruits and nectar,Cervus timorensis
+Grass and herbs,Cervus timorensis
+Trees and shrubs,Cervus timorensis
+Grass and herbs,Bubalis bubalis
+Trees and shrubs,Bubalis bubalis
+Orthoptera,Varanus komodoensis Y
+Coleoptera,Varanus komodoensis Y
+Gekko gekko,Varanus komodoensis Y
+Hemidactylus spp.,Varanus komodoensis Y
+Sphenomorphus melanopogon,Varanus komodoensis Y
+Carrion,Varanus komodoensis J
+Asperitas trochus,Varanus komodoensis J
+Bivalvia,Varanus komodoensis J
+Orthoptera,Varanus komodoensis J
+Coleoptera,Varanus komodoensis J
+Brachyura,Varanus komodoensis J
+Teleostei,Varanus komodoensis J
+Gekko gekko,Varanus komodoensis J
+Hemidactylus spp.,Varanus komodoensis J
+Sphenomorphus melanopogon,Varanus komodoensis J
+Coelognathus subradiatus,Varanus komodoensis J
+Dendrelaphis pictus,Varanus komodoensis J
+Daboia siamensis,Varanus komodoensis J
+Eretmochelys imbricata,Varanus komodoensis J
+Megapodius reinwardt,Varanus komodoensis J
+Gallus varius,Varanus komodoensis J
+Doves,Varanus komodoensis J
+Haliastur indus,Varanus komodoensis J
+Crocidura sp.,Varanus komodoensis J
+Hipposideros diadema,Varanus komodoensis J
+Pteropus vampyrus,Varanus komodoensis J
+Mus musculus,Varanus komodoensis J
+Rats,Varanus komodoensis J
+Paradoxurus musangus,Varanus komodoensis J
+?Arctogalidia sp.,Varanus komodoensis J
+Carrion,Varanus komodoensis S
+Bivalvia,Varanus komodoensis S
+Brachyura,Varanus komodoensis S
+Teleostei,Varanus komodoensis S
+Coelognathus subradiatus,Varanus komodoensis S
+Dendrelaphis pictus,Varanus komodoensis S
+Daboia siamensis,Varanus komodoensis S
+Eretmochelys imbricata,Varanus komodoensis S
+Megapodius reinwardt,Varanus komodoensis S
+Gallus varius,Varanus komodoensis S
+Doves,Varanus komodoensis S
+Haliastur indus,Varanus komodoensis S
+Mus musculus,Varanus komodoensis S
+Rats,Varanus komodoensis S
+Macaca fascicularis,Varanus komodoensis S
+Paradoxurus musangus,Varanus komodoensis S
+?Arctogalidia sp.,Varanus komodoensis S
+Sus scrofa,Varanus komodoensis S
+Cervus timorensis,Varanus komodoensis S
+Bubalis bubalis,Varanus komodoensis S
+Carrion,Varanus komodoensis A
+Eretmochelys imbricata,Varanus komodoensis A
+Megapodius reinwardt,Varanus komodoensis A
+Gallus varius,Varanus komodoensis A
+Macaca fascicularis,Varanus komodoensis A
+Sus scrofa,Varanus komodoensis A
+Cervus timorensis,Varanus komodoensis A
+Bubalis bubalis,Varanus komodoensis A

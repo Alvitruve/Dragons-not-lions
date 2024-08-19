@@ -1,0 +1,578 @@
+resource,consumer
+Detritus,Fungi
+Detritus,Demospongiae
+Algae,Demospongiae
+Branchiopoda,Demospongiae
+Branchiopoda,Medusozoa
+Detritus,Asperitas trochus
+Fungi,Asperitas trochus
+Detritus,Bivalvia
+Algae,Bivalvia
+Branchiopoda,Bivalvia
+Detritus,Branchiopoda
+Algae,Branchiopoda
+Detritus,Diplopoda
+Gastrimargus lumbokensis,Odonata
+Stenocatanops exinsula,Odonata
+Valanga nigricornis,Odonata
+Austracris guttulosa,Odonata
+Heteroptera,Odonata
+Coleoptera (other),Odonata
+Diptera,Odonata
+Hymenoptera,Odonata
+Lepidoptera,Odonata
+Isopoda,Odonata
+Detritus,Gastrimargus lumbokensis
+Plant juices,Gastrimargus lumbokensis
+Grass and herbs,Gastrimargus lumbokensis
+Trees and shrubs,Gastrimargus lumbokensis
+Detritus,Stenocatanops exinsula
+Plant juices,Stenocatanops exinsula
+Grass and herbs,Stenocatanops exinsula
+Trees and shrubs,Stenocatanops exinsula
+Detritus,Valanga nigricornis
+Plant juices,Valanga nigricornis
+Grass and herbs,Valanga nigricornis
+Trees and shrubs,Valanga nigricornis
+Detritus,Austracris guttulosa
+Plant juices,Austracris guttulosa
+Grass and herbs,Austracris guttulosa
+Trees and shrubs,Austracris guttulosa
+Detritus,Blattodea
+Carrion,Blattodea
+Trees and shrubs,Blattodea
+Roots and tubers,Blattodea
+Fungi,Blattodea
+Detritus,Isoptera
+Grass and herbs,Isoptera
+Detritus,Heteroptera
+Carrion,Heteroptera
+Plant juices,Heteroptera
+Fruits and nectar,Heteroptera
+Grass and herbs,Heteroptera
+Trees and shrubs,Heteroptera
+Roots and tubers,Heteroptera
+Detritus,Trox sp.
+Carrion,Trox sp.
+Detritus,Scarabidae indet
+Carrion,Scarabidae indet
+Detritus,Coleoptera (other)
+Carrion,Coleoptera (other)
+Fruits and nectar,Coleoptera (other)
+Grass and herbs,Coleoptera (other)
+Trees and shrubs,Coleoptera (other)
+Roots and tubers,Coleoptera (other)
+Fungi,Coleoptera (other)
+Branchiopoda,Coleoptera (other)
+Blattodea,Coleoptera (other)
+Heteroptera,Coleoptera (other)
+Diptera,Coleoptera (other)
+Hymenoptera,Coleoptera (other)
+Detritus,Diptera
+Fruits and nectar,Diptera
+Grass and herbs,Diptera
+Trees and shrubs,Diptera
+Roots and tubers,Diptera
+Fungi,Diptera
+Heteroptera,Diptera
+Trox sp.,Diptera
+Scarabidae indet,Diptera
+Coleoptera (other),Diptera
+Hymenoptera,Diptera
+Araneidae,Diptera
+Detritus,Hymenoptera
+Carrion,Hymenoptera
+Fruits and nectar,Hymenoptera
+Grass and herbs,Hymenoptera
+Trees and shrubs,Hymenoptera
+Roots and tubers,Hymenoptera
+Fungi,Hymenoptera
+Trox sp.,Hymenoptera
+Scarabidae indet,Hymenoptera
+Coleoptera (other),Hymenoptera
+Diptera,Hymenoptera
+Lepidoptera,Hymenoptera
+Fruits and nectar,Lepidoptera
+Odonata,Araneidae
+Gastrimargus lumbokensis,Araneidae
+Stenocatanops exinsula,Araneidae
+Valanga nigricornis,Araneidae
+Austracris guttulosa,Araneidae
+Blattodea,Araneidae
+Heteroptera,Araneidae
+Trox sp.,Araneidae
+Scarabidae indet,Araneidae
+Coleoptera (other),Araneidae
+Diptera,Araneidae
+Hymenoptera,Araneidae
+Lepidoptera,Araneidae
+Detritus,Brachyura
+Diplopoda,Brachyura
+Detritus,Isopoda
+Carrion,Isopoda
+Algae,Isopoda
+Trees and shrubs,Isopoda
+Fungi,Isopoda
+Detritus,Teleostei
+Demospongiae,Teleostei
+Branchiopoda,Teleostei
+Heteroptera,Teleostei
+Trox sp.,Teleostei
+Scarabidae indet,Teleostei
+Coleoptera (other),Teleostei
+Carrion,Anura
+Algae,Anura
+Odonata,Anura
+Gastrimargus lumbokensis,Anura
+Stenocatanops exinsula,Anura
+Valanga nigricornis,Anura
+Austracris guttulosa,Anura
+Blattodea,Anura
+Trox sp.,Anura
+Scarabidae indet,Anura
+Coleoptera (other),Anura
+Diptera,Anura
+Hymenoptera,Anura
+Lepidoptera,Anura
+Araneidae,Anura
+Odonata,Gekko gekko
+Gastrimargus lumbokensis,Gekko gekko
+Stenocatanops exinsula,Gekko gekko
+Valanga nigricornis,Gekko gekko
+Austracris guttulosa,Gekko gekko
+Blattodea,Gekko gekko
+Isoptera,Gekko gekko
+Heteroptera,Gekko gekko
+Trox sp.,Gekko gekko
+Scarabidae indet,Gekko gekko
+Coleoptera (other),Gekko gekko
+Hymenoptera,Gekko gekko
+Lepidoptera,Gekko gekko
+Fruits and nectar,Hemidactylus frenatus
+Odonata,Hemidactylus frenatus
+Gastrimargus lumbokensis,Hemidactylus frenatus
+Stenocatanops exinsula,Hemidactylus frenatus
+Valanga nigricornis,Hemidactylus frenatus
+Austracris guttulosa,Hemidactylus frenatus
+Blattodea,Hemidactylus frenatus
+Isoptera,Hemidactylus frenatus
+Heteroptera,Hemidactylus frenatus
+Trox sp.,Hemidactylus frenatus
+Scarabidae indet,Hemidactylus frenatus
+Coleoptera (other),Hemidactylus frenatus
+Hymenoptera,Hemidactylus frenatus
+Lepidoptera,Hemidactylus frenatus
+Araneidae,Hemidactylus frenatus
+Odonata,Hemidactylus platyurus
+Gastrimargus lumbokensis,Hemidactylus platyurus
+Stenocatanops exinsula,Hemidactylus platyurus
+Valanga nigricornis,Hemidactylus platyurus
+Austracris guttulosa,Hemidactylus platyurus
+Blattodea,Hemidactylus platyurus
+Isoptera,Hemidactylus platyurus
+Heteroptera,Hemidactylus platyurus
+Trox sp.,Hemidactylus platyurus
+Scarabidae indet,Hemidactylus platyurus
+Coleoptera (other),Hemidactylus platyurus
+Hymenoptera,Hemidactylus platyurus
+Lepidoptera,Hemidactylus platyurus
+Araneidae,Hemidactylus platyurus
+Odonata,Lepidodactylus intermedius
+Gastrimargus lumbokensis,Lepidodactylus intermedius
+Stenocatanops exinsula,Lepidodactylus intermedius
+Valanga nigricornis,Lepidodactylus intermedius
+Austracris guttulosa,Lepidodactylus intermedius
+Blattodea,Lepidodactylus intermedius
+Isoptera,Lepidodactylus intermedius
+Heteroptera,Lepidodactylus intermedius
+Trox sp.,Lepidodactylus intermedius
+Scarabidae indet,Lepidodactylus intermedius
+Coleoptera (other),Lepidodactylus intermedius
+Hymenoptera,Lepidodactylus intermedius
+Lepidoptera,Lepidodactylus intermedius
+Diplopoda,Sphenomorphus melanopogon
+Gastrimargus lumbokensis,Sphenomorphus melanopogon
+Stenocatanops exinsula,Sphenomorphus melanopogon
+Valanga nigricornis,Sphenomorphus melanopogon
+Austracris guttulosa,Sphenomorphus melanopogon
+Blattodea,Sphenomorphus melanopogon
+Isoptera,Sphenomorphus melanopogon
+Heteroptera,Sphenomorphus melanopogon
+Trox sp.,Sphenomorphus melanopogon
+Scarabidae indet,Sphenomorphus melanopogon
+Coleoptera (other),Sphenomorphus melanopogon
+Diptera,Sphenomorphus melanopogon
+Hymenoptera,Sphenomorphus melanopogon
+Araneidae,Sphenomorphus melanopogon
+Isopoda,Sphenomorphus melanopogon
+Anura,Trimeresurus insularis
+Gekko gekko,Trimeresurus insularis
+Hemidactylus frenatus,Trimeresurus insularis
+Hemidactylus platyurus,Trimeresurus insularis
+Lepidodactylus intermedius,Trimeresurus insularis
+Sphenomorphus melanopogon,Trimeresurus insularis
+Mus musculus,Trimeresurus insularis
+Rattus sp.,Trimeresurus insularis
+Komodomys rintjanus,Trimeresurus insularis
+Varanus komodoensis Y,Trimeresurus insularis
+Anura,Coelognathus subradiatus
+Gekko gekko,Coelognathus subradiatus
+Hemidactylus frenatus,Coelognathus subradiatus
+Hemidactylus platyurus,Coelognathus subradiatus
+Lepidodactylus intermedius,Coelognathus subradiatus
+Sphenomorphus melanopogon,Coelognathus subradiatus
+Mus musculus,Coelognathus subradiatus
+Rattus sp.,Coelognathus subradiatus
+Komodomys rintjanus,Coelognathus subradiatus
+Anura,Dendrelaphis pictus
+Gekko gekko,Dendrelaphis pictus
+Hemidactylus frenatus,Dendrelaphis pictus
+Hemidactylus platyurus,Dendrelaphis pictus
+Lepidodactylus intermedius,Dendrelaphis pictus
+Sphenomorphus melanopogon,Dendrelaphis pictus
+Anura,Naja sputatrix
+Gekko gekko,Naja sputatrix
+Hemidactylus frenatus,Naja sputatrix
+Hemidactylus platyurus,Naja sputatrix
+Lepidodactylus intermedius,Naja sputatrix
+Sphenomorphus melanopogon,Naja sputatrix
+Mus musculus,Naja sputatrix
+Rattus sp.,Naja sputatrix
+Komodomys rintjanus,Naja sputatrix
+Varanus komodoensis Y,Naja sputatrix
+Anura,Daboia siamensis
+Gekko gekko,Daboia siamensis
+Hemidactylus frenatus,Daboia siamensis
+Hemidactylus platyurus,Daboia siamensis
+Lepidodactylus intermedius,Daboia siamensis
+Sphenomorphus melanopogon,Daboia siamensis
+Mus musculus,Daboia siamensis
+Rattus sp.,Daboia siamensis
+Komodomys rintjanus,Daboia siamensis
+Varanus komodoensis Y,Daboia siamensis
+Algae,Eretmochelys imbricata
+Demospongiae,Eretmochelys imbricata
+Medusozoa,Eretmochelys imbricata
+Bivalvia,Eretmochelys imbricata
+Teleostei,Eretmochelys imbricata
+Grains and seeds,Megapodius reinwardt
+Fruits and nectar,Megapodius reinwardt
+Trees and shrubs,Megapodius reinwardt
+Roots and tubers,Megapodius reinwardt
+Asperitas trochus,Megapodius reinwardt
+Diplopoda,Megapodius reinwardt
+Odonata,Megapodius reinwardt
+Gastrimargus lumbokensis,Megapodius reinwardt
+Stenocatanops exinsula,Megapodius reinwardt
+Valanga nigricornis,Megapodius reinwardt
+Austracris guttulosa,Megapodius reinwardt
+Blattodea,Megapodius reinwardt
+Heteroptera,Megapodius reinwardt
+Trox sp.,Megapodius reinwardt
+Scarabidae indet,Megapodius reinwardt
+Coleoptera (other),Megapodius reinwardt
+Brachyura,Megapodius reinwardt
+Isopoda,Megapodius reinwardt
+Anura,Megapodius reinwardt
+Sphenomorphus melanopogon,Megapodius reinwardt
+Fruits and nectar,Gallus varius
+Trees and shrubs,Gallus varius
+Roots and tubers,Gallus varius
+Diplopoda,Gallus varius
+Gastrimargus lumbokensis,Gallus varius
+Stenocatanops exinsula,Gallus varius
+Valanga nigricornis,Gallus varius
+Austracris guttulosa,Gallus varius
+Blattodea,Gallus varius
+Heteroptera,Gallus varius
+Trox sp.,Gallus varius
+Scarabidae indet,Gallus varius
+Coleoptera (other),Gallus varius
+Isopoda,Gallus varius
+Sphenomorphus melanopogon,Gallus varius
+Coelognathus subradiatus,Gallus varius
+Dendrelaphis pictus,Gallus varius
+Grains and seeds,Geopelia maugeus
+Fruits and nectar,Geopelia maugeus
+Grains and seeds,Ducula aenea
+Fruits and nectar,Ducula aenea
+Carrion,Corvus macrorhynchos
+Grains and seeds,Corvus macrorhynchos
+Fruits and nectar,Corvus macrorhynchos
+Trees and shrubs,Corvus macrorhynchos
+Roots and tubers,Corvus macrorhynchos
+Asperitas trochus,Corvus macrorhynchos
+Diplopoda,Corvus macrorhynchos
+Blattodea,Corvus macrorhynchos
+Trox sp.,Corvus macrorhynchos
+Scarabidae indet,Corvus macrorhynchos
+Coleoptera (other),Corvus macrorhynchos
+Isopoda,Corvus macrorhynchos
+Geopelia maugeus,Corvus macrorhynchos
+Ducula aenea,Corvus macrorhynchos
+Mus musculus,Corvus macrorhynchos
+Rattus sp.,Corvus macrorhynchos
+Komodomys rintjanus,Corvus macrorhynchos
+Carrion,Haliastur indus
+Gastrimargus lumbokensis,Haliastur indus
+Stenocatanops exinsula,Haliastur indus
+Valanga nigricornis,Haliastur indus
+Austracris guttulosa,Haliastur indus
+Isoptera,Haliastur indus
+Brachyura,Haliastur indus
+Teleostei,Haliastur indus
+Anura,Haliastur indus
+Gekko gekko,Haliastur indus
+Hemidactylus frenatus,Haliastur indus
+Hemidactylus platyurus,Haliastur indus
+Lepidodactylus intermedius,Haliastur indus
+Sphenomorphus melanopogon,Haliastur indus
+Coelognathus subradiatus,Haliastur indus
+Dendrelaphis pictus,Haliastur indus
+Hipposideros diadema,Haliastur indus
+Pteropus vampyrus,Haliastur indus
+Mus musculus,Haliastur indus
+Varanus komodoensis Y,Haliastur indus
+Carrion,Icthyophaga leucogaster
+Brachyura,Icthyophaga leucogaster
+Teleostei,Icthyophaga leucogaster
+Sphenomorphus melanopogon,Icthyophaga leucogaster
+Coelognathus subradiatus,Icthyophaga leucogaster
+Dendrelaphis pictus,Icthyophaga leucogaster
+Geopelia maugeus,Icthyophaga leucogaster
+Ducula aenea,Icthyophaga leucogaster
+Corvus macrorhynchos,Icthyophaga leucogaster
+Pteropus vampyrus,Icthyophaga leucogaster
+Rattus sp.,Icthyophaga leucogaster
+Komodomys rintjanus,Icthyophaga leucogaster
+Varanus komodoensis Y,Icthyophaga leucogaster
+Diplopoda,Crocidura sp.
+Gastrimargus lumbokensis,Crocidura sp.
+Stenocatanops exinsula,Crocidura sp.
+Valanga nigricornis,Crocidura sp.
+Austracris guttulosa,Crocidura sp.
+Blattodea,Crocidura sp.
+Heteroptera,Crocidura sp.
+Trox sp.,Crocidura sp.
+Scarabidae indet,Crocidura sp.
+Coleoptera (other),Crocidura sp.
+Hymenoptera,Crocidura sp.
+Araneidae,Crocidura sp.
+Isopoda,Crocidura sp.
+Gastrimargus lumbokensis,Hipposideros diadema
+Stenocatanops exinsula,Hipposideros diadema
+Valanga nigricornis,Hipposideros diadema
+Austracris guttulosa,Hipposideros diadema
+Blattodea,Hipposideros diadema
+Heteroptera,Hipposideros diadema
+Trox sp.,Hipposideros diadema
+Scarabidae indet,Hipposideros diadema
+Coleoptera (other),Hipposideros diadema
+Hymenoptera,Hipposideros diadema
+Lepidoptera,Hipposideros diadema
+Araneidae,Hipposideros diadema
+Fruits and nectar,Pteropus vampyrus
+Detritus,Mus musculus
+Grains and seeds,Mus musculus
+Fruits and nectar,Mus musculus
+Grass and herbs,Mus musculus
+Trees and shrubs,Mus musculus
+Gastrimargus lumbokensis,Mus musculus
+Stenocatanops exinsula,Mus musculus
+Valanga nigricornis,Mus musculus
+Austracris guttulosa,Mus musculus
+Blattodea,Mus musculus
+Isoptera,Mus musculus
+Trox sp.,Mus musculus
+Scarabidae indet,Mus musculus
+Coleoptera (other),Mus musculus
+Hymenoptera,Mus musculus
+Detritus,Rattus sp.
+Grains and seeds,Rattus sp.
+Fruits and nectar,Rattus sp.
+Grass and herbs,Rattus sp.
+Trees and shrubs,Rattus sp.
+Gastrimargus lumbokensis,Rattus sp.
+Stenocatanops exinsula,Rattus sp.
+Valanga nigricornis,Rattus sp.
+Austracris guttulosa,Rattus sp.
+Blattodea,Rattus sp.
+Isoptera,Rattus sp.
+Trox sp.,Rattus sp.
+Scarabidae indet,Rattus sp.
+Coleoptera (other),Rattus sp.
+Hymenoptera,Rattus sp.
+Detritus,Komodomys rintjanus
+Grains and seeds,Komodomys rintjanus
+Fruits and nectar,Komodomys rintjanus
+Grass and herbs,Komodomys rintjanus
+Trees and shrubs,Komodomys rintjanus
+Gastrimargus lumbokensis,Komodomys rintjanus
+Stenocatanops exinsula,Komodomys rintjanus
+Valanga nigricornis,Komodomys rintjanus
+Austracris guttulosa,Komodomys rintjanus
+Blattodea,Komodomys rintjanus
+Isoptera,Komodomys rintjanus
+Trox sp.,Komodomys rintjanus
+Scarabidae indet,Komodomys rintjanus
+Coleoptera (other),Komodomys rintjanus
+Hymenoptera,Komodomys rintjanus
+Fruits and nectar,Macaca fascicularis
+Grass and herbs,Macaca fascicularis
+Trees and shrubs,Macaca fascicularis
+Fungi,Macaca fascicularis
+Diplopoda,Macaca fascicularis
+Gastrimargus lumbokensis,Macaca fascicularis
+Stenocatanops exinsula,Macaca fascicularis
+Valanga nigricornis,Macaca fascicularis
+Austracris guttulosa,Macaca fascicularis
+Blattodea,Macaca fascicularis
+Isoptera,Macaca fascicularis
+Heteroptera,Macaca fascicularis
+Trox sp.,Macaca fascicularis
+Scarabidae indet,Macaca fascicularis
+Coleoptera (other),Macaca fascicularis
+Hymenoptera,Macaca fascicularis
+Lepidoptera,Macaca fascicularis
+Brachyura,Macaca fascicularis
+Isopoda,Macaca fascicularis
+Plant juices,Paradoxurus musangus
+Grains and seeds,Paradoxurus musangus
+Fruits and nectar,Paradoxurus musangus
+Asperitas trochus,Paradoxurus musangus
+Gastrimargus lumbokensis,Paradoxurus musangus
+Stenocatanops exinsula,Paradoxurus musangus
+Valanga nigricornis,Paradoxurus musangus
+Austracris guttulosa,Paradoxurus musangus
+Blattodea,Paradoxurus musangus
+Trox sp.,Paradoxurus musangus
+Scarabidae indet,Paradoxurus musangus
+Coleoptera (other),Paradoxurus musangus
+Isopoda,Paradoxurus musangus
+Gekko gekko,Paradoxurus musangus
+Hemidactylus frenatus,Paradoxurus musangus
+Hemidactylus platyurus,Paradoxurus musangus
+Lepidodactylus intermedius,Paradoxurus musangus
+Sphenomorphus melanopogon,Paradoxurus musangus
+Crocidura sp.,Paradoxurus musangus
+Mus musculus,Paradoxurus musangus
+Rattus sp.,Paradoxurus musangus
+Komodomys rintjanus,Paradoxurus musangus
+Varanus komodoensis Y,Paradoxurus musangus
+Fruits and nectar,?Arctogalidia sp.
+Gastrimargus lumbokensis,?Arctogalidia sp.
+Stenocatanops exinsula,?Arctogalidia sp.
+Valanga nigricornis,?Arctogalidia sp.
+Austracris guttulosa,?Arctogalidia sp.
+Blattodea,?Arctogalidia sp.
+Trox sp.,?Arctogalidia sp.
+Scarabidae indet,?Arctogalidia sp.
+Coleoptera (other),?Arctogalidia sp.
+Isopoda,?Arctogalidia sp.
+Gekko gekko,?Arctogalidia sp.
+Hemidactylus frenatus,?Arctogalidia sp.
+Hemidactylus platyurus,?Arctogalidia sp.
+Lepidodactylus intermedius,?Arctogalidia sp.
+Sphenomorphus melanopogon,?Arctogalidia sp.
+Crocidura sp.,?Arctogalidia sp.
+Mus musculus,?Arctogalidia sp.
+Rattus sp.,?Arctogalidia sp.
+Komodomys rintjanus,?Arctogalidia sp.
+Varanus komodoensis Y,?Arctogalidia sp.
+Carrion,Sus scrofa
+Fruits and nectar,Sus scrofa
+Grass and herbs,Sus scrofa
+Roots and tubers,Sus scrofa
+Fungi,Sus scrofa
+Gastrimargus lumbokensis,Sus scrofa
+Stenocatanops exinsula,Sus scrofa
+Valanga nigricornis,Sus scrofa
+Austracris guttulosa,Sus scrofa
+Trox sp.,Sus scrofa
+Scarabidae indet,Sus scrofa
+Coleoptera (other),Sus scrofa
+Brachyura,Sus scrofa
+Coelognathus subradiatus,Sus scrofa
+Dendrelaphis pictus,Sus scrofa
+Varanus komodoensis Y,Sus scrofa
+Fruits and nectar,Cervus timorensis
+Grass and herbs,Cervus timorensis
+Trees and shrubs,Cervus timorensis
+Grass and herbs,Bubalis bubalis
+Trees and shrubs,Bubalis bubalis
+Gastrimargus lumbokensis,Varanus komodoensis Y
+Stenocatanops exinsula,Varanus komodoensis Y
+Valanga nigricornis,Varanus komodoensis Y
+Austracris guttulosa,Varanus komodoensis Y
+Coleoptera (other),Varanus komodoensis Y
+Gekko gekko,Varanus komodoensis Y
+Hemidactylus frenatus,Varanus komodoensis Y
+Hemidactylus platyurus,Varanus komodoensis Y
+Lepidodactylus intermedius,Varanus komodoensis Y
+Sphenomorphus melanopogon,Varanus komodoensis Y
+Carrion,Varanus komodoensis J
+Asperitas trochus,Varanus komodoensis J
+Bivalvia,Varanus komodoensis J
+Gastrimargus lumbokensis,Varanus komodoensis J
+Stenocatanops exinsula,Varanus komodoensis J
+Valanga nigricornis,Varanus komodoensis J
+Austracris guttulosa,Varanus komodoensis J
+Coleoptera (other),Varanus komodoensis J
+Brachyura,Varanus komodoensis J
+Teleostei,Varanus komodoensis J
+Gekko gekko,Varanus komodoensis J
+Hemidactylus frenatus,Varanus komodoensis J
+Hemidactylus platyurus,Varanus komodoensis J
+Lepidodactylus intermedius,Varanus komodoensis J
+Sphenomorphus melanopogon,Varanus komodoensis J
+Trimeresurus insularis,Varanus komodoensis J
+Coelognathus subradiatus,Varanus komodoensis J
+Dendrelaphis pictus,Varanus komodoensis J
+Naja sputatrix,Varanus komodoensis J
+Daboia siamensis,Varanus komodoensis J
+Eretmochelys imbricata,Varanus komodoensis J
+Megapodius reinwardt,Varanus komodoensis J
+Gallus varius,Varanus komodoensis J
+Geopelia maugeus,Varanus komodoensis J
+Ducula aenea,Varanus komodoensis J
+Haliastur indus,Varanus komodoensis J
+Crocidura sp.,Varanus komodoensis J
+Hipposideros diadema,Varanus komodoensis J
+Pteropus vampyrus,Varanus komodoensis J
+Mus musculus,Varanus komodoensis J
+Rattus sp.,Varanus komodoensis J
+Komodomys rintjanus,Varanus komodoensis J
+Paradoxurus musangus,Varanus komodoensis J
+?Arctogalidia sp.,Varanus komodoensis J
+Carrion,Varanus komodoensis S
+Bivalvia,Varanus komodoensis S
+Brachyura,Varanus komodoensis S
+Teleostei,Varanus komodoensis S
+Trimeresurus insularis,Varanus komodoensis S
+Coelognathus subradiatus,Varanus komodoensis S
+Dendrelaphis pictus,Varanus komodoensis S
+Naja sputatrix,Varanus komodoensis S
+Daboia siamensis,Varanus komodoensis S
+Eretmochelys imbricata,Varanus komodoensis S
+Megapodius reinwardt,Varanus komodoensis S
+Gallus varius,Varanus komodoensis S
+Geopelia maugeus,Varanus komodoensis S
+Ducula aenea,Varanus komodoensis S
+Haliastur indus,Varanus komodoensis S
+Mus musculus,Varanus komodoensis S
+Rattus sp.,Varanus komodoensis S
+Komodomys rintjanus,Varanus komodoensis S
+Macaca fascicularis,Varanus komodoensis S
+Paradoxurus musangus,Varanus komodoensis S
+?Arctogalidia sp.,Varanus komodoensis S
+Sus scrofa,Varanus komodoensis S
+Cervus timorensis,Varanus komodoensis S
+Bubalis bubalis,Varanus komodoensis S
+Carrion,Varanus komodoensis A
+Eretmochelys imbricata,Varanus komodoensis A
+Megapodius reinwardt,Varanus komodoensis A
+Gallus varius,Varanus komodoensis A
+Macaca fascicularis,Varanus komodoensis A
+Sus scrofa,Varanus komodoensis A
+Cervus timorensis,Varanus komodoensis A
+Bubalis bubalis,Varanus komodoensis A

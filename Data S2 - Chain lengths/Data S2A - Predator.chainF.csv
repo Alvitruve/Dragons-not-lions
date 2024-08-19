@@ -1,0 +1,684 @@
+Node,Version,Chain.length,Frequency
+Panthera leo,Ser Main,1,1
+Panthera leo,Ser Main,2,46
+Panthera leo,Ser Main,3,108
+Panthera leo,Ser Main,4,162
+Panthera leo,Ser Main,5,148
+Panthera leo,Ser Main,6,136
+Panthera leo,Ser Main,7,64
+Panthera leo J,Ser Main,1,1
+Panthera leo J,Ser Main,2,45
+Panthera leo J,Ser Main,3,63
+Panthera leo J,Ser Main,4,100
+Panthera leo J,Ser Main,5,92
+Panthera leo J,Ser Main,6,68
+Panthera leo J,Ser Main,7,32
+Panthera leo Y,Ser Main,1,3
+Panthera leo Y,Ser Main,2,133
+Panthera leo Y,Ser Main,3,110
+Panthera leo Y,Ser Main,4,128
+Panthera leo Y,Ser Main,5,132
+Panthera leo Y,Ser Main,6,32
+Panthera leo,Ser Main alt,1,1
+Panthera leo,Ser Main alt,2,55
+Panthera leo,Ser Main alt,3,130
+Panthera leo,Ser Main alt,4,287
+Panthera leo,Ser Main alt,5,450
+Panthera leo,Ser Main alt,6,682
+Panthera leo,Ser Main alt,7,762
+Panthera leo,Ser Main alt,8,684
+Panthera leo,Ser Main alt,9,490
+Panthera leo,Ser Main alt,10,233
+Panthera leo,Ser Main alt,11,42
+Panthera leo J,Ser Main alt,1,1
+Panthera leo J,Ser Main alt,2,38
+Panthera leo J,Ser Main alt,3,52
+Panthera leo J,Ser Main alt,4,175
+Panthera leo J,Ser Main alt,5,334
+Panthera leo J,Ser Main alt,6,546
+Panthera leo J,Ser Main alt,7,698
+Panthera leo J,Ser Main alt,8,684
+Panthera leo J,Ser Main alt,9,490
+Panthera leo J,Ser Main alt,10,233
+Panthera leo J,Ser Main alt,11,42
+Panthera leo,Ser Trophsp,1,1
+Panthera leo,Ser Trophsp,2,35
+Panthera leo,Ser Trophsp,3,86
+Panthera leo,Ser Trophsp,4,140
+Panthera leo,Ser Trophsp,5,148
+Panthera leo,Ser Trophsp,6,136
+Panthera leo,Ser Trophsp,7,64
+Panthera leo J,Ser Trophsp,1,1
+Panthera leo J,Ser Trophsp,2,34
+Panthera leo J,Ser Trophsp,3,52
+Panthera leo J,Ser Trophsp,4,89
+Panthera leo J,Ser Trophsp,5,92
+Panthera leo J,Ser Trophsp,6,68
+Panthera leo J,Ser Trophsp,7,32
+Panthera leo Y,Ser Trophsp,1,3
+Panthera leo Y,Ser Trophsp,2,100
+Panthera leo Y,Ser Trophsp,3,99
+Panthera leo Y,Ser Trophsp,4,128
+Panthera leo Y,Ser Trophsp,5,132
+Panthera leo Y,Ser Trophsp,6,32
+Panthera leo,Ser Trophsp alt,1,1
+Panthera leo,Ser Trophsp alt,2,44
+Panthera leo,Ser Trophsp alt,3,108
+Panthera leo,Ser Trophsp alt,4,263
+Panthera leo,Ser Trophsp alt,5,450
+Panthera leo,Ser Trophsp alt,6,682
+Panthera leo,Ser Trophsp alt,7,762
+Panthera leo,Ser Trophsp alt,8,684
+Panthera leo,Ser Trophsp alt,9,490
+Panthera leo,Ser Trophsp alt,10,233
+Panthera leo,Ser Trophsp alt,11,42
+Panthera leo J,Ser Trophsp alt,1,1
+Panthera leo J,Ser Trophsp alt,2,32
+Panthera leo J,Ser Trophsp alt,3,52
+Panthera leo J,Ser Trophsp alt,4,173
+Panthera leo J,Ser Trophsp alt,5,334
+Panthera leo J,Ser Trophsp alt,6,546
+Panthera leo J,Ser Trophsp alt,7,698
+Panthera leo J,Ser Trophsp alt,8,684
+Panthera leo J,Ser Trophsp alt,9,490
+Panthera leo J,Ser Trophsp alt,10,233
+Panthera leo J,Ser Trophsp alt,11,42
+Varanus komodoensis Y,Kom Main,1,0
+Varanus komodoensis Y,Kom Main,2,345
+Varanus komodoensis Y,Kom Main,3,3960
+Varanus komodoensis Y,Kom Main,4,8955
+Varanus komodoensis Y,Kom Main,5,16065
+Varanus komodoensis Y,Kom Main,6,27630
+Varanus komodoensis Y,Kom Main,7,30915
+Varanus komodoensis Y,Kom Main,8,16020
+Varanus komodoensis Y,Kom Main,9,570
+Varanus komodoensis J,Kom Main,1,1
+Varanus komodoensis J,Kom Main,2,61
+Varanus komodoensis J,Kom Main,3,793
+Varanus komodoensis J,Kom Main,4,4501
+Varanus komodoensis J,Kom Main,5,11829
+Varanus komodoensis J,Kom Main,6,22708
+Varanus komodoensis J,Kom Main,7,37736
+Varanus komodoensis J,Kom Main,8,47699
+Varanus komodoensis J,Kom Main,9,36558
+Varanus komodoensis J,Kom Main,10,12742
+Varanus komodoensis J,Kom Main,11,438
+Varanus komodoensis S,Kom Main,1,1
+Varanus komodoensis S,Kom Main,2,48
+Varanus komodoensis S,Kom Main,3,517
+Varanus komodoensis S,Kom Main,4,3834
+Varanus komodoensis S,Kom Main,5,11437
+Varanus komodoensis S,Kom Main,6,22651
+Varanus komodoensis S,Kom Main,7,39209
+Varanus komodoensis S,Kom Main,8,53241
+Varanus komodoensis S,Kom Main,9,44190
+Varanus komodoensis S,Kom Main,10,16747
+Varanus komodoensis S,Kom Main,11,581
+Varanus komodoensis A,Kom Main,1,1
+Varanus komodoensis A,Kom Main,2,20
+Varanus komodoensis A,Kom Main,3,174
+Varanus komodoensis A,Kom Main,4,416
+Varanus komodoensis A,Kom Main,5,2262
+Varanus komodoensis A,Kom Main,6,5061
+Varanus komodoensis A,Kom Main,7,8712
+Varanus komodoensis A,Kom Main,8,13411
+Varanus komodoensis A,Kom Main,9,13959
+Varanus komodoensis A,Kom Main,10,6965
+Varanus komodoensis A,Kom Main,11,248
+Varanus komodoensis Y,Kom Cannibal,1,0
+Varanus komodoensis Y,Kom Cannibal,2,575
+Varanus komodoensis Y,Kom Cannibal,3,6600
+Varanus komodoensis Y,Kom Cannibal,4,14925
+Varanus komodoensis Y,Kom Cannibal,5,26775
+Varanus komodoensis Y,Kom Cannibal,6,46050
+Varanus komodoensis Y,Kom Cannibal,7,51525
+Varanus komodoensis Y,Kom Cannibal,8,26700
+Varanus komodoensis Y,Kom Cannibal,9,950
+Varanus komodoensis J,Kom Cannibal,1,2
+Varanus komodoensis J,Kom Cannibal,2,122
+Varanus komodoensis J,Kom Cannibal,3,1632
+Varanus komodoensis J,Kom Cannibal,4,9530
+Varanus komodoensis J,Kom Cannibal,5,24852
+Varanus komodoensis J,Kom Cannibal,6,47558
+Varanus komodoensis J,Kom Cannibal,7,79156
+Varanus komodoensis J,Kom Cannibal,8,99520
+Varanus komodoensis J,Kom Cannibal,9,75252
+Varanus komodoensis J,Kom Cannibal,10,25560
+Varanus komodoensis J,Kom Cannibal,11,876
+Varanus komodoensis S,Kom Cannibal,1,1
+Varanus komodoensis S,Kom Cannibal,2,49
+Varanus komodoensis S,Kom Cannibal,3,601
+Varanus komodoensis S,Kom Cannibal,4,4914
+Varanus komodoensis S,Kom Cannibal,5,16799
+Varanus komodoensis S,Kom Cannibal,6,36148
+Varanus komodoensis S,Kom Cannibal,7,64830
+Varanus komodoensis S,Kom Cannibal,8,94880
+Varanus komodoensis S,Kom Cannibal,9,95018
+Varanus komodoensis S,Kom Cannibal,10,54411
+Varanus komodoensis S,Kom Cannibal,11,13361
+Varanus komodoensis S,Kom Cannibal,12,438
+Varanus komodoensis A,Kom Cannibal,1,1
+Varanus komodoensis A,Kom Cannibal,2,22
+Varanus komodoensis A,Kom Cannibal,3,307
+Varanus komodoensis A,Kom Cannibal,4,2097
+Varanus komodoensis A,Kom Cannibal,5,12538
+Varanus komodoensis A,Kom Cannibal,6,35357
+Varanus komodoensis A,Kom Cannibal,7,70481
+Varanus komodoensis A,Kom Cannibal,8,119880
+Varanus komodoensis A,Kom Cannibal,9,159667
+Varanus komodoensis A,Kom Cannibal,10,139647
+Varanus komodoensis A,Kom Cannibal,11,67439
+Varanus komodoensis A,Kom Cannibal,12,13799
+Varanus komodoensis A,Kom Cannibal,13,438
+Varanus komodoensis Y,Kom Trophsp,1,0
+Varanus komodoensis Y,Kom Trophsp,2,121
+Varanus komodoensis Y,Kom Trophsp,3,1298
+Varanus komodoensis Y,Kom Trophsp,4,2585
+Varanus komodoensis Y,Kom Trophsp,5,2948
+Varanus komodoensis Y,Kom Trophsp,6,1782
+Varanus komodoensis Y,Kom Trophsp,7,572
+Varanus komodoensis Y,Kom Trophsp,8,44
+Varanus komodoensis J,Kom Trophsp,1,1
+Varanus komodoensis J,Kom Trophsp,2,42
+Varanus komodoensis J,Kom Trophsp,3,409
+Varanus komodoensis J,Kom Trophsp,4,1784
+Varanus komodoensis J,Kom Trophsp,5,4167
+Varanus komodoensis J,Kom Trophsp,6,5578
+Varanus komodoensis J,Kom Trophsp,7,4506
+Varanus komodoensis J,Kom Trophsp,8,2194
+Varanus komodoensis J,Kom Trophsp,9,564
+Varanus komodoensis J,Kom Trophsp,10,40
+Varanus komodoensis S,Kom Trophsp,1,1
+Varanus komodoensis S,Kom Trophsp,2,41
+Varanus komodoensis S,Kom Trophsp,3,279
+Varanus komodoensis S,Kom Trophsp,4,1498
+Varanus komodoensis S,Kom Trophsp,5,4157
+Varanus komodoensis S,Kom Trophsp,6,6269
+Varanus komodoensis S,Kom Trophsp,7,5500
+Varanus komodoensis S,Kom Trophsp,8,2836
+Varanus komodoensis S,Kom Trophsp,9,772
+Varanus komodoensis S,Kom Trophsp,10,56
+Varanus komodoensis A,Kom Trophsp,1,1
+Varanus komodoensis A,Kom Trophsp,2,20
+Varanus komodoensis A,Kom Trophsp,3,110
+Varanus komodoensis A,Kom Trophsp,4,302
+Varanus komodoensis A,Kom Trophsp,5,1025
+Varanus komodoensis A,Kom Trophsp,6,2026
+Varanus komodoensis A,Kom Trophsp,7,2118
+Varanus komodoensis A,Kom Trophsp,8,1212
+Varanus komodoensis A,Kom Trophsp,9,370
+Varanus komodoensis A,Kom Trophsp,10,28
+Varanus komodoensis Y,Kom Trophsp cann,1,0
+Varanus komodoensis Y,Kom Trophsp cann,2,209
+Varanus komodoensis Y,Kom Trophsp cann,3,2242
+Varanus komodoensis Y,Kom Trophsp cann,4,4465
+Varanus komodoensis Y,Kom Trophsp cann,5,5092
+Varanus komodoensis Y,Kom Trophsp cann,6,3078
+Varanus komodoensis Y,Kom Trophsp cann,7,988
+Varanus komodoensis Y,Kom Trophsp cann,8,76
+Varanus komodoensis J,Kom Trophsp cann,1,2
+Varanus komodoensis J,Kom Trophsp cann,2,84
+Varanus komodoensis J,Kom Trophsp cann,3,840
+Varanus komodoensis J,Kom Trophsp cann,4,3804
+Varanus komodoensis J,Kom Trophsp cann,5,8804
+Varanus komodoensis J,Kom Trophsp cann,6,11692
+Varanus komodoensis J,Kom Trophsp cann,7,9336
+Varanus komodoensis J,Kom Trophsp cann,8,4492
+Varanus komodoensis J,Kom Trophsp cann,9,1136
+Varanus komodoensis J,Kom Trophsp cann,10,80
+Varanus komodoensis S,Kom Trophsp cann,1,1
+Varanus komodoensis S,Kom Trophsp cann,2,42
+Varanus komodoensis S,Kom Trophsp cann,3,332
+Varanus komodoensis S,Kom Trophsp cann,4,2036
+Varanus komodoensis S,Kom Trophsp cann,5,6294
+Varanus komodoensis S,Kom Trophsp cann,6,10939
+Varanus komodoensis S,Kom Trophsp cann,7,11508
+Varanus komodoensis S,Kom Trophsp cann,8,7556
+Varanus komodoensis S,Kom Trophsp cann,9,3022
+Varanus komodoensis S,Kom Trophsp cann,10,624
+Varanus komodoensis S,Kom Trophsp cann,11,40
+Varanus komodoensis A,Kom Trophsp cann,1,1
+Varanus komodoensis A,Kom Trophsp cann,2,22
+Varanus komodoensis A,Kom Trophsp cann,3,205
+Varanus komodoensis A,Kom Trophsp cann,4,1172
+Varanus komodoensis A,Kom Trophsp cann,5,5198
+Varanus komodoensis A,Kom Trophsp cann,6,12990
+Varanus komodoensis A,Kom Trophsp cann,7,19065
+Varanus komodoensis A,Kom Trophsp cann,8,17440
+Varanus komodoensis A,Kom Trophsp cann,9,10176
+Varanus komodoensis A,Kom Trophsp cann,10,3618
+Varanus komodoensis A,Kom Trophsp cann,11,664
+Varanus komodoensis A,Kom Trophsp cann,12,40
+Gorgosaurus libratus,DPF Trophsp,1,1
+Gorgosaurus libratus,DPF Trophsp,2,101
+Gorgosaurus libratus,DPF Trophsp,3,564
+Gorgosaurus libratus,DPF Trophsp,4,10572
+Gorgosaurus libratus,DPF Trophsp,5,69300
+Gorgosaurus libratus,DPF Trophsp,6,236954
+Gorgosaurus libratus,DPF Trophsp,7,516621
+Gorgosaurus libratus,DPF Trophsp,8,788272
+Gorgosaurus libratus,DPF Trophsp,9,878444
+Gorgosaurus libratus,DPF Trophsp,10,725542
+Gorgosaurus libratus,DPF Trophsp,11,443280
+Gorgosaurus libratus,DPF Trophsp,12,197145
+Gorgosaurus libratus,DPF Trophsp,13,61511
+Gorgosaurus libratus,DPF Trophsp,14,12467
+Gorgosaurus libratus,DPF Trophsp,15,1394
+Gorgosaurus libratus,DPF Trophsp,16,56
+Gorgosaurus libratus J,DPF Trophsp,1,1
+Gorgosaurus libratus J,DPF Trophsp,2,62
+Gorgosaurus libratus J,DPF Trophsp,3,772
+Gorgosaurus libratus J,DPF Trophsp,4,12855
+Gorgosaurus libratus J,DPF Trophsp,5,69742
+Gorgosaurus libratus J,DPF Trophsp,6,198833
+Gorgosaurus libratus J,DPF Trophsp,7,365961
+Gorgosaurus libratus J,DPF Trophsp,8,472639
+Gorgosaurus libratus J,DPF Trophsp,9,441626
+Gorgosaurus libratus J,DPF Trophsp,10,300458
+Gorgosaurus libratus J,DPF Trophsp,11,147362
+Gorgosaurus libratus J,DPF Trophsp,12,50410
+Gorgosaurus libratus J,DPF Trophsp,13,11129
+Gorgosaurus libratus J,DPF Trophsp,14,1338
+Gorgosaurus libratus J,DPF Trophsp,15,56
+Gorgosaurus libratus Y,DPF Trophsp,1,5
+Gorgosaurus libratus Y,DPF Trophsp,2,240
+Gorgosaurus libratus Y,DPF Trophsp,3,6795
+Gorgosaurus libratus Y,DPF Trophsp,4,50940
+Gorgosaurus libratus Y,DPF Trophsp,5,178210
+Gorgosaurus libratus Y,DPF Trophsp,6,371345
+Gorgosaurus libratus Y,DPF Trophsp,7,518040
+Gorgosaurus libratus Y,DPF Trophsp,8,504295
+Gorgosaurus libratus Y,DPF Trophsp,9,340725
+Gorgosaurus libratus Y,DPF Trophsp,10,154000
+Gorgosaurus libratus Y,DPF Trophsp,11,42825
+Gorgosaurus libratus Y,DPF Trophsp,12,6130
+Gorgosaurus libratus Y,DPF Trophsp,13,280
+Gorgosaurus libratus,DPF Trophsp pack,1,1
+Gorgosaurus libratus,DPF Trophsp pack,2,61
+Gorgosaurus libratus,DPF Trophsp pack,3,12
+Gorgosaurus libratus J,DPF Trophsp pack,1,1
+Gorgosaurus libratus J,DPF Trophsp pack,2,105
+Gorgosaurus libratus J,DPF Trophsp pack,3,732
+Gorgosaurus libratus J,DPF Trophsp pack,4,11552
+Gorgosaurus libratus J,DPF Trophsp pack,5,59566
+Gorgosaurus libratus J,DPF Trophsp pack,6,163191
+Gorgosaurus libratus J,DPF Trophsp pack,7,291692
+Gorgosaurus libratus J,DPF Trophsp pack,8,369031
+Gorgosaurus libratus J,DPF Trophsp pack,9,340767
+Gorgosaurus libratus J,DPF Trophsp pack,10,232313
+Gorgosaurus libratus J,DPF Trophsp pack,11,116562
+Gorgosaurus libratus J,DPF Trophsp pack,12,41845
+Gorgosaurus libratus J,DPF Trophsp pack,13,9903
+Gorgosaurus libratus J,DPF Trophsp pack,14,1282
+Gorgosaurus libratus J,DPF Trophsp pack,15,56
+Gorgosaurus libratus Y,DPF Trophsp pack,1,2
+Gorgosaurus libratus Y,DPF Trophsp pack,2,208
+Gorgosaurus libratus Y,DPF Trophsp pack,3,2742
+Gorgosaurus libratus Y,DPF Trophsp pack,4,20376
+Gorgosaurus libratus Y,DPF Trophsp pack,5,71284
+Gorgosaurus libratus Y,DPF Trophsp pack,6,148538
+Gorgosaurus libratus Y,DPF Trophsp pack,7,207216
+Gorgosaurus libratus Y,DPF Trophsp pack,8,201718
+Gorgosaurus libratus Y,DPF Trophsp pack,9,136290
+Gorgosaurus libratus Y,DPF Trophsp pack,10,61600
+Gorgosaurus libratus Y,DPF Trophsp pack,11,17130
+Gorgosaurus libratus Y,DPF Trophsp pack,12,2452
+Gorgosaurus libratus Y,DPF Trophsp pack,13,112
+Gorgosaurus libratus,DPF Trophsp-juv,1,1
+Gorgosaurus libratus,DPF Trophsp-juv,2,89
+Gorgosaurus libratus,DPF Trophsp-juv,3,536
+Gorgosaurus libratus,DPF Trophsp-juv,4,10552
+Gorgosaurus libratus,DPF Trophsp-juv,5,69296
+Gorgosaurus libratus,DPF Trophsp-juv,6,236954
+Gorgosaurus libratus,DPF Trophsp-juv,7,516621
+Gorgosaurus libratus,DPF Trophsp-juv,8,788272
+Gorgosaurus libratus,DPF Trophsp-juv,9,878444
+Gorgosaurus libratus,DPF Trophsp-juv,10,725542
+Gorgosaurus libratus,DPF Trophsp-juv,11,443280
+Gorgosaurus libratus,DPF Trophsp-juv,12,197145
+Gorgosaurus libratus,DPF Trophsp-juv,13,61511
+Gorgosaurus libratus,DPF Trophsp-juv,14,12467
+Gorgosaurus libratus,DPF Trophsp-juv,15,1394
+Gorgosaurus libratus,DPF Trophsp-juv,16,56
+Gorgosaurus libratus J,DPF Trophsp-juv,1,1
+Gorgosaurus libratus J,DPF Trophsp-juv,2,50
+Gorgosaurus libratus J,DPF Trophsp-juv,3,756
+Gorgosaurus libratus J,DPF Trophsp-juv,4,12851
+Gorgosaurus libratus J,DPF Trophsp-juv,5,69742
+Gorgosaurus libratus J,DPF Trophsp-juv,6,198833
+Gorgosaurus libratus J,DPF Trophsp-juv,7,365961
+Gorgosaurus libratus J,DPF Trophsp-juv,8,472639
+Gorgosaurus libratus J,DPF Trophsp-juv,9,441626
+Gorgosaurus libratus J,DPF Trophsp-juv,10,300458
+Gorgosaurus libratus J,DPF Trophsp-juv,11,147362
+Gorgosaurus libratus J,DPF Trophsp-juv,12,50410
+Gorgosaurus libratus J,DPF Trophsp-juv,13,11129
+Gorgosaurus libratus J,DPF Trophsp-juv,14,1338
+Gorgosaurus libratus J,DPF Trophsp-juv,15,56
+Gorgosaurus libratus Y,DPF Trophsp-juv,1,5
+Gorgosaurus libratus Y,DPF Trophsp-juv,2,240
+Gorgosaurus libratus Y,DPF Trophsp-juv,3,6795
+Gorgosaurus libratus Y,DPF Trophsp-juv,4,50940
+Gorgosaurus libratus Y,DPF Trophsp-juv,5,178210
+Gorgosaurus libratus Y,DPF Trophsp-juv,6,371345
+Gorgosaurus libratus Y,DPF Trophsp-juv,7,518040
+Gorgosaurus libratus Y,DPF Trophsp-juv,8,504295
+Gorgosaurus libratus Y,DPF Trophsp-juv,9,340725
+Gorgosaurus libratus Y,DPF Trophsp-juv,10,154000
+Gorgosaurus libratus Y,DPF Trophsp-juv,11,42825
+Gorgosaurus libratus Y,DPF Trophsp-juv,12,6130
+Gorgosaurus libratus Y,DPF Trophsp-juv,13,280
+Gorgosaurus libratus,DPF Trophsp pack-juv,1,1
+Gorgosaurus libratus,DPF Trophsp pack-juv,2,49
+Gorgosaurus libratus,DPF Trophsp pack-juv,3,8
+Gorgosaurus libratus J,DPF Trophsp pack-juv,1,1
+Gorgosaurus libratus J,DPF Trophsp pack-juv,2,93
+Gorgosaurus libratus J,DPF Trophsp pack-juv,3,716
+Gorgosaurus libratus J,DPF Trophsp pack-juv,4,11536
+Gorgosaurus libratus J,DPF Trophsp pack-juv,5,59562
+Gorgosaurus libratus J,DPF Trophsp pack-juv,6,163191
+Gorgosaurus libratus J,DPF Trophsp pack-juv,7,291692
+Gorgosaurus libratus J,DPF Trophsp pack-juv,8,369031
+Gorgosaurus libratus J,DPF Trophsp pack-juv,9,340767
+Gorgosaurus libratus J,DPF Trophsp pack-juv,10,232313
+Gorgosaurus libratus J,DPF Trophsp pack-juv,11,116562
+Gorgosaurus libratus J,DPF Trophsp pack-juv,12,41845
+Gorgosaurus libratus J,DPF Trophsp pack-juv,13,9903
+Gorgosaurus libratus J,DPF Trophsp pack-juv,14,1282
+Gorgosaurus libratus J,DPF Trophsp pack-juv,15,56
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,1,2
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,2,184
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,3,2734
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,4,20376
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,5,71284
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,6,148538
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,7,207216
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,8,201718
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,9,136290
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,10,61600
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,11,17130
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,12,2452
+Gorgosaurus libratus Y,DPF Trophsp pack-juv,13,112
+Gorgosaurus libratus,DPF MAZ-1a terr,1,1
+Gorgosaurus libratus,DPF MAZ-1a terr,2,161
+Gorgosaurus libratus,DPF MAZ-1a terr,3,1678
+Gorgosaurus libratus,DPF MAZ-1a terr,4,34892
+Gorgosaurus libratus,DPF MAZ-1a terr,5,307074
+Gorgosaurus libratus,DPF MAZ-1a terr,6,1491922
+Gorgosaurus libratus,DPF MAZ-1a terr,7,4670580
+Gorgosaurus libratus,DPF MAZ-1a terr,8,10248731
+Gorgosaurus libratus,DPF MAZ-1a terr,9,16569714
+Gorgosaurus libratus,DPF MAZ-1a terr,10,20281987
+Gorgosaurus libratus,DPF MAZ-1a terr,11,19010124
+Gorgosaurus libratus,DPF MAZ-1a terr,12,13618330
+Gorgosaurus libratus,DPF MAZ-1a terr,13,7348501
+Gorgosaurus libratus,DPF MAZ-1a terr,14,2904116
+Gorgosaurus libratus,DPF MAZ-1a terr,15,802485
+Gorgosaurus libratus,DPF MAZ-1a terr,16,143251
+Gorgosaurus libratus,DPF MAZ-1a terr,17,14176
+Gorgosaurus libratus,DPF MAZ-1a terr,18,528
+Gorgosaurus libratus J,DPF MAZ-1a terr,1,1
+Gorgosaurus libratus J,DPF MAZ-1a terr,2,127
+Gorgosaurus libratus J,DPF MAZ-1a terr,3,2551
+Gorgosaurus libratus J,DPF MAZ-1a terr,4,45470
+Gorgosaurus libratus J,DPF MAZ-1a terr,5,338983
+Gorgosaurus libratus J,DPF MAZ-1a terr,6,1398851
+Gorgosaurus libratus J,DPF MAZ-1a terr,7,3756819
+Gorgosaurus libratus J,DPF MAZ-1a terr,8,7145473
+Gorgosaurus libratus J,DPF MAZ-1a terr,9,10045758
+Gorgosaurus libratus J,DPF MAZ-1a terr,10,10652749
+Gorgosaurus libratus J,DPF MAZ-1a terr,11,8550244
+Gorgosaurus libratus J,DPF MAZ-1a terr,12,5127491
+Gorgosaurus libratus J,DPF MAZ-1a terr,13,2232353
+Gorgosaurus libratus J,DPF MAZ-1a terr,14,672926
+Gorgosaurus libratus J,DPF MAZ-1a terr,15,129603
+Gorgosaurus libratus J,DPF MAZ-1a terr,16,13648
+Gorgosaurus libratus J,DPF MAZ-1a terr,17,528
+Gorgosaurus libratus Y,DPF MAZ-1a terr,1,11
+Gorgosaurus libratus Y,DPF MAZ-1a terr,2,1276
+Gorgosaurus libratus Y,DPF MAZ-1a terr,3,38159
+Gorgosaurus libratus Y,DPF MAZ-1a terr,4,382888
+Gorgosaurus libratus Y,DPF MAZ-1a terr,5,1843699
+Gorgosaurus libratus Y,DPF MAZ-1a terr,6,5313583
+Gorgosaurus libratus Y,DPF MAZ-1a terr,7,10192677
+Gorgosaurus libratus Y,DPF MAZ-1a terr,8,13789545
+Gorgosaurus libratus Y,DPF MAZ-1a terr,9,13504997
+Gorgosaurus libratus Y,DPF MAZ-1a terr,10,9533183
+Gorgosaurus libratus Y,DPF MAZ-1a terr,11,4729516
+Gorgosaurus libratus Y,DPF MAZ-1a terr,12,1578071
+Gorgosaurus libratus Y,DPF MAZ-1a terr,13,327987
+Gorgosaurus libratus Y,DPF MAZ-1a terr,14,36443
+Gorgosaurus libratus Y,DPF MAZ-1a terr,15,1452
+Araneidae,Kom Trophsp,1,0
+Araneidae,Kom Trophsp,2,4026
+Araneidae,Kom Trophsp,3,8174
+Araneidae,Kom Trophsp,4,6832
+Araneidae,Kom Trophsp,5,2928
+Araneidae,Kom Trophsp,6,244
+Araneidae,DPF Trophsp,1,0
+Araneidae,DPF Trophsp,2,223120
+Araneidae,DPF Trophsp,3,423928
+Araneidae,DPF Trophsp,4,527121
+Araneidae,DPF Trophsp,5,181285
+Araneidae,DPF Trophsp,6,11156
+Araneidae,Ser Trophsp,1,0
+Araneidae,Ser Trophsp,2,7116
+Araneidae,Ser Trophsp,3,24080
+Odonata,Kom Trophsp,1,0
+Odonata,Kom Trophsp,2,7656
+Odonata,Kom Trophsp,3,7888
+Odonata,Kom Trophsp,4,5104
+Odonata,Kom Trophsp,5,464
+Anisoptera,DPF Trophsp,1,0
+Anisoptera,DPF Trophsp,2,133742
+Anisoptera,DPF Trophsp,3,306628
+Anisoptera,DPF Trophsp,4,314783
+Anisoptera,DPF Trophsp,5,106015
+Anisoptera,DPF Trophsp,6,6524
+Coleoptera,Kom Trophsp,1,6906
+Coleoptera,Kom Trophsp,2,21869
+Coleoptera,Kom Trophsp,3,2302
+Coleoptera,DPF Trophsp,1,388857
+Coleoptera,DPF Trophsp,2,1388775
+Coleoptera,DPF Trophsp,3,1036952
+Coleoptera,DPF Trophsp,4,74068
+Coleoptera,Ser Trophsp,1,2048
+Coleoptera,Ser Trophsp,2,24576
+Hymenoptera,Kom Trophsp,1,3354
+Hymenoptera,Kom Trophsp,2,7267
+Hymenoptera,Kom Trophsp,3,11180
+Hymenoptera,Kom Trophsp,4,1118
+Hymenoptera,DPF Trophsp,1,99864
+Hymenoptera,DPF Trophsp,2,574218
+Hymenoptera,DPF Trophsp,3,1106826
+Hymenoptera,DPF Trophsp,4,507642
+Hymenoptera,DPF Trophsp,5,33288
+Hymenoptera,Kom Trophsp,1,3354
+Hymenoptera,Kom Trophsp,2,7267
+Hymenoptera,Kom Trophsp,3,11180
+Hymenoptera,Kom Trophsp,4,1118
+Lygodactylus capensis,Ser Trophsp,1,0
+Lygodactylus capensis,Ser Trophsp,2,3573
+Lygodactylus capensis,Ser Trophsp,3,3176
+Lygodactylus capensis,Ser Trophsp,4,8337
+Hemidactylus spp.,Kom Trophsp,1,40
+Hemidactylus spp.,Kom Trophsp,2,1200
+Hemidactylus spp.,Kom Trophsp,3,3960
+Hemidactylus spp.,Kom Trophsp,4,4920
+Hemidactylus spp.,Kom Trophsp,5,3200
+Hemidactylus spp.,Kom Trophsp,6,1040
+Hemidactylus spp.,Kom Trophsp,7,80
+Gekko gekko,Kom Trophsp,1,0
+Gekko gekko,Kom Trophsp,2,1200
+Gekko gekko,Kom Trophsp,3,2640
+Gekko gekko,Kom Trophsp,4,2240
+Gekko gekko,Kom Trophsp,5,960
+Gekko gekko,Kom Trophsp,6,80
+Orthrioscincus mixtus,DPF Trophsp,1,0
+Orthrioscincus mixtus,DPF Trophsp,2,61204
+Orthrioscincus mixtus,DPF Trophsp,3,163592
+Orthrioscincus mixtus,DPF Trophsp,4,197912
+Orthrioscincus mixtus,DPF Trophsp,5,145288
+Orthrioscincus mixtus,DPF Trophsp,6,39468
+Orthrioscincus mixtus,DPF Trophsp,7,2288
+Sphenomorphus florensis,Kom Trophsp,1,0
+Sphenomorphus florensis,Kom Trophsp,2,1833
+Sphenomorphus florensis,Kom Trophsp,3,3196
+Sphenomorphus florensis,Kom Trophsp,4,4183
+Sphenomorphus florensis,Kom Trophsp,5,2726
+Sphenomorphus florensis,Kom Trophsp,6,1128
+Sphenomorphus florensis,Kom Trophsp,7,94
+Varanoidea,DPF Trophsp,1,18
+Varanoidea,DPF Trophsp,2,1314
+Varanoidea,DPF Trophsp,3,14373
+Varanoidea,DPF Trophsp,4,65979
+Varanoidea,DPF Trophsp,5,168858
+Varanoidea,DPF Trophsp,6,274050
+Varanoidea,DPF Trophsp,7,305955
+Varanoidea,DPF Trophsp,8,234675
+Varanoidea,DPF Trophsp,9,118296
+Varanoidea,DPF Trophsp,10,35721
+Varanoidea,DPF Trophsp,11,5391
+Varanoidea,DPF Trophsp,12,252
+Varanus niloticus,Ser Trophsp,1,0
+Varanus niloticus,Ser Trophsp,2,21
+Varanus niloticus,Ser Trophsp,3,71
+Varanus niloticus,Ser Trophsp,4,134
+Varanus niloticus,Ser Trophsp,5,239
+Varanus niloticus,Ser Trophsp,6,288
+Varanus niloticus,Ser Trophsp,7,249
+Varanus niloticus,Ser Trophsp,8,127
+Varanus niloticus,Ser Trophsp,9,21
+Labrodioctes,DPF MAZ-1a terr,1,66
+Labrodioctes,DPF MAZ-1a terr,2,10758
+Labrodioctes,DPF MAZ-1a terr,3,188694
+Labrodioctes,DPF MAZ-1a terr,4,1060356
+Labrodioctes,DPF MAZ-1a terr,5,2938056
+Labrodioctes,DPF MAZ-1a terr,6,4811466
+Labrodioctes,DPF MAZ-1a terr,7,5252346
+Labrodioctes,DPF MAZ-1a terr,8,3806418
+Labrodioctes,DPF MAZ-1a terr,9,1754346
+Labrodioctes,DPF MAZ-1a terr,10,476454
+Labrodioctes,DPF MAZ-1a terr,11,65142
+Labrodioctes,DPF MAZ-1a terr,12,2904
+Parasaniwa,DPF MAZ-1a terr,1,1360
+Parasaniwa,DPF MAZ-1a terr,2,110840
+Parasaniwa,DPF MAZ-1a terr,3,1442280
+Parasaniwa,DPF MAZ-1a terr,4,5565120
+Parasaniwa,DPF MAZ-1a terr,5,11340360
+Parasaniwa,DPF MAZ-1a terr,6,15019840
+Parasaniwa,DPF MAZ-1a terr,7,13270880
+Parasaniwa,DPF MAZ-1a terr,8,8179040
+Parasaniwa,DPF MAZ-1a terr,9,3134800
+Parasaniwa,DPF MAZ-1a terr,10,581400
+Parasaniwa,DPF MAZ-1a terr,11,29920
+Palaeosaniwa,DPF MAZ-1a terr,1,66
+Palaeosaniwa,DPF MAZ-1a terr,2,7689
+Palaeosaniwa,DPF MAZ-1a terr,3,120582
+Palaeosaniwa,DPF MAZ-1a terr,4,840081
+Palaeosaniwa,DPF MAZ-1a terr,5,3176250
+Palaeosaniwa,DPF MAZ-1a terr,6,7338078
+Palaeosaniwa,DPF MAZ-1a terr,7,11293920
+Palaeosaniwa,DPF MAZ-1a terr,8,12176670
+Palaeosaniwa,DPF MAZ-1a terr,9,9210564
+Palaeosaniwa,DPF MAZ-1a terr,10,4772823
+Palaeosaniwa,DPF MAZ-1a terr,11,1624425
+Palaeosaniwa,DPF MAZ-1a terr,12,337392
+Palaeosaniwa,DPF MAZ-1a terr,13,36927
+Palaeosaniwa,DPF MAZ-1a terr,14,1452
+Crocidura sp.,Kom Trophsp,1,0
+Crocidura sp.,Kom Trophsp,2,160
+Crocidura sp.,Kom Trophsp,3,335
+Crocidura sp.,Kom Trophsp,4,445
+Crocidura sp.,Kom Trophsp,5,290
+Crocidura sp.,Kom Trophsp,6,120
+Crocidura sp.,Kom Trophsp,7,10
+Crocidura sp.,Ser Trophsp,1,0
+Crocidura sp.,Ser Trophsp,2,220
+Crocidura sp.,Ser Trophsp,3,440
+Crocidura sp.,Ser Trophsp,4,462
+Eutheria (other),DPF Trophsp,1,858
+Eutheria (other),DPF Trophsp,2,29744
+Eutheria (other),DPF Trophsp,3,80938
+Eutheria (other),DPF Trophsp,4,98956
+Eutheria (other),DPF Trophsp,5,72644
+Eutheria (other),DPF Trophsp,6,19734
+Eutheria (other),DPF Trophsp,7,1144
+Helogale parvula,Ser Trophsp,1,1
+Helogale parvula,Ser Trophsp,2,34
+Helogale parvula,Ser Trophsp,3,157
+Helogale parvula,Ser Trophsp,4,408
+Helogale parvula,Ser Trophsp,5,752
+Helogale parvula,Ser Trophsp,6,1022
+Helogale parvula,Ser Trophsp,7,1026
+Helogale parvula,Ser Trophsp,8,702
+Helogale parvula,Ser Trophsp,9,275
+Helogale parvula,Ser Trophsp,10,42
+Paradoxurus musangus,Kom Trophsp,1,6
+Paradoxurus musangus,Kom Trophsp,2,60
+Paradoxurus musangus,Kom Trophsp,3,416
+Paradoxurus musangus,Kom Trophsp,4,972
+Paradoxurus musangus,Kom Trophsp,5,1272
+Paradoxurus musangus,Kom Trophsp,6,984
+Paradoxurus musangus,Kom Trophsp,7,476
+Paradoxurus musangus,Kom Trophsp,8,116
+Paradoxurus musangus,Kom Trophsp,9,8
+Stagodontidae,DPF Trophsp,1,315
+Stagodontidae,DPF Trophsp,2,9261
+Stagodontidae,DPF Trophsp,3,82089
+Stagodontidae,DPF Trophsp,4,284445
+Stagodontidae,DPF Trophsp,5,513387
+Stagodontidae,DPF Trophsp,6,591003
+Stagodontidae,DPF Trophsp,7,433881
+Stagodontidae,DPF Trophsp,8,179865
+Stagodontidae,DPF Trophsp,9,34209
+Stagodontidae,DPF Trophsp,10,1764
+Eodelphis browni,DPF MAZ-1a terr,1,3400
+Eodelphis browni,DPF MAZ-1a terr,2,124440
+Eodelphis browni,DPF MAZ-1a terr,3,1366120
+Eodelphis browni,DPF MAZ-1a terr,4,5012280
+Eodelphis browni,DPF MAZ-1a terr,5,9111320
+Eodelphis browni,DPF MAZ-1a terr,6,10449560
+Eodelphis browni,DPF MAZ-1a terr,7,7611240
+Eodelphis browni,DPF MAZ-1a terr,8,3104880
+Eodelphis browni,DPF MAZ-1a terr,9,581400
+Eodelphis browni,DPF MAZ-1a terr,10,29920
+Didelphodon sp.,DPF MAZ-1a terr,1,924
+Didelphodon sp.,DPF MAZ-1a terr,2,50204
+Didelphodon sp.,DPF MAZ-1a terr,3,827904
+Didelphodon sp.,DPF MAZ-1a terr,4,4803876
+Didelphodon sp.,DPF MAZ-1a terr,5,13491632
+Didelphodon sp.,DPF MAZ-1a terr,6,22334004
+Didelphodon sp.,DPF MAZ-1a terr,7,24487232
+Didelphodon sp.,DPF MAZ-1a terr,8,17762052
+Didelphodon sp.,DPF MAZ-1a terr,9,8186948
+Didelphodon sp.,DPF MAZ-1a terr,10,2223452
+Didelphodon sp.,DPF MAZ-1a terr,11,303996
+Didelphodon sp.,DPF MAZ-1a terr,12,13552
+Odaxosaurus priscus,DPF Trophsp,1,0
+Odaxosaurus priscus,DPF Trophsp,2,52624
+Odaxosaurus priscus,DPF Trophsp,3,203632
+Odaxosaurus priscus,DPF Trophsp,4,320320
+Odaxosaurus priscus,DPF Trophsp,5,329472
+Odaxosaurus priscus,DPF Trophsp,6,111540
+Odaxosaurus priscus,DPF Trophsp,7,6864
+Teiidae,DPF Trophsp,1,572
+Teiidae,DPF Trophsp,2,28314
+Teiidae,DPF Trophsp,3,184184
+Teiidae,DPF Trophsp,4,464178
+Teiidae,DPF Trophsp,5,622050
+Teiidae,DPF Trophsp,6,475332
+Teiidae,DPF Trophsp,7,135850
+Teiidae,DPF Trophsp,8,8008
+Anura,Kom Trophsp,1,54
+Anura,Kom Trophsp,2,702
+Anura,Kom Trophsp,3,2700
+Anura,Kom Trophsp,4,3321
+Anura,Kom Trophsp,5,2160
+Anura,Kom Trophsp,6,702
+Anura,Kom Trophsp,7,54
+Rats,Kom Trophsp,1,100
+Rats,Kom Trophsp,2,440
+Rats,Kom Trophsp,3,660
+Rats,Kom Trophsp,4,440
+Rats,Kom Trophsp,5,40

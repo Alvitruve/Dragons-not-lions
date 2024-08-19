@@ -1,0 +1,33 @@
+Predator,Group,Trophic.res,Food.web,PATL,Mean.CL,Med.CL,Var.CL,SD.CL
+Araneidae,Spiders,Trophic sp.,Komodo Tsp,3.313571,3.379481,3,1.417169,1.190449
+Araneidae,Spiders,Trophic sp.,DPF Tsp,3.274523,3.952778,4,1.375549,1.172838
+Araneidae,Spiders,Trophic sp.,Serengeti Tsp,3.513784,2.7718938,3,0.1760794,0.4196181
+Odonata,Dragonflies,Trophic sp.,Komodo Tsp,3.188571,2.9230769,3,0.686423,0.8285065
+Anisoptera,Dragonflies,Trophic sp.,DPF Tsp,3.228277,3.976389,4,1.486945,1.219404
+Coleoptera,Beetles,Trophic sp.,Komodo Tsp,2.487879,1.8518519,2,0.2743573,0.5237912
+Coleoptera,Beetles,Trophic sp.,DPF Tsp,2.459756,2.1645656,2,0.4907354,0.7005251
+Coleoptera,Beetles,Trophic sp.,Serengeti Tsp,2.857143,1.92307692,2,0.07100859,0.26647438
+Hymenoptera,Wasps,Trophic sp.,DPF Tsp,2.520384,2.9139785,3,0.6879411,0.8294221
+Hymenoptera,Wasps,Trophic sp.,Komodo Tsp,2.465455,2.4390244,3,0.6365537,0.7978431
+Anura,Frogs,Trophic sp.,Komodo Tsp,3.182214,3.94429,4,1.178076,1.085392
+Gekko gekko,Gekkos,Trophic sp.,Komodo Tsp,3.292738,3.4494382,3,0.9217303,0.9600678
+Hemidactylus spp.,Gekkos,Trophic sp.,Komodo Tsp,3.265548,3.933518,4,1.186798,1.089403
+Lygodactylus capensis,Gekkos,Trophic sp.,Serengeti Tsp,3.369424,3.3157895,4,0.6897964,0.8305398
+Odaxosaurus priscus,Anguid,Trophic sp.,DPF Tsp,3.411796,4.257956,4,1.155123,1.074767
+Orthrioscincus mixtus,Skinks,Trophic sp.,DPF Tsp,3.349986,3.909944,4,1.192642,1.092082
+Sphenomorphus florensis,Skinks,Trophic sp.,Komodo Tsp,3.283357,3.878571,4,1.399647,1.183067
+Varanoidea,Varanoids,Trophic sp.,DPF Tsp,3.670875,6.777432,7,2.341441,1.530177
+Varanus niloticus,Varanoids,Trophic sp.,Serengeti Tsp,3.720079,5.793043,6,2.30352,1.517735
+Varanus komodoensis,Varanoids,Trophic sp.,Komodo Tsp,3.97207,6.259377,6,1.709112,1.30733
+Palaeosaniwa,Varanoids,Full tax res,DPF fulltax,4.203851,7.718549,8,2.576301,1.605086
+Parasaniwa,Varanoids,Full tax res,DPF fulltax,3.94731,6.243047,6,2.201474,1.483737
+Labrodioctes,Varanoids,Full tax res,DPF fulltax,4.142036,6.722195,7,2.162922,1.470688
+Rats,Rats,Trophic sp.,Komodo Tsp,2.615333,2.9285714,3,0.8525483,0.9233354
+Stagodontidae,C mammals,Trophic sp.,DPF Tsp,3.403831,5.782244,6,1.846973,1.359034
+Paradoxurus musangus,C mammals,Trophic sp.,Komodo Tsp,3.443964,5.071462,5,1.696447,1.302477
+Helogale parvula,C mammals,Trophic sp.,Serengeti Tsp,3.680871,6.281285,6,2.489217,1.577725
+Eodelphis browni,C mammals,Full tax res,DPF fulltax,3.773857,5.78435,6,1.806001,1.343875
+Didelphodon sp.,C mammals,Full tax res,DPF fulltax,3.991634,6.733219,7,2.149203,1.466016
+Crocidura sp.,I mammals,Trophic sp.,Serengeti Tsp,3.45071,3.2156863,3,0.5618233,0.7495487
+Crocidura sp.,I mammals,Trophic sp.,Komodo Tsp,3.333363,3.930147,4,1.345375,1.159903
+Eutheria (other),I mammals,Trophic sp.,DPF Tsp,3.050543,3.90969,4,1.207276,1.098761

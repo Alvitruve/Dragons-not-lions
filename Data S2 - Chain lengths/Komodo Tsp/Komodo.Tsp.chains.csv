@@ -1,0 +1,59 @@
+node,1,2,3,4,5,6,7,8,9,10
+Detritus,0,0,0,0,0,0,0,0,0,0
+Carrion,0,0,0,0,0,0,0,0,0,0
+Algae,0,0,0,0,0,0,0,0,0,0
+Plant juices,0,0,0,0,0,0,0,0,0,0
+Grains and seeds,0,0,0,0,0,0,0,0,0,0
+Fruits and nectar,0,0,0,0,0,0,0,0,0,0
+Grass and herbs,0,0,0,0,0,0,0,0,0,0
+Trees and shrubs,0,0,0,0,0,0,0,0,0,0
+Roots and tubers,0,0,0,0,0,0,0,0,0,0
+Fungi,5645,0,0,0,0,0,0,0,0,0
+Demospongiae,22,22,0,0,0,0,0,0,0,0
+Medusozoa,0,6,0,0,0,0,0,0,0,0
+Asperitas trochus,7,7,0,0,0,0,0,0,0,0
+Bivalvia,10,10,0,0,0,0,0,0,0,0
+Branchiopoda,2356,0,0,0,0,0,0,0,0,0
+Diplopoda,73,0,0,0,0,0,0,0,0,0
+Odonata,0,7656,7888,5104,464,0,0,0,0,0
+Orthoptera,2340,0,0,0,0,0,0,0,0,0
+Blattodea,5956,1489,0,0,0,0,0,0,0,0
+Isoptera,344,0,0,0,0,0,0,0,0,0
+Heteroptera,11592,0,0,0,0,0,0,0,0,0
+Coleoptera,6906,21869,2302,0,0,0,0,0,0,0
+Diptera,10690,2138,0,0,0,0,0,0,0,0
+Hymenoptera,3354,7267,11180,1118,0,0,0,0,0,0
+Lepidoptera,1025,0,0,0,0,0,0,0,0,0
+Araneidae,0,4026,8174,6832,2928,244,0,0,0,0
+Brachyura,12,12,0,0,0,0,0,0,0,0
+Isopoda,1188,297,0,0,0,0,0,0,0,0
+Teleostei,8,136,168,16,0,0,0,0,0,0
+Anura,54,702,2700,3321,2160,702,54,0,0,0
+Gekko gekko,0,1200,2640,2240,960,80,0,0,0,0
+Hemidactylus spp.,40,1200,3960,4920,3200,1040,80,0,0,0
+Sphenomorphus melanopogon,0,1833,3196,4183,2726,1128,94,0,0,0
+Coelognathus subradiatus,0,130,1690,3990,4350,2460,780,60,0,0
+Dendrelaphis pictus,0,30,1250,3330,3910,2420,780,60,0,0
+Daboia siamensis,0,26,360,1034,1340,1028,480,116,8,0
+Eretmochelys imbricata,3,15,69,63,6,0,0,0,0,0
+Megapodius reinwardt,12,90,363,612,702,420,150,12,0,0
+Gallus varius,9,78,228,1092,2463,2652,1536,474,36,0
+Doves,8,0,0,0,0,0,0,0,0,0
+Corvus macrorhynchos,5,28,66,68,44,4,0,0,0,0
+Haliastur indus,2,34,440,1730,2942,2792,1504,432,32,0
+Icthyophaga leucogaster,1,15,134,600,1148,1198,678,210,16,0
+Crocidura sp.,0,160,335,445,290,120,10,0,0,0
+Hipposideros diadema,0,84,198,267,174,72,6,0,0,0
+Pteropus vampyrus,4,0,0,0,0,0,0,0,0,0
+Mus musculus,105,462,693,462,42,0,0,0,0,0
+Rats,100,440,660,440,40,0,0,0,0,0
+Macaca fascicularis,6,74,70,44,4,0,0,0,0,0
+Paradoxurus musangus,6,60,416,972,1272,984,476,116,8,0
+?Arctogalidia sp.,2,58,414,972,1272,984,476,116,8,0
+Sus scrofa,8,24,94,828,1934,2188,1300,416,32,0
+Cervus timorensis,6,0,0,0,0,0,0,0,0,0
+Bubalis bubalis,4,0,0,0,0,0,0,0,0,0
+Varanus komodoensis Y,0,121,1298,2585,2948,1782,572,44,0,0
+Varanus komodoensis J,1,42,409,1784,4167,5578,4506,2194,564,40
+Varanus komodoensis S,1,41,279,1498,4157,6269,5500,2836,772,56
+Varanus komodoensis A,1,20,110,302,1025,2026,2118,1212,370,28

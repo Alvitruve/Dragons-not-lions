@@ -1,0 +1,88 @@
+node,name,ID,Higher-level taxon,Resolved to,Trophic role,Habitat,M,L
+Detritus,Detritus,1,NA,NA,organics,Both/Amphibious,NA,NA
+Decayed wood,Decayed wood,2,NA,NA,organics,Terrestrial,NA,NA
+Carrion,Carrion,3,NA,NA,organics,Both/Amphibious,NA,NA
+Enterobacteriaceae,Enterobacteriaceae,4,Gram-negative bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Iron-oxi bacteria,Iron-oxi bacteria,5,Gram-negative bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Iron-red bacteria,Iron-red bacteria,6,Gram-negative bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Rods,Rods,7,Gram-negative bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Coccibacilli,Coccibacilli,8,Gram-negative/positive bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Coccoid bacteria,Coccoid bacteria,9,Gram-positive bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Curved rod bacteria,Curved rod bacteria,10,Gram-positive bacteria,NA,chemotroph,Both/Amphibious,NA,NA
+Phosphate-red bacteria,Phosphate-red bacteria,11,Proteobacteria-alpha,phylum,chemotroph,Both/Amphibious,NA,NA
+Methanogens,Methanogens,12,Proteobacteria-beta/gamma,phylum,heterotroph,Both/Amphibious,NA,NA
+Gram-positive anaerobes,Gram-positive anaerobes,13,Proteobacteria-gamma,phylum,chemotroph,Both/Amphibious,NA,NA
+Bryophyta,Bryophyta,14,Bryophyta,family,autotroph,Both/Amphibious,NA,NA
+Lycopodiopsida,Lycopodiopsida,15,Lycopodiopsida,family,autotroph,Terrestrial,NA,NA
+Equisetum sp.,Equisetum sp.,16,Equisetaceae,genus,autotroph,Terrestrial,NA,NA
+Fern leaves,Fern leaves,17,Polypodiales,family,autotroph,Terrestrial,NA,NA
+Cycad leaves,Cycad leaves,18,Cycadaceae,family,autotroph,Terrestrial,NA,NA
+Conifer leaves,Conifer leaves,19,Coniferophyta,division,autotroph,Terrestrial,NA,NA
+Ginkgo leaves,Ginkgo leaves,20,Ginkgophyta,division,autotroph,Terrestrial,NA,NA
+Angiosperm leaves,Angiosperm leaves,21,Magnoliopsida,class,autotroph,Terrestrial,NA,NA
+Angiosperm shoots & stems,Angiosperm shoots and stems,22,Magnoliopsida,class,autotroph,Terrestrial,NA,NA
+Angiosperm seeds & fruits,Angiosperm seeds and fruits,23,Magnoliopsida,class,autotroph,Terrestrial,NA,NA
+Rhizomes,Rhizomes,24,Lilopsida,class,autotroph,Terrestrial,NA,NA
+Lichen,Lichen,25,NA,NA,saprobe,Terrestrial,NA,NA
+Fungi,Fungi,26,Myceteae,kingdom,saprobe,Terrestrial,NA,NA
+Pulmonate snails,Pulmonate snails,27,Gastropoda,NA,omnivore,Terrestrial,NA,NA
+Acari,Acari,28,Arachnida,order,herbivore,Terrestrial,NA,NA
+Araneidae,Araneidae,29,Arachnida,order,carnivore,Terrestrial,0.0051086,NA
+Pseudoscorpionida,Pseudoscorpionida,30,Arachnida,order,carnivore,Terrestrial,0.00000212,NA
+Diplopoda,Diplopoda,31,Myriapoda,class,detritivore,Terrestrial,0.00075,NA
+Collembola,Collembola,32,Insecta,order,detritivore,Terrestrial,NA,NA
+Anisoptera,Anisoptera,33,Insecta,suborder,carnivore,Both/Amphibious,0.0003673,NA
+Blattodea,Blattodea,34,Insecta,order,detritivore,Terrestrial,0.005,NA
+Isoptera,Isoptera,35,Insecta,infraorder,detritivore,Terrestrial,0.0000075,NA
+Phasmatodea,Phasmatodea,36,Insecta,order,herbivore,Terrestrial,0.001061,NA
+Orthoptera,Orthoptera,37,Insecta,order,omnivore,Terrestrial,0.0038951,NA
+Psocodea,Psocodea,38,Insecta,order,omnivore,Terrestrial,NA,NA
+Thysanoptera,Thysanoptera,39,Insecta,order,herbivore,Terrestrial,NA,NA
+Aphidoidea,Aphidoidea,40,Insecta,family,herbivore,Terrestrial,NA,NA
+Hemiptera (other),Hemiptera (other),41,Insecta,order,omnivore,Both/Amphibious,0.00094,NA
+Coleoptera,Coleoptera,42,Insecta,order,omnivore,Both/Amphibious,0.0019,NA
+Diptera,Diptera,43,Insecta,order,omnivore,Both/Amphibious,0.00016517,NA
+Formicidae,Formicidae,44,Insecta,order,omnivore,Terrestrial,0.0007,NA
+Hymenoptera (other),Hymenoptera (other),45,Insecta,order,omnivore,Terrestrial,0.001665,NA
+Lepidoptera,Lepidoptera,46,Insecta,order,herbivore,Terrestrial,0.00091,NA
+Basilemys variolosa,Basilemys variolosa,47,Testudines,species,herbivore,Terrestrial,190,1.3
+Odaxosaurus priscus,Odaxosaurus priscus,48,Squamata,species,carnivore; invertivore,Terrestrial,0.05,0.14
+Orthrioscincus mixtus,Orthrioscincus mixtus,49,Squamata,species,carnivore; invertivore,Terrestrial,0.03,0.113
+Teiidae,Teiidae,50,Squamata,family,omnivore,Terrestrial,NA,NA
+?Exostinus sp.,?Exostinus sp.,51,Squamata,family,carnivore,Terrestrial,0.075,0.16
+Varanoidea,NA,52,NA,NA,carnivore,Terrestrial,NA,NA
+Cryodrakon boreas,Cryodrakon boreas,53,Pterosauria,species,carnivore,Terrestrial,250,NA
+Orodrominae,Orodrominae,54,Thescelosauridae,subfamily,herbivore,Terrestrial,13,NA
+Pachycephalosauridae,Pachycephalosauridae,55,Pachycephalosauridae,family,herbivore,Terrestrial,NA,NA
+Unescoceratops koppelhusae,Unescoceratops koppelhusae,56,Leptoceratopsidae,species,herbivore,Terrestrial,160,NA
+Ornithomimidae,Ornithomimidae,57,Ornithomimidae,family,herbivore,Terrestrial,NA,NA
+Caenagnathus collinsi,Caenagnathus collinsi,58,Caenagnathidae,species,omnivore,Terrestrial,96,NA
+Chirostenotes pergracilis,Chirostenotes pergracilis,59,Caenagnathidae,species,omnivore,Terrestrial,63.872,NA
+Citipes elegans,Citipes elegans,60,Caenagnathidae,species,omnivore,Terrestrial,19.8,NA
+cf Richardoestesia spp.,cf Richardoestesia,61,Maniraptora indet,morphotype,carnivore,Terrestrial,NA,NA
+cf Paronychodon,cf Paronychodon,62,Troodontidae,family,carnivore,Terrestrial,45,NA
+Troodontidae,Troodontidae,63,Troodontidae,family,omnivore,Terrestrial,NA,NA
+Dromaeosauridae,Dromaeosauridae,64,Dromaeosauridae,family,carnivore,Terrestrial,NA,NA
+Hesperonychus elizabethae,Hesperonychus elizabethae,65,Dromaeosauridae,species,carnivore,Terrestrial,2.33,NA
+Ornithurae (large),Ornithurae (large),66,Ornithurae,clade indet,omnivore,Terrestrial,NA,NA
+Ornithurae (small),Ornithurae (small),67,Ornithurae,clade indet,omnivore,Terrestrial,NA,NA
+Mesodma primaeva,Mesodma primaeva,68,Multituberculata,genus,herbivore,Terrestrial,0.0535,NA
+Multituberculata (other),Multituberculata (other),69,Multituberculata,order,omnivore,Terrestrial,NA,NA
+Alphadontidae,Alphadontidae,70,Alphadontidae,family,omnivore,Terrestrial,NA,NA
+Pediomys spp.,Pediomys spp.,71,Marsupialia,genus,omnivore,Terrestrial,0.0588,NA
+Stagodontidae,Stagodontidae,72,Stagodontidae,family,omnivore,Terrestrial,NA,NA
+Gypsonictops lewisi,Gypsonictops lewisi,73,Eutheria,genus,omnivore,Terrestrial,0.0961,NA
+Eutheria (other),Eutheria (other),74,Eutheria,clade indet,omnivore,Terrestrial,NA,NA
+Euoplocephalus tutus,Euoplocephalus tutus,75,Ankylosauria,species,herbivore,Terrestrial,1617.9,NA
+Nodosauridae,Nodosauridae,76,Nodosauridae,family,herbivore,Terrestrial,NA,NA
+Lambeosaurinae,Lambeosaurinae,77,Hadrosauridae,subfamily,herbivore,Terrestrial,NA,NA
+J Lambeosaurinae,J Lambeosaurinae,78,Hadrosauridae,subfamily,herbivore,Terrestrial,NA,NA
+Saurolophinae,Saurolophinae,79,Hadrosauridae,subfamily,herbivore,Terrestrial,4717.051,NA
+J Saurolophinae,J Saurolophinae,80,Hadrosauridae,subfamily,herbivore,Terrestrial,120,NA
+Centrosaurinae,Centrosaurinae,81,Ceratopsidae,subfamily,herbivore,Terrestrial,2125.548,NA
+J Centrosaurinae,J Centrosaurinae,82,Ceratopsidae,subfamily,herbivore,Terrestrial,160,NA
+Chasmosaurinae,Chasmosaurinae,83,Ceratopsidae,subfamily,herbivore,Terrestrial,NA,NA
+J Chasmosaurinae,J Chasmosaurinae,84,Ceratopsidae,subfamily,herbivore,Terrestrial,NA,NA
+Tyrannosauridae,Tyrannosauridae,85,Tyrannosauridae,family,carnivore,Terrestrial,NA,NA
+J Tyrannosauridae,J Tyrannosauridae,86,Tyrannosauridae,family,carnivore,Terrestrial,NA,NA
+Y Tyrannosauridae,Y Tyrannosauridae,87,Tyrannosauridae,family,carnivore,Terrestrial,NA,NA

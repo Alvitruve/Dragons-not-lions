@@ -1,0 +1,766 @@
+resource,consumer
+Decaying material,Thripidae
+Plant juices,Thripidae
+Decaying material,Coleoptera
+Thripidae,Coleoptera
+Hodotermes sp.,Coleoptera
+Diptera,Coleoptera
+Gryllidae,Coleoptera
+Heteroptera,Coleoptera
+Blattodea,Coleoptera
+Coleoptera,Araneidae
+Formicidae,Araneidae
+Diptera,Araneidae
+Heteroptera,Araneidae
+Mantidae,Araneidae
+Decaying material,Formicidae
+Trees and shrubs,Formicidae
+Hodotermes sp.,Formicidae
+Decaying material,Hodotermes sp.
+Grass and herbs,Hodotermes sp.
+Decaying material,Diptera
+Fruits and nectar,Diptera
+Decaying material,Gryllidae
+Plant juices,Gryllidae
+Grass and herbs,Gryllidae
+Trees and shrubs,Gryllidae
+Plant juices,Heteroptera
+Decaying material,Tettigoniidae
+Fruits and nectar,Tettigoniidae
+Grains and seeds,Tettigoniidae
+Diptera,Tettigoniidae
+Gryllidae,Tettigoniidae
+Heteroptera,Tettigoniidae
+Diplopoda,Tettigoniidae
+Araneidae,Mantidae
+Diptera,Mantidae
+Gryllidae,Mantidae
+Heteroptera,Mantidae
+Thripidae,Chilopoda
+Gryllidae,Chilopoda
+Blattodea,Chilopoda
+Diplopoda,Chilopoda
+Crocidura sp.,Chilopoda
+Rhabdomys pumilio,Chilopoda
+Steatomys pratensis,Chilopoda
+Decaying material,Blattodea
+Coleoptera,Phrynobatrachus mababiensis
+Araneidae,Phrynobatrachus mababiensis
+Formicidae,Phrynobatrachus mababiensis
+Hodotermes sp.,Phrynobatrachus mababiensis
+Diptera,Phrynobatrachus mababiensis
+Gryllidae,Phrynobatrachus mababiensis
+Decaying material,Diplopoda
+Fruits and nectar,Diplopoda
+Coleoptera,Crocidura sp.
+Araneidae,Crocidura sp.
+Formicidae,Crocidura sp.
+Gryllidae,Crocidura sp.
+Heteroptera,Crocidura sp.
+Diplopoda,Crocidura sp.
+Diptera,Pipistrellus nanus
+Araneidae,Scorpiones
+Diptera,Scorpiones
+Heteroptera,Scorpiones
+Coleoptera,Empidonax wrightii
+Formicidae,Empidonax wrightii
+Hodotermes sp.,Empidonax wrightii
+Diptera,Empidonax wrightii
+Gryllidae,Empidonax wrightii
+Diplopoda,Empidonax wrightii
+Fruits and nectar,Apalis flavida
+Grains and seeds,Apalis flavida
+Coleoptera,Apalis flavida
+Araneidae,Apalis flavida
+Formicidae,Apalis flavida
+Hodotermes sp.,Apalis flavida
+Diptera,Apalis flavida
+Gryllidae,Apalis flavida
+Heteroptera,Apalis flavida
+Tettigoniidae,Apalis flavida
+Lygodactylus capensis,Apalis flavida
+Fruits and nectar,Eremomela icteropygialis
+Grains and seeds,Eremomela icteropygialis
+Coleoptera,Eremomela icteropygialis
+Araneidae,Eremomela icteropygialis
+Formicidae,Eremomela icteropygialis
+Hodotermes sp.,Eremomela icteropygialis
+Diptera,Eremomela icteropygialis
+Gryllidae,Eremomela icteropygialis
+Heteroptera,Eremomela icteropygialis
+Tettigoniidae,Eremomela icteropygialis
+Mantidae,Eremomela icteropygialis
+Phrynobatrachus mababiensis,Eremomela icteropygialis
+Apalis flavida,Eremomela icteropygialis
+Lygodactylus capensis,Eremomela icteropygialis
+Fruits and nectar,Sylvietta whytii
+Grains and seeds,Sylvietta whytii
+Coleoptera,Charadrius tricollaris
+Araneidae,Charadrius tricollaris
+Diptera,Charadrius tricollaris
+Gryllidae,Charadrius tricollaris
+Heteroptera,Charadrius tricollaris
+Diplopoda,Charadrius tricollaris
+Decapoda,Charadrius tricollaris
+Fruits and nectar,Micropteropus pusillus
+Grass and herbs,Rhabdomys pumilio
+Trees and shrubs,Rhabdomys pumilio
+Decaying material,Steatomys pratensis
+Fruits and nectar,Steatomys pratensis
+Grains and seeds,Steatomys pratensis
+Grass and herbs,Steatomys pratensis
+Trees and shrubs,Steatomys pratensis
+Coleoptera,Steatomys pratensis
+Formicidae,Steatomys pratensis
+Hodotermes sp.,Steatomys pratensis
+Gryllidae,Steatomys pratensis
+Blattodea,Steatomys pratensis
+Decaying material,Xenopus muelleri
+Coleoptera,Xenopus muelleri
+Araneidae,Xenopus muelleri
+Gryllidae,Xenopus muelleri
+Tettigoniidae,Xenopus muelleri
+Phrynobatrachus mababiensis,Xenopus muelleri
+Perciformes,Xenopus muelleri
+Fruits and nectar,Anas capensis
+Grains and seeds,Anas capensis
+Trees and shrubs,Anas capensis
+Formicidae,Anas capensis
+Gryllidae,Anas capensis
+Diplopoda,Anas capensis
+Araneidae,Lygodactylus capensis
+Formicidae,Lygodactylus capensis
+Diptera,Lygodactylus capensis
+Gryllidae,Lygodactylus capensis
+Heteroptera,Lygodactylus capensis
+Decaying material,Decapoda
+Diplopoda,Decapoda
+Decaying material,Pelomys fallax
+Coleoptera,Pelomys fallax
+Araneidae,Pelomys fallax
+Formicidae,Pelomys fallax
+Hodotermes sp.,Pelomys fallax
+Gryllidae,Pelomys fallax
+Chilopoda,Pelomys fallax
+Blattodea,Pelomys fallax
+Diplopoda,Pelomys fallax
+Decaying material,Perciformes
+Phrynobatrachus mababiensis,Psammophis angolensis
+Eremomela icteropygialis,Psammophis angolensis
+Rhabdomys pumilio,Psammophis angolensis
+Steatomys pratensis,Psammophis angolensis
+Perciformes,Psammophis angolensis
+Rhamphiophis oxyrhynchus,Psammophis angolensis
+Coleoptera,Glaucidium perlatum
+Diptera,Glaucidium perlatum
+Gryllidae,Glaucidium perlatum
+Heteroptera,Glaucidium perlatum
+Tettigoniidae,Glaucidium perlatum
+Phrynobatrachus mababiensis,Glaucidium perlatum
+Diplopoda,Glaucidium perlatum
+Crocidura sp.,Glaucidium perlatum
+Pipistrellus nanus,Glaucidium perlatum
+Scorpiones,Glaucidium perlatum
+Empidonax wrightii,Glaucidium perlatum
+Apalis flavida,Glaucidium perlatum
+Eremomela icteropygialis,Glaucidium perlatum
+Rhabdomys pumilio,Glaucidium perlatum
+Steatomys pratensis,Glaucidium perlatum
+Xenopus muelleri,Glaucidium perlatum
+Anas capensis,Glaucidium perlatum
+Lygodactylus capensis,Glaucidium perlatum
+Psammophis angolensis,Glaucidium perlatum
+Rhamphiophis oxyrhynchus,Glaucidium perlatum
+Grains and seeds,Pterocles gutturalis
+Apalis flavida,Poecilogale albinucha
+Eremomela icteropygialis,Poecilogale albinucha
+Rhabdomys pumilio,Poecilogale albinucha
+Steatomys pratensis,Poecilogale albinucha
+Anas capensis,Poecilogale albinucha
+Fruits and nectar,Pedetes capensis
+Grass and herbs,Pedetes capensis
+Gryllidae,Pedetes capensis
+Fruits and nectar,Tockus nasutus epirhinus
+Grains and seeds,Tockus nasutus epirhinus
+Grass and herbs,Tockus nasutus epirhinus
+Coleoptera,Tockus nasutus epirhinus
+Araneidae,Tockus nasutus epirhinus
+Diptera,Tockus nasutus epirhinus
+Gryllidae,Tockus nasutus epirhinus
+Heteroptera,Tockus nasutus epirhinus
+Tettigoniidae,Tockus nasutus epirhinus
+Phrynobatrachus mababiensis,Tockus nasutus epirhinus
+Anas capensis,Tockus nasutus epirhinus
+Decapoda,Tockus nasutus epirhinus
+Perciformes,Tockus nasutus epirhinus
+Grains and seeds,Francolinus coqui
+Hodotermes sp.,Francolinus coqui
+Formicidae,Rhamphiophis oxyrhynchus
+Hodotermes sp.,Rhamphiophis oxyrhynchus
+Phrynobatrachus mababiensis,Rhamphiophis oxyrhynchus
+Diplopoda,Rhamphiophis oxyrhynchus
+Apalis flavida,Rhamphiophis oxyrhynchus
+Eremomela icteropygialis,Rhamphiophis oxyrhynchus
+Sylvietta whytii,Rhamphiophis oxyrhynchus
+Rhabdomys pumilio,Rhamphiophis oxyrhynchus
+Steatomys pratensis,Rhamphiophis oxyrhynchus
+Anas capensis,Rhamphiophis oxyrhynchus
+Lygodactylus capensis,Rhamphiophis oxyrhynchus
+Psammophis angolensis,Rhamphiophis oxyrhynchus
+Grains and seeds,Atelerix albiventris
+Coleoptera,Atelerix albiventris
+Araneidae,Atelerix albiventris
+Gryllidae,Atelerix albiventris
+Crocidura sp.,Atelerix albiventris
+Rhabdomys pumilio,Atelerix albiventris
+Steatomys pratensis,Atelerix albiventris
+Coleoptera,Tachybaptus ruficollis
+Diptera,Tachybaptus ruficollis
+Phrynobatrachus mababiensis,Tachybaptus ruficollis
+Diplopoda,Tachybaptus ruficollis
+Crocidura sp.,Tachybaptus ruficollis
+Rhabdomys pumilio,Tachybaptus ruficollis
+Steatomys pratensis,Tachybaptus ruficollis
+Xenopus muelleri,Tachybaptus ruficollis
+Lygodactylus capensis,Tachybaptus ruficollis
+Decapoda,Tachybaptus ruficollis
+Perciformes,Tachybaptus ruficollis
+Psammophis angolensis,Tachybaptus ruficollis
+Fruits and nectar,Eupodottis senegalensis
+Grains and seeds,Eupodottis senegalensis
+Coleoptera,Eupodottis senegalensis
+Araneidae,Eupodottis senegalensis
+Gryllidae,Eupodottis senegalensis
+Tettigoniidae,Eupodottis senegalensis
+Phrynobatrachus mababiensis,Eupodottis senegalensis
+Diplopoda,Eupodottis senegalensis
+Rhabdomys pumilio,Eupodottis senegalensis
+Steatomys pratensis,Eupodottis senegalensis
+Lygodactylus capensis,Eupodottis senegalensis
+Psammophis angolensis,Eupodottis senegalensis
+Rhamphiophis oxyrhynchus,Eupodottis senegalensis
+Grass and herbs,Heterohyrax brucei
+Trees and shrubs,Heterohyrax brucei
+Grass and herbs,Procavia johnstoni
+Trees and shrubs,Procavia johnstoni
+Crocidura sp.,Asio capensis
+Empidonax wrightii,Asio capensis
+Apalis flavida,Asio capensis
+Eremomela icteropygialis,Asio capensis
+Sylvietta whytii,Asio capensis
+Charadrius tricollaris,Asio capensis
+Rhabdomys pumilio,Asio capensis
+Steatomys pratensis,Asio capensis
+Anas capensis,Asio capensis
+Lygodactylus capensis,Asio capensis
+Pterocles gutturalis,Asio capensis
+Poecilogale albinucha,Asio capensis
+Atelerix albiventris,Asio capensis
+Tachybaptus ruficollis,Asio capensis
+Eupodottis senegalensis,Asio capensis
+Helogale parvula,Asio capensis
+Pronolagus rupestris,Asio capensis
+Otolemur crassicaudatus,Asio capensis
+Otocyon megalotis,Asio capensis
+Lutra maculicollis,Asio capensis
+Varanus niloticus,Asio capensis
+Ardeotis kori,Asio capensis
+Colobus guereza,Asio capensis
+Dendroaspis polylepis,Asio capensis
+Fruits and nectar,Helogale parvula
+Coleoptera,Helogale parvula
+Araneidae,Helogale parvula
+Formicidae,Helogale parvula
+Hodotermes sp.,Helogale parvula
+Diptera,Helogale parvula
+Gryllidae,Helogale parvula
+Tettigoniidae,Helogale parvula
+Chilopoda,Helogale parvula
+Phrynobatrachus mababiensis,Helogale parvula
+Diplopoda,Helogale parvula
+Crocidura sp.,Helogale parvula
+Micropteropus pusillus,Helogale parvula
+Rhabdomys pumilio,Helogale parvula
+Steatomys pratensis,Helogale parvula
+Xenopus muelleri,Helogale parvula
+Lygodactylus capensis,Helogale parvula
+Decapoda,Helogale parvula
+Pelomys fallax,Helogale parvula
+Perciformes,Helogale parvula
+Psammophis angolensis,Helogale parvula
+Rhamphiophis oxyrhynchus,Helogale parvula
+Eupodottis senegalensis,Helogale parvula
+Heterohyrax brucei,Helogale parvula
+Procavia johnstoni,Helogale parvula
+Pronolagus rupestris,Helogale parvula
+Crocidura sp.,Necrosyrtes monachus
+Eremomela icteropygialis,Necrosyrtes monachus
+Sylvietta whytii,Necrosyrtes monachus
+Charadrius tricollaris,Necrosyrtes monachus
+Rhabdomys pumilio,Necrosyrtes monachus
+Steatomys pratensis,Necrosyrtes monachus
+Anas capensis,Necrosyrtes monachus
+Eupodottis senegalensis,Necrosyrtes monachus
+Heterohyrax brucei,Necrosyrtes monachus
+Procavia johnstoni,Necrosyrtes monachus
+Pronolagus rupestris,Necrosyrtes monachus
+Lutra maculicollis,Necrosyrtes monachus
+Ardeotis kori,Necrosyrtes monachus
+Colobus guereza,Necrosyrtes monachus
+Dendroaspis polylepis,Necrosyrtes monachus
+Grass and herbs,Pronolagus rupestris
+Trees and shrubs,Pronolagus rupestris
+Phrynobatrachus mababiensis,Haliaeetus vocifer
+Crocidura sp.,Haliaeetus vocifer
+Charadrius tricollaris,Haliaeetus vocifer
+Rhabdomys pumilio,Haliaeetus vocifer
+Steatomys pratensis,Haliaeetus vocifer
+Xenopus muelleri,Haliaeetus vocifer
+Lygodactylus capensis,Haliaeetus vocifer
+Perciformes,Haliaeetus vocifer
+Psammophis angolensis,Haliaeetus vocifer
+Tockus nasutus epirhinus,Haliaeetus vocifer
+Rhamphiophis oxyrhynchus,Haliaeetus vocifer
+Psammobates pardalis,Haliaeetus vocifer
+Plant juices,Otolemur crassicaudatus
+Fruits and nectar,Otolemur crassicaudatus
+Grains and seeds,Otolemur crassicaudatus
+Coleoptera,Otolemur crassicaudatus
+Gryllidae,Otolemur crassicaudatus
+Diplopoda,Otolemur crassicaudatus
+Eremomela icteropygialis,Otolemur crassicaudatus
+Steatomys pratensis,Otolemur crassicaudatus
+Anas capensis,Otolemur crassicaudatus
+Lygodactylus capensis,Otolemur crassicaudatus
+Pronolagus rupestris,Otolemur crassicaudatus
+Hodotermes sp.,Leptoptilos crumeniferus
+Gryllidae,Leptoptilos crumeniferus
+Tettigoniidae,Leptoptilos crumeniferus
+Phrynobatrachus mababiensis,Leptoptilos crumeniferus
+Crocidura sp.,Leptoptilos crumeniferus
+Rhabdomys pumilio,Leptoptilos crumeniferus
+Steatomys pratensis,Leptoptilos crumeniferus
+Xenopus muelleri,Leptoptilos crumeniferus
+Anas capensis,Leptoptilos crumeniferus
+Perciformes,Leptoptilos crumeniferus
+Psammophis angolensis,Leptoptilos crumeniferus
+Rhamphiophis oxyrhynchus,Leptoptilos crumeniferus
+Coleoptera,Bucorvus leadbeateri
+Araneidae,Bucorvus leadbeateri
+Diptera,Bucorvus leadbeateri
+Gryllidae,Bucorvus leadbeateri
+Tettigoniidae,Bucorvus leadbeateri
+Phrynobatrachus mababiensis,Bucorvus leadbeateri
+Diplopoda,Bucorvus leadbeateri
+Crocidura sp.,Bucorvus leadbeateri
+Rhabdomys pumilio,Bucorvus leadbeateri
+Steatomys pratensis,Bucorvus leadbeateri
+Xenopus muelleri,Bucorvus leadbeateri
+Lygodactylus capensis,Bucorvus leadbeateri
+Psammobates pardalis,Bucorvus leadbeateri
+Dendroaspis polylepis,Bucorvus leadbeateri
+Formicidae,Otocyon megalotis
+Hodotermes sp.,Otocyon megalotis
+Gryllidae,Otocyon megalotis
+Chilopoda,Otocyon megalotis
+Diplopoda,Otocyon megalotis
+Scorpiones,Otocyon megalotis
+Eremomela icteropygialis,Otocyon megalotis
+Rhabdomys pumilio,Otocyon megalotis
+Steatomys pratensis,Otocyon megalotis
+Lygodactylus capensis,Otocyon megalotis
+Psammophis angolensis,Otocyon megalotis
+Rhamphiophis oxyrhynchus,Otocyon megalotis
+Eupodottis senegalensis,Otocyon megalotis
+Pronolagus rupestris,Otocyon megalotis
+Decapoda,Lutra maculicollis
+Perciformes,Lutra maculicollis
+Grains and seeds,Psammobates pardalis
+Grass and herbs,Psammobates pardalis
+Coleoptera,Psammobates pardalis
+Gryllidae,Psammobates pardalis
+Phrynobatrachus mababiensis,Psammobates pardalis
+Diplopoda,Psammobates pardalis
+Xenopus muelleri,Psammobates pardalis
+Lygodactylus capensis,Psammobates pardalis
+Decapoda,Psammobates pardalis
+Perciformes,Psammobates pardalis
+Decaying material,Gyps africanus
+Eremomela icteropygialis,Gyps rueppellii
+Charadrius tricollaris,Gyps rueppellii
+Rhabdomys pumilio,Gyps rueppellii
+Steatomys pratensis,Gyps rueppellii
+Anas capensis,Gyps rueppellii
+Lygodactylus capensis,Gyps rueppellii
+Perciformes,Gyps rueppellii
+Pronolagus rupestris,Gyps rueppellii
+Coleoptera,Varanus niloticus
+Gryllidae,Varanus niloticus
+Tettigoniidae,Varanus niloticus
+Blattodea,Varanus niloticus
+Phrynobatrachus mababiensis,Varanus niloticus
+Rhabdomys pumilio,Varanus niloticus
+Steatomys pratensis,Varanus niloticus
+Xenopus muelleri,Varanus niloticus
+Anas capensis,Varanus niloticus
+Decapoda,Varanus niloticus
+Psammophis angolensis,Varanus niloticus
+Fruits and nectar,Ardeotis kori
+Lygodactylus capensis,Ardeotis kori
+Decaying material,Colobus guereza
+Fruits and nectar,Colobus guereza
+Trees and shrubs,Colobus guereza
+Diplopoda,Colobus guereza
+Decaying material,Canis mesomelas
+Coleoptera,Canis mesomelas
+Araneidae,Canis mesomelas
+Formicidae,Canis mesomelas
+Hodotermes sp.,Canis mesomelas
+Diptera,Canis mesomelas
+Gryllidae,Canis mesomelas
+Blattodea,Canis mesomelas
+Phrynobatrachus mababiensis,Canis mesomelas
+Diplopoda,Canis mesomelas
+Crocidura sp.,Canis mesomelas
+Scorpiones,Canis mesomelas
+Rhabdomys pumilio,Canis mesomelas
+Steatomys pratensis,Canis mesomelas
+Xenopus muelleri,Canis mesomelas
+Lygodactylus capensis,Canis mesomelas
+Decapoda,Canis mesomelas
+Perciformes,Canis mesomelas
+Psammophis angolensis,Canis mesomelas
+Rhamphiophis oxyrhynchus,Canis mesomelas
+Atelerix albiventris,Canis mesomelas
+Tachybaptus ruficollis,Canis mesomelas
+Eupodottis senegalensis,Canis mesomelas
+Pronolagus rupestris,Canis mesomelas
+Psammobates pardalis,Canis mesomelas
+Ardeotis kori,Canis mesomelas
+Madoqua kirkii,Canis mesomelas
+Decaying material,Canis aureus
+Coleoptera,Canis aureus
+Araneidae,Canis aureus
+Formicidae,Canis aureus
+Hodotermes sp.,Canis aureus
+Diptera,Canis aureus
+Gryllidae,Canis aureus
+Blattodea,Canis aureus
+Phrynobatrachus mababiensis,Canis aureus
+Diplopoda,Canis aureus
+Crocidura sp.,Canis aureus
+Scorpiones,Canis aureus
+Rhabdomys pumilio,Canis aureus
+Steatomys pratensis,Canis aureus
+Xenopus muelleri,Canis aureus
+Lygodactylus capensis,Canis aureus
+Decapoda,Canis aureus
+Perciformes,Canis aureus
+Psammophis angolensis,Canis aureus
+Rhamphiophis oxyrhynchus,Canis aureus
+Atelerix albiventris,Canis aureus
+Tachybaptus ruficollis,Canis aureus
+Eupodottis senegalensis,Canis aureus
+Pronolagus rupestris,Canis aureus
+Psammobates pardalis,Canis aureus
+Ardeotis kori,Canis aureus
+Madoqua kirkii,Canis aureus
+Gazella thomsoni,Canis aureus
+Gazella granti,Canis aureus
+Connochaetes taurinus,Canis aureus
+Equus burchelli,Canis aureus
+Formicidae,Smutsia temminckii
+Hodotermes sp.,Smutsia temminckii
+Rhabdomys pumilio,Smutsia temminckii
+Steatomys pratensis,Smutsia temminckii
+Decaying material,Leptailurus serval
+Rhabdomys pumilio,Leptailurus serval
+Steatomys pratensis,Leptailurus serval
+Anas capensis,Leptailurus serval
+Lygodactylus capensis,Leptailurus serval
+Perciformes,Leptailurus serval
+Psammophis angolensis,Leptailurus serval
+Francolinus coqui,Leptailurus serval
+Eupodottis senegalensis,Leptailurus serval
+Heterohyrax brucei,Leptailurus serval
+Pronolagus rupestris,Leptailurus serval
+Madoqua kirkii,Leptailurus serval
+Decaying material,Aonyx capensis
+Phrynobatrachus mababiensis,Aonyx capensis
+Diplopoda,Aonyx capensis
+Rhabdomys pumilio,Aonyx capensis
+Steatomys pratensis,Aonyx capensis
+Xenopus muelleri,Aonyx capensis
+Decapoda,Aonyx capensis
+Perciformes,Aonyx capensis
+Tockus nasutus epirhinus,Aonyx capensis
+Psammobates pardalis,Aonyx capensis
+Decaying material,Caracal caracal
+Rhabdomys pumilio,Caracal caracal
+Steatomys pratensis,Caracal caracal
+Pedetes capensis,Caracal caracal
+Heterohyrax brucei,Caracal caracal
+Procavia johnstoni,Caracal caracal
+Pronolagus rupestris,Caracal caracal
+Madoqua kirkii,Caracal caracal
+Fruits and nectar,Papio anubis
+Grass and herbs,Papio anubis
+Trees and shrubs,Papio anubis
+Gryllidae,Papio anubis
+Fruits and nectar,Madoqua kirkii
+Grains and seeds,Madoqua kirkii
+Grass and herbs,Madoqua kirkii
+Trees and shrubs,Madoqua kirkii
+Fruits and nectar,Hystrix cristata
+Grains and seeds,Hystrix cristata
+Fruits and nectar,Ourebia ourebi
+Grains and seeds,Ourebia ourebi
+Grass and herbs,Ourebia ourebi
+Trees and shrubs,Ourebia ourebi
+Grass and herbs,Gazella thomsoni
+Trees and shrubs,Gazella thomsoni
+Decaying material,Lycaon pictus
+Apalis flavida,Lycaon pictus
+Eremomela icteropygialis,Lycaon pictus
+Rhabdomys pumilio,Lycaon pictus
+Steatomys pratensis,Lycaon pictus
+Eupodottis senegalensis,Lycaon pictus
+Pronolagus rupestris,Lycaon pictus
+Madoqua kirkii,Lycaon pictus
+Hystrix cristata,Lycaon pictus
+Ourebia ourebi,Lycaon pictus
+Gazella thomsoni,Lycaon pictus
+Orycteropus afer,Lycaon pictus
+Tragelaphus scriptus,Lycaon pictus
+Redunca redunca,Lycaon pictus
+Gazella granti,Lycaon pictus
+Aepyceros melampus,Lycaon pictus
+Phacochoerus africanus,Lycaon pictus
+Potamochoerus larvatus,Lycaon pictus
+Struthio camelus,Lycaon pictus
+Damaliscus lunatus,Lycaon pictus
+Alcelaphus buselaphus,Lycaon pictus
+Connochaetes taurinus,Lycaon pictus
+Kobus ellipsiprymnus,Lycaon pictus
+Equus burchelli,Lycaon pictus
+Phrynobatrachus mababiensis,Dendroaspis polylepis
+Apalis flavida,Dendroaspis polylepis
+Eremomela icteropygialis,Dendroaspis polylepis
+Sylvietta whytii,Dendroaspis polylepis
+Charadrius tricollaris,Dendroaspis polylepis
+Rhabdomys pumilio,Dendroaspis polylepis
+Steatomys pratensis,Dendroaspis polylepis
+Xenopus muelleri,Dendroaspis polylepis
+Anas capensis,Dendroaspis polylepis
+Lygodactylus capensis,Dendroaspis polylepis
+Perciformes,Dendroaspis polylepis
+Psammophis angolensis,Dendroaspis polylepis
+Rhamphiophis oxyrhynchus,Dendroaspis polylepis
+Heterohyrax brucei,Dendroaspis polylepis
+Procavia johnstoni,Dendroaspis polylepis
+Lutra maculicollis,Dendroaspis polylepis
+Colobus guereza,Dendroaspis polylepis
+Papio anubis,Dendroaspis polylepis
+Hystrix cristata,Dendroaspis polylepis
+Decaying material,Hyaena hyaena
+Coleoptera,Hyaena hyaena
+Hodotermes sp.,Hyaena hyaena
+Diptera,Hyaena hyaena
+Gryllidae,Hyaena hyaena
+Heteroptera,Hyaena hyaena
+Tettigoniidae,Hyaena hyaena
+Rhabdomys pumilio,Hyaena hyaena
+Steatomys pratensis,Hyaena hyaena
+Decapoda,Hyaena hyaena
+Pelomys fallax,Hyaena hyaena
+Pedetes capensis,Hyaena hyaena
+Pronolagus rupestris,Hyaena hyaena
+Otocyon megalotis,Hyaena hyaena
+Decaying material,Crocuta crocuta
+Madoqua kirkii,Crocuta crocuta
+Ourebia ourebi,Crocuta crocuta
+Gazella thomsoni,Crocuta crocuta
+Redunca redunca,Crocuta crocuta
+Gazella granti,Crocuta crocuta
+Aepyceros melampus,Crocuta crocuta
+Phacochoerus africanus,Crocuta crocuta
+Potamochoerus larvatus,Crocuta crocuta
+Damaliscus lunatus,Crocuta crocuta
+Alcelaphus buselaphus,Crocuta crocuta
+Connochaetes taurinus,Crocuta crocuta
+Kobus ellipsiprymnus,Crocuta crocuta
+Equus burchelli,Crocuta crocuta
+Panthera leo Y,Crocuta crocuta
+Formicidae,Orycteropus afer
+Hodotermes sp.,Orycteropus afer
+Decaying material,Acinonyx jubatus
+Madoqua kirkii,Acinonyx jubatus
+Ourebia ourebi,Acinonyx jubatus
+Gazella thomsoni,Acinonyx jubatus
+Redunca redunca,Acinonyx jubatus
+Gazella granti,Acinonyx jubatus
+Aepyceros melampus,Acinonyx jubatus
+Phacochoerus africanus,Acinonyx jubatus
+Potamochoerus larvatus,Acinonyx jubatus
+Struthio camelus,Acinonyx jubatus
+Connochaetes taurinus,Acinonyx jubatus
+Decaying material,Panthera pardus
+Phrynobatrachus mababiensis,Panthera pardus
+Rhabdomys pumilio,Panthera pardus
+Steatomys pratensis,Panthera pardus
+Xenopus muelleri,Panthera pardus
+Lygodactylus capensis,Panthera pardus
+Perciformes,Panthera pardus
+Eupodottis senegalensis,Panthera pardus
+Heterohyrax brucei,Panthera pardus
+Procavia johnstoni,Panthera pardus
+Pronolagus rupestris,Panthera pardus
+Otolemur crassicaudatus,Panthera pardus
+Bucorvus leadbeateri,Panthera pardus
+Psammobates pardalis,Panthera pardus
+Ardeotis kori,Panthera pardus
+Colobus guereza,Panthera pardus
+Canis mesomelas,Panthera pardus
+Canis aureus,Panthera pardus
+Smutsia temminckii,Panthera pardus
+Leptailurus serval,Panthera pardus
+Papio anubis,Panthera pardus
+Madoqua kirkii,Panthera pardus
+Hystrix cristata,Panthera pardus
+Ourebia ourebi,Panthera pardus
+Gazella thomsoni,Panthera pardus
+Acinonyx jubatus,Panthera pardus
+Tragelaphus scriptus,Panthera pardus
+Redunca redunca,Panthera pardus
+Gazella granti,Panthera pardus
+Aepyceros melampus,Panthera pardus
+Phacochoerus africanus,Panthera pardus
+Potamochoerus larvatus,Panthera pardus
+Damaliscus lunatus,Panthera pardus
+Alcelaphus buselaphus,Panthera pardus
+Connochaetes taurinus,Panthera pardus
+Kobus ellipsiprymnus,Panthera pardus
+Equus burchelli,Panthera pardus
+Taurotragus oryx,Panthera pardus
+Fruits and nectar,Tragelaphus scriptus
+Grass and herbs,Tragelaphus scriptus
+Trees and shrubs,Tragelaphus scriptus
+Grains and seeds,Redunca redunca
+Grass and herbs,Redunca redunca
+Trees and shrubs,Redunca redunca
+Fruits and nectar,Gazella granti
+Grass and herbs,Gazella granti
+Trees and shrubs,Gazella granti
+Grains and seeds,Aepyceros melampus
+Grass and herbs,Aepyceros melampus
+Trees and shrubs,Aepyceros melampus
+Decaying material,Phacochoerus africanus
+Fruits and nectar,Phacochoerus africanus
+Grains and seeds,Phacochoerus africanus
+Grass and herbs,Phacochoerus africanus
+Trees and shrubs,Phacochoerus africanus
+Rhabdomys pumilio,Phacochoerus africanus
+Steatomys pratensis,Phacochoerus africanus
+Anas capensis,Phacochoerus africanus
+Decaying material,Potamochoerus larvatus
+Fruits and nectar,Potamochoerus larvatus
+Grains and seeds,Potamochoerus larvatus
+Rhabdomys pumilio,Potamochoerus larvatus
+Steatomys pratensis,Potamochoerus larvatus
+Anas capensis,Potamochoerus larvatus
+Fruits and nectar,Struthio camelus
+Grains and seeds,Struthio camelus
+Grass and herbs,Struthio camelus
+Trees and shrubs,Struthio camelus
+Gryllidae,Struthio camelus
+Decaying material,Panthera leo
+Bucorvus leadbeateri,Panthera leo
+Ardeotis kori,Panthera leo
+Madoqua kirkii,Panthera leo
+Ourebia ourebi,Panthera leo
+Gazella thomsoni,Panthera leo
+Crocuta crocuta,Panthera leo
+Tragelaphus scriptus,Panthera leo
+Redunca redunca,Panthera leo
+Gazella granti,Panthera leo
+Aepyceros melampus,Panthera leo
+Phacochoerus africanus,Panthera leo
+Potamochoerus larvatus,Panthera leo
+Struthio camelus,Panthera leo
+Damaliscus lunatus,Panthera leo
+Alcelaphus buselaphus,Panthera leo
+Connochaetes taurinus,Panthera leo
+Kobus ellipsiprymnus,Panthera leo
+Equus burchelli,Panthera leo
+Syncerus caffer,Panthera leo
+Taurotragus oryx,Panthera leo
+Giraffa camelopardalis,Panthera leo
+Panthera leo Y,Panthera leo
+Decaying material,Panthera leo J
+Rhabdomys pumilio,Panthera leo J
+Steatomys pratensis,Panthera leo J
+Bucorvus leadbeateri,Panthera leo J
+Ardeotis kori,Panthera leo J
+Madoqua kirkii,Panthera leo J
+Ourebia ourebi,Panthera leo J
+Gazella thomsoni,Panthera leo J
+Tragelaphus scriptus,Panthera leo J
+Redunca redunca,Panthera leo J
+Gazella granti,Panthera leo J
+Aepyceros melampus,Panthera leo J
+Phacochoerus africanus,Panthera leo J
+Potamochoerus larvatus,Panthera leo J
+Decaying material,Panthera leo Y
+Gazella thomsoni,Panthera leo Y
+Crocuta crocuta,Panthera leo Y
+Tragelaphus scriptus,Panthera leo Y
+Redunca redunca,Panthera leo Y
+Gazella granti,Panthera leo Y
+Aepyceros melampus,Panthera leo Y
+Phacochoerus africanus,Panthera leo Y
+Potamochoerus larvatus,Panthera leo Y
+Struthio camelus,Panthera leo Y
+Damaliscus lunatus,Panthera leo Y
+Alcelaphus buselaphus,Panthera leo Y
+Connochaetes taurinus,Panthera leo Y
+Kobus ellipsiprymnus,Panthera leo Y
+Equus burchelli,Panthera leo Y
+Syncerus caffer,Panthera leo Y
+Taurotragus oryx,Panthera leo Y
+Giraffa camelopardalis,Panthera leo Y
+Grass and herbs,Damaliscus lunatus
+Trees and shrubs,Damaliscus lunatus
+Grass and herbs,Alcelaphus buselaphus
+Trees and shrubs,Alcelaphus buselaphus
+Grass and herbs,Connochaetes taurinus
+Trees and shrubs,Connochaetes taurinus
+Fruits and nectar,Kobus ellipsiprymnus
+Grass and herbs,Kobus ellipsiprymnus
+Trees and shrubs,Kobus ellipsiprymnus
+Grass and herbs,Equus burchelli
+Trees and shrubs,Equus burchelli
+Grass and herbs,Syncerus caffer
+Trees and shrubs,Syncerus caffer
+Fruits and nectar,Taurotragus oryx
+Grains and seeds,Taurotragus oryx
+Grass and herbs,Taurotragus oryx
+Trees and shrubs,Taurotragus oryx
+Perciformes,Crocodylus niloticus
+Otolemur crassicaudatus,Crocodylus niloticus
+Lutra maculicollis,Crocodylus niloticus
+Aonyx capensis,Crocodylus niloticus
+Panthera pardus,Crocodylus niloticus
+Tragelaphus scriptus,Crocodylus niloticus
+Redunca redunca,Crocodylus niloticus
+Aepyceros melampus,Crocodylus niloticus
+Damaliscus lunatus,Crocodylus niloticus
+Alcelaphus buselaphus,Crocodylus niloticus
+Connochaetes taurinus,Crocodylus niloticus
+Kobus ellipsiprymnus,Crocodylus niloticus
+Equus burchelli,Crocodylus niloticus
+Trees and shrubs,Giraffa camelopardalis
+Grass and herbs,Diceros bicornis
+Trees and shrubs,Diceros bicornis
+Grass and herbs,Hippopotamus amphibius
+Grass and herbs,Loxodonta africana
+Trees and shrubs,Loxodonta africana

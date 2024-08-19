@@ -1,0 +1,107 @@
+node,name,ID,Higher-level.taxon,Resolved.to,Trophic.role,Habitat,M
+Decaying material,Decaying material,1,NA,NA,organics,NA,NA
+Plant juices,Plant juices,2,Plantae,NA,organics,Terrestrial,NA
+Fruits and nectar,Fruits and nectar,3,Plantae,NA,organics,Terrestrial,NA
+Grains and seeds,Grains and seeds,4,Plantae,NA,organics,Terrestrial,NA
+Grass and herbs,Grass and herbs,5,Plantae,NA,autotroph,Terrestrial,NA
+Trees and shrubs,Trees and shrubs,7,Plantae,NA,autotroph,Terrestrial,NA
+Thripidae,Thrips,8,Arthropoda,family,herbivore,Terrestrial,NA
+Coleoptera,Rove- and ground beetles,9,Arthropoda,order,omnivore,Terrestrial,0.00017
+Araneidae,Orb-weaver spiders,10,Arthropoda,family,invertivore,Terrestrial,0.0051086
+Formicidae,Ants,11,Arthropoda,family,omnivore,Terrestrial,0.000174474
+Hodotermes sp.,Harvester termites,12,Arthropoda,genus,detritivore,Terrestrial,0.0000075
+Diptera,Flies,13,Arthropoda,order,herbivore,Terrestrial,0.00016517
+Gryllidae,Crickets,14,Arthropoda,family,omnivore,Terrestrial,0.0038951
+Heteroptera,Herbivorous true bugs,15,Arthropoda,suborder,herbivore,Terrestrial,0.00026153
+Tettigoniidae,Katydids,16,Arthropoda,family,omnivore,Terrestrial,0.0038951
+Mantidae,Praying mantids,17,Arthropoda,family,invertivore,Terrestrial,0.001061
+Chilopoda,Centipedes,18,Arthropoda,class,omnivore,Terrestrial,0.00027618
+Blattodea,Cockroaches,19,Arthropoda,order,detritivore,Terrestrial,0.001061
+Phrynobatrachus mababiensis,Dwarf puddle frog,20,Amphibia,species,invertivore,Semiaquatic,0.11
+Diplopoda,Millipedes,21,Arthropoda,class,detritivore,Terrestrial,0.00075
+Crocidura sp.,Shrew,22,Mammalia,genus,invertivore,Terrestrial,0.04
+Pipistrellus nanus,Banana pipistrelle,23,Mammalia,species,invertivore,Terrestrial,0.01
+Scorpiones,Scorpions,24,Arthropoda,order,invertivore,Terrestrial,0.015
+Empidonax wrightii,Gray flycatcher,25,Aves,species,invertivore,Terrestrial,NA
+Apalis flavida,Yellow-breasted apalis,26,Aves,species,omnivore,Terrestrial,0.0095
+Eremomela icteropygialis,Yellow-bellied eremomela,27,Aves,species,omnivore,Terrestrial,0.009
+Sylvietta whytii,Red-faced crombec,28,Aves,species,granivore,Terrestrial,0.0115
+Charadrius tricollaris,Three-banded plover,29,Aves,species,invertivore,Terrestrial,0.038
+Micropteropus pusillus,Dwarf epauletted fruit bat,30,Mammalia,species,frugivore,Terrestrial,0.04
+Rhabdomys pumilio,Four-striped grass mouse,96,Mammalia,species,herbivore,Terrestrial,0.041
+Steatomys pratensis,Fat mouse,31,Mammalia,species,omnivore,Terrestrial,0.03
+Xenopus muelleri,Mueller's clawed frog,32,Anura,species,omnivore,Semiaquatic,0.08
+Anas capensis,Cape teal,33,Aves,species,omnivore,Semiaquatic,0.59
+Lygodactylus capensis,Cape dwarf gecko,34,Sauria,species,invertivore,Terrestrial,0.175
+Decapoda,Crabs,35,Arthropoda,order,invertivore,Terrestrial,NA
+Pelomys fallax,Creek rat,36,Mammalia,species,invertivore,Terrestrial,0.151
+Perciformes,Fish e.g. catfish,37,Fish,order,carnivore,Aquatic,NA
+Psammophis angolensis,Dwarf sand snake,38,Sauria,species,carnivore,Terrestrial,NA
+Glaucidium perlatum,Pearl-spotted owlet,39,Aves,species,invertivore,Terrestrial,0.091
+Pterocles gutturalis,Yellow-throated sandgrouse,40,Aves,species,granivore,Terrestrial,0.4
+Poecilogale albinucha,Striped weasel,41,Mammalia,species,omnivore,Terrestrial,0.308
+Pedetes capensis,East African spring hare,97,Mammalia,species,omnivore,Terrestrial,4
+Tockus nasutus epirhinus,African grey hornbill,42,Aves,species,omnivore,Terrestrial,NA
+Francolinus coqui,Coqui francolin,43,Aves,species,omnivore,Terrestrial,NA
+Rhamphiophis oxyrhynchus,Rufous beaked snake,44,Sauria,species,omnivore,Terrestrial,1.5
+Atelerix albiventris,Four-toed African hedgehog,45,Mammalia,species,omnivore,Terrestrial,1.6
+Tachybaptus ruficollis,Little grebe,46,Aves,species,carnivore,Terrestrial,0.146
+Eupodottis senegalensis,White-bellied bustard,47,Aves,species,omnivore,Terrestrial,1
+Heterohyrax brucei,Bush hyrax,48,Mammalia,species,herbivore,Terrestrial,2.45
+Procavia johnstoni,Rock hyrax,112,Mammalia,species,herbivore,Terrestrial,2.95
+Asio capensis,African marsh owl,49,Aves,species,carnivore,Terrestrial,0.39
+Helogale parvula,Dwarf mongoose,50,Mammalia,species,omnivore,Terrestrial,0.35
+Necrosyrtes monachus,Hooded vulture,51,Aves,species,carnivore,Terrestrial,2.25
+Pronolagus rupestris,Smith's red rock hare,52,Mammalia,species,herbivore,Terrestrial,2.25
+Haliaeetus vocifer,African fish eagle,53,Aves,species,carnivore,Terrestrial,3.63
+Otolemur crassicaudatus,Greater bush baby,55,Mammalia,species,omnivore,Terrestrial,1.1
+Leptoptilos crumeniferus,Marabou stork,56,Aves,species,omnivore,Terrestrial,8.9
+Bucorvus leadbeateri,Southern ground hornbill,57,Aves,species,omnivore,Terrestrial,6.18
+Otocyon megalotis,Bat-eared fox,59,Mammalia,species,carnivore; invertivore,Terrestrial,4.098
+Lutra maculicollis,Spot-necked otter,60,Mammalia,species,carnivore,Semiaquatic,6.5
+Psammobates pardalis,Leopard tortoise,61,Sauria,species,omnivore,Terrestrial,33.2
+Gyps africanus,White-backed vulture,62,Aves,species,detritivore,Terrestrial,7.2
+Gyps rueppellii,Lappet-faced vulture,63,Aves,species,carnivore,Terrestrial,8.5
+Varanus niloticus,Nile monitor lizard,64,Sauria,species,carnivore; invertivore,Terrestrial,22.4
+Ardeotis kori,Kori bustard,65,Aves,species,omnivore,Terrestrial,15.2
+Colobus guereza,Black-and-white colobus monkey,66,Mammalia,species,omnivore,Terrestrial,9.925
+Canis mesomelas,Black-backed jackal,67,Mammalia,species,omnivore,Terrestrial,8.427
+Canis aureus,Common jackal,98,Mammalia,species,omnivore,Terrestrial,9.658
+Smutsia temminckii,Ground pangolin,68,Mammalia,species,invertivore,Terrestrial,11.9
+Leptailurus serval,Serval cat,69,Mammalia,species,carnivore,Terrestrial,12
+Aonyx capensis,African clawless otter,70,Mammalia,species,carnivore,Semiaquatic,19.322
+Caracal caracal,Caracal,99,Mammalia,species,carnivore,Terrestrial,11.964
+Papio anubis,Olive baboon,100,Mammalia,species,omnivore,Terrestrial,17.73
+Madoqua kirkii,Kirk's dikdik,71,Mammalia,species,herbivore,Terrestrial,5.3
+Hystrix cristata,Crested porcupine,72,Mammalia,species,granivore,Terrestrial,14.9
+Ourebia ourebi,Oribi,73,Mammalia,species,herbivore,Terrestrial,17.186
+Gazella thomsoni,Thomson's gazelle,101,Mammalia,species,herbivore,Terrestrial,20.5
+Lycaon pictus,African wild dog,74,Mammalia,species,carnivore,Terrestrial,22
+Dendroaspis polylepis,Black mamba,75,Sauria,species,carnivore,Terrestrial,30.758
+Hyaena hyaena,Striped hyena,77,Mammalia,species,omnivore,Terrestrial,35.07
+Crocuta crocuta,Spotted hyena,102,Mammalia,species,carnivore,Terrestrial,63.37
+Orycteropus afer,Aardvark,79,Mammalia,species,invertivore,Terrestrial,56.175
+Acinonyx jubatus,Cheetah,103,Mammalia,species,carnivore,Terrestrial,50.58
+Panthera pardus,Leopard,80,Mammalia,species,carnivore,Terrestrial,55
+Tragelaphus scriptus,Bushbuck,104,Mammalia,species,herbivore,Terrestrial,43.25
+Redunca redunca,Bohor reedbuck,82,Mammalia,species,herbivore,Terrestrial,58.06
+Gazella granti,Grant's gazelle,105,Mammalia,species,herbivore,Terrestrial,55
+Aepyceros melampus,Impala,106,Mammalia,species,herbivore,Terrestrial,52.59
+Phacochoerus africanus,Warthog,107,Mammalia,species,omnivore,Terrestrial,82.5
+Potamochoerus larvatus,Bushpig,83,Mammalia,species,omnivore,Terrestrial,97.5
+Struthio camelus,Ostrich,85,Aves,species,omnivore,Terrestrial,145
+Panthera leo,Lion,86,Mammalia,species,carnivore,Terrestrial,161.5
+Panthera leo J,Lion (juvenile),113,Mammalia,species,carnivore,Terrestrial,66
+Panthera leo Y,Lion (young juvenile),114,Mammalia,species,carnivore,Terrestrial,33
+Damaliscus lunatus,Topi,87,Mammalia,species,herbivore,Terrestrial,127.19
+Alcelaphus buselaphus,Kongoni,108,Mammalia,species,herbivore,Terrestrial,160.94
+Connochaetes taurinus,Wildebeest,109,Mammalia,species,herbivore,Terrestrial,180
+Kobus ellipsiprymnus,Waterbuck,110,Mammalia,species,herbivore,Terrestrial,210
+Equus burchelli,Plains zebra,111,Mammalia,species,herbivore,Terrestrial,400
+Syncerus caffer,Buffalo,88,Mammalia,species,herbivore,Terrestrial,592.67
+Taurotragus oryx,Southern eland,89,Mammalia,species,herbivore,Terrestrial,570
+Crocodylus niloticus,Nile crocodile,91,Sauria,species,carnivore,Semiaquatic,889.32
+Giraffa camelopardalis,Maasai giraffe,92,Mammalia,species,herbivore,Terrestrial,964.65
+Diceros bicornis,Black rhinoceros,93,Mammalia,species,herbivore,Terrestrial,1180.51
+Hippopotamus amphibius,Hippopotamus,94,Mammalia,species,herbivore,Semiaquatic,1536.31
+Loxodonta africana,African elephant,95,Mammalia,species,herbivore,Terrestrial,3940
